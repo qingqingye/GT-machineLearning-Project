@@ -1,0 +1,2901 @@
+,RegionName,State_x,Date,Price,County,State_y,Housing Inventory,State,UnemploymentRate
+0,Los Angeles County,CA,2018-01,607070,Los Angeles County,CA,14101,CA,4.9
+1,San Diego County,CA,2018-01,574762,San Diego County,CA,4560,CA,3.7
+2,Orange County,CA,2018-01,722234,Orange County,CA,5042,CA,3.3
+3,Riverside County,CA,2018-01,366823,Riverside County,CA,9560,CA,4.8
+4,San Bernardino County,CA,2018-01,330742,San Bernardino County,CA,7370,CA,4.5
+5,Santa Clara County,CA,2018-01,1247324,Santa Clara County,CA,1151,CA,3
+6,Alameda County,CA,2018-01,857716,Alameda County,CA,676,CA,3.4
+7,Sacramento County,CA,2018-01,359702,Sacramento County,CA,3565,CA,4.4
+8,Contra Costa County,CA,2018-01,680145,Contra Costa County,CA,1932,CA,3.6
+9,Fresno County,CA,2018-01,246716,Fresno County,CA,1707,CA,8.9
+10,Kern County,CA,2018-01,212024,Kern County,CA,2673,CA,9.4
+11,Ventura County,CA,2018-01,596750,Ventura County,CA,1964,CA,4.4
+12,San Francisco County,CA,2018-01,1329100,San Francisco County,CA,649,CA,2.8
+13,San Mateo County,CA,2018-01,1369522,San Mateo County,CA,520,CA,2.6
+14,San Joaquin County,CA,2018-01,345657,San Joaquin County,CA,1749,CA,7.2
+15,Stanislaus County,CA,2018-01,300203,Stanislaus County,CA,1232,CA,7.5
+16,Sonoma County,CA,2018-01,641325,Sonoma County,CA,584,CA,3.3
+17,Tulare County,CA,2018-01,208616,Tulare County,CA,1434,CA,11.4
+18,Santa Barbara County,CA,2018-01,613455,Santa Barbara County,CA,1217,CA,5.3
+19,Monterey County,CA,2018-01,554653,Monterey County,CA,891,CA,9.9
+20,Solano County,CA,2018-01,426237,Solano County,CA,619,CA,4.6
+21,Placer County,CA,2018-01,482725,Placer County,CA,1479,CA,3.6
+22,San Luis Obispo County,CA,2018-01,612460,San Luis Obispo County,CA,891,CA,3.5
+23,Santa Cruz County,CA,2018-01,843046,Santa Cruz County,CA,412,CA,6.4
+24,Merced County,CA,2018-01,254486,Merced County,CA,910,CA,10.3
+25,Marin County,CA,2018-01,1169657,Marin County,CA,246,CA,2.7
+26,Butte County,CA,2018-01,284347,Butte County,CA,522,CA,5.9
+27,Yolo County,CA,2018-01,448600,Yolo County,CA,303,CA,5.3
+28,El Dorado County,CA,2018-01,455760,El Dorado County,CA,993,CA,4.2
+29,Shasta County,CA,2018-01,259536,Shasta County,CA,602,CA,5.8
+30,Imperial County,CA,2018-01,203781,Imperial County,CA,300,CA,17.8
+31,Kings County,CA,2018-01,216209,Kings County,CA,408,CA,9.4
+32,Madera County,CA,2018-01,261353,Madera County,CA,724,CA,8.5
+33,Napa County,CA,2018-01,666903,Napa County,CA,268,CA,4
+34,Humboldt County,CA,2018-01,317533,Humboldt County,CA,365,CA,4.2
+35,Nevada County,CA,2018-01,458141,Nevada County,CA,924,CA,3.9
+36,Sutter County,CA,2018-01,288127,Sutter County,CA,338,CA,9.7
+37,Mendocino County,CA,2018-01,409838,Mendocino County,CA,415,CA,4.9
+38,Yuba County,CA,2018-01,256073,Yuba County,CA,437,CA,7.7
+39,Lake County,CA,2018-01,238221,Lake County,CA,541,CA,6.3
+40,Tehama County,CA,2018-01,237704,Tehama County,CA,334,CA,6.5
+41,Tuolumne County,CA,2018-01,,Tuolumne County,CA,414,CA,5.6
+42,San Benito County,CA,2018-01,563165,,,,CA,6.1
+43,Calaveras County,CA,2018-01,313723,,,,CA,4.7
+44,Siskiyou County,CA,2018-01,209231,,,,CA,8.9
+45,Amador County,CA,2018-01,309466,,,,CA,4.9
+46,Lassen County,CA,2018-01,171440,,,,CA,5.9
+47,Del Norte County,CA,2018-01,260453,,,,CA,6.9
+48,Glenn County,CA,2018-01,236828,,,,CA,7.9
+49,Colusa County,CA,2018-01,237427,,,,CA,18.5
+50,Plumas County,CA,2018-01,270288,,,,CA,10.9
+51,Inyo County,CA,2018-01,352349,,,,CA,4.4
+52,Mariposa County,CA,2018-01,289459,,,,CA,6.9
+53,Mono County,CA,2018-01,440869,,,,CA,4
+54,Trinity County,CA,2018-01,280153,,,,CA,6.9
+55,Modoc County,CA,2018-01,133237,,,,CA,11.1
+56,Sierra County,CA,2018-01,234181,,,,CA,7.5
+57,Alpine County,CA,2018-01,401164,,,,CA,4.4
+58,Los Angeles County,CA,2018-02,612831,Los Angeles County,CA,16044,CA,4.7
+59,San Diego County,CA,2018-02,581352,San Diego County,CA,4820,CA,3.6
+60,Orange County,CA,2018-02,726113,Orange County,CA,5824,CA,3.1
+61,Riverside County,CA,2018-02,370871,Riverside County,CA,10299,CA,4.7
+62,San Bernardino County,CA,2018-02,333335,San Bernardino County,CA,7748,CA,4.4
+63,Santa Clara County,CA,2018-02,1277549,Santa Clara County,CA,1632,CA,2.9
+64,Alameda County,CA,2018-02,868530,Alameda County,CA,776,CA,3.3
+65,Sacramento County,CA,2018-02,363541,Sacramento County,CA,3809,CA,4.2
+66,Contra Costa County,CA,2018-02,686561,Contra Costa County,CA,2255,CA,3.5
+67,Fresno County,CA,2018-02,248977,Fresno County,CA,1811,CA,9.2
+68,Kern County,CA,2018-02,213093,Kern County,CA,2808,CA,9.8
+69,Ventura County,CA,2018-02,601659,Ventura County,CA,2146,CA,4.1
+70,San Francisco County,CA,2018-02,1339800,San Francisco County,CA,869,CA,2.6
+71,San Mateo County,CA,2018-02,1380091,San Mateo County,CA,767,CA,2.4
+72,San Joaquin County,CA,2018-02,350468,San Joaquin County,CA,1861,CA,7.2
+73,Stanislaus County,CA,2018-02,302741,Stanislaus County,CA,1350,CA,7.5
+74,Sonoma County,CA,2018-02,652043,Sonoma County,CA,674,CA,3.1
+75,Tulare County,CA,2018-02,211569,Tulare County,CA,1521,CA,11.6
+76,Santa Barbara County,CA,2018-02,617910,Santa Barbara County,CA,1318,CA,5
+77,Monterey County,CA,2018-02,559644,Monterey County,CA,949,CA,10.3
+78,Solano County,CA,2018-02,429718,Solano County,CA,641,CA,4.4
+79,Placer County,CA,2018-02,486144,Placer County,CA,1602,CA,3.5
+80,San Luis Obispo County,CA,2018-02,616554,San Luis Obispo County,CA,940,CA,3.3
+81,Santa Cruz County,CA,2018-02,851059,Santa Cruz County,CA,442,CA,6.8
+82,Merced County,CA,2018-02,257277,Merced County,CA,913,CA,10.8
+83,Marin County,CA,2018-02,1172206,Marin County,CA,320,CA,2.6
+84,Butte County,CA,2018-02,287735,Butte County,CA,551,CA,5.9
+85,Yolo County,CA,2018-02,452826,Yolo County,CA,391,CA,5.3
+86,El Dorado County,CA,2018-02,458197,El Dorado County,CA,1071,CA,4.1
+87,Shasta County,CA,2018-02,259550,Shasta County,CA,631,CA,6
+88,Imperial County,CA,2018-02,205033,Imperial County,CA,313,CA,17.4
+89,Kings County,CA,2018-02,215601,Kings County,CA,421,CA,9.7
+90,Madera County,CA,2018-02,263867,Madera County,CA,750,CA,8.3
+91,Napa County,CA,2018-02,669132,Napa County,CA,263,CA,3.4
+92,Humboldt County,CA,2018-02,318956,Humboldt County,CA,381,CA,4.1
+93,Nevada County,CA,2018-02,460164,Nevada County,CA,972,CA,3.9
+94,Sutter County,CA,2018-02,290753,Sutter County,CA,341,CA,10
+95,Mendocino County,CA,2018-02,411276,Mendocino County,CA,429,CA,4.7
+96,Yuba County,CA,2018-02,257847,Yuba County,CA,449,CA,7.6
+97,Lake County,CA,2018-02,241717,Lake County,CA,576,CA,5.9
+98,Tehama County,CA,2018-02,238652,Tehama County,CA,343,CA,6.6
+99,Tuolumne County,CA,2018-02,,Tuolumne County,CA,424,CA,5.7
+100,San Benito County,CA,2018-02,561245,,,,CA,6.3
+101,Calaveras County,CA,2018-02,314418,,,,CA,4.7
+102,Siskiyou County,CA,2018-02,210153,,,,CA,9.4
+103,Amador County,CA,2018-02,311475,,,,CA,4.8
+104,Lassen County,CA,2018-02,172111,,,,CA,6.4
+105,Del Norte County,CA,2018-02,258788,,,,CA,6.4
+106,Glenn County,CA,2018-02,237876,,,,CA,7.7
+107,Colusa County,CA,2018-02,239063,,,,CA,19.5
+108,Plumas County,CA,2018-02,271051,,,,CA,11.6
+109,Inyo County,CA,2018-02,352708,,,,CA,4.5
+110,Mariposa County,CA,2018-02,290385,,,,CA,7.4
+111,Mono County,CA,2018-02,443410,,,,CA,4.1
+112,Trinity County,CA,2018-02,282796,,,,CA,8
+113,Modoc County,CA,2018-02,133889,,,,CA,11.1
+114,Sierra County,CA,2018-02,236256,,,,CA,8.6
+115,Alpine County,CA,2018-02,401676,,,,CA,3.7
+116,Los Angeles County,CA,2018-03,618617,Los Angeles County,CA,17287,CA,4.5
+117,San Diego County,CA,2018-03,585581,San Diego County,CA,5294,CA,3.4
+118,Orange County,CA,2018-03,729564,Orange County,CA,6435,CA,3
+119,Riverside County,CA,2018-03,374478,Riverside County,CA,10610,CA,4.5
+120,San Bernardino County,CA,2018-03,335643,San Bernardino County,CA,8335,CA,4.2
+121,Santa Clara County,CA,2018-03,1304436,Santa Clara County,CA,2082,CA,2.8
+122,Alameda County,CA,2018-03,876964,Alameda County,CA,921,CA,3.2
+123,Sacramento County,CA,2018-03,365530,Sacramento County,CA,4128,CA,4.1
+124,Contra Costa County,CA,2018-03,690154,Contra Costa County,CA,2697,CA,3.4
+125,Fresno County,CA,2018-03,250120,Fresno County,CA,1893,CA,9.3
+126,Kern County,CA,2018-03,213961,Kern County,CA,2888,CA,10.3
+127,Ventura County,CA,2018-03,605533,Ventura County,CA,2453,CA,3.9
+128,San Francisco County,CA,2018-03,1361614,San Francisco County,CA,1016,CA,2.5
+129,San Mateo County,CA,2018-03,1399941,San Mateo County,CA,910,CA,2.3
+130,San Joaquin County,CA,2018-03,352499,San Joaquin County,CA,1965,CA,7.1
+131,Stanislaus County,CA,2018-03,305995,Stanislaus County,CA,1540,CA,7.6
+132,Sonoma County,CA,2018-03,660911,Sonoma County,CA,777,CA,3
+133,Tulare County,CA,2018-03,214297,Tulare County,CA,1559,CA,12
+134,Santa Barbara County,CA,2018-03,621980,Santa Barbara County,CA,1424,CA,4.7
+135,Monterey County,CA,2018-03,562714,Monterey County,CA,1042,CA,9.8
+136,Solano County,CA,2018-03,431603,Solano County,CA,694,CA,4.3
+137,Placer County,CA,2018-03,491860,Placer County,CA,1793,CA,3.4
+138,San Luis Obispo County,CA,2018-03,617488,San Luis Obispo County,CA,989,CA,3.2
+139,Santa Cruz County,CA,2018-03,861975,Santa Cruz County,CA,553,CA,6.8
+140,Merced County,CA,2018-03,259869,Merced County,CA,937,CA,10.9
+141,Marin County,CA,2018-03,1171267,Marin County,CA,412,CA,2.5
+142,Butte County,CA,2018-03,291350,Butte County,CA,598,CA,5.6
+143,Yolo County,CA,2018-03,454643,Yolo County,CA,447,CA,5.1
+144,El Dorado County,CA,2018-03,462062,El Dorado County,CA,1152,CA,4.1
+145,Shasta County,CA,2018-03,259915,Shasta County,CA,675,CA,6.1
+146,Imperial County,CA,2018-03,204336,Imperial County,CA,310,CA,17.5
+147,Kings County,CA,2018-03,215707,Kings County,CA,425,CA,9.8
+148,Madera County,CA,2018-03,265924,Madera County,CA,803,CA,8.7
+149,Napa County,CA,2018-03,674152,Napa County,CA,325,CA,3.3
+150,Humboldt County,CA,2018-03,320406,Humboldt County,CA,407,CA,4
+151,Nevada County,CA,2018-03,463087,Nevada County,CA,983,CA,3.9
+152,Sutter County,CA,2018-03,293680,Sutter County,CA,353,CA,10.2
+153,Mendocino County,CA,2018-03,413240,Mendocino County,CA,488,CA,4.7
+154,Yuba County,CA,2018-03,260583,Yuba County,CA,445,CA,7.7
+155,Lake County,CA,2018-03,245017,Lake County,CA,636,CA,5.9
+156,Tehama County,CA,2018-03,236294,Tehama County,CA,375,CA,6.8
+157,Tuolumne County,CA,2018-03,,Tuolumne County,CA,535,CA,5.5
+158,San Benito County,CA,2018-03,565266,,,,CA,6.3
+159,Calaveras County,CA,2018-03,315646,,,,CA,4.7
+160,Siskiyou County,CA,2018-03,211219,,,,CA,9.2
+161,Amador County,CA,2018-03,313677,,,,CA,4.8
+162,Lassen County,CA,2018-03,172813,,,,CA,6.4
+163,Del Norte County,CA,2018-03,257731,,,,CA,6.2
+164,Glenn County,CA,2018-03,239456,,,,CA,8
+165,Colusa County,CA,2018-03,240891,,,,CA,19.3
+166,Plumas County,CA,2018-03,272064,,,,CA,11.9
+167,Inyo County,CA,2018-03,353003,,,,CA,4.5
+168,Mariposa County,CA,2018-03,291777,,,,CA,7.1
+169,Mono County,CA,2018-03,446659,,,,CA,4
+170,Trinity County,CA,2018-03,285672,,,,CA,8.2
+171,Modoc County,CA,2018-03,134698,,,,CA,10.7
+172,Sierra County,CA,2018-03,238401,,,,CA,8.2
+173,Alpine County,CA,2018-03,403044,,,,CA,3.6
+174,Los Angeles County,CA,2018-04,623156,Los Angeles County,CA,18253,CA,4.3
+175,San Diego County,CA,2018-04,585375,San Diego County,CA,5921,CA,3.1
+176,Orange County,CA,2018-04,733901,Orange County,CA,7062,CA,2.7
+177,Riverside County,CA,2018-04,377926,Riverside County,CA,10695,CA,4
+178,San Bernardino County,CA,2018-04,337314,San Bernardino County,CA,8669,CA,3.8
+179,Santa Clara County,CA,2018-04,1324419,Santa Clara County,CA,2319,CA,2.5
+180,Alameda County,CA,2018-04,888020,Alameda County,CA,1049,CA,2.8
+181,Sacramento County,CA,2018-04,366979,Sacramento County,CA,4494,CA,3.7
+182,Contra Costa County,CA,2018-04,690882,Contra Costa County,CA,2927,CA,3
+183,Fresno County,CA,2018-04,251405,Fresno County,CA,2029,CA,7.9
+184,Kern County,CA,2018-04,215840,Kern County,CA,3099,CA,8.6
+185,Ventura County,CA,2018-04,603366,Ventura County,CA,2650,CA,3.4
+186,San Francisco County,CA,2018-04,1384385,San Francisco County,CA,1073,CA,2.2
+187,San Mateo County,CA,2018-04,1417976,San Mateo County,CA,1052,CA,2.1
+188,San Joaquin County,CA,2018-04,356676,San Joaquin County,CA,2123,CA,6.2
+189,Stanislaus County,CA,2018-04,308320,Stanislaus County,CA,1627,CA,6.6
+190,Sonoma County,CA,2018-04,669248,Sonoma County,CA,917,CA,2.7
+191,Tulare County,CA,2018-04,215399,Tulare County,CA,1608,CA,9.9
+192,Santa Barbara County,CA,2018-04,625348,Santa Barbara County,CA,1578,CA,3.8
+193,Monterey County,CA,2018-04,566684,Monterey County,CA,1120,CA,7
+194,Solano County,CA,2018-04,431969,Solano County,CA,750,CA,3.8
+195,Placer County,CA,2018-04,499215,Placer County,CA,1985,CA,3
+196,San Luis Obispo County,CA,2018-04,616203,San Luis Obispo County,CA,1055,CA,2.8
+197,Santa Cruz County,CA,2018-04,870555,Santa Cruz County,CA,625,CA,5.7
+198,Merced County,CA,2018-04,261069,Merced County,CA,988,CA,9.2
+199,Marin County,CA,2018-04,1176792,Marin County,CA,473,CA,2.3
+200,Butte County,CA,2018-04,294770,Butte County,CA,682,CA,4.9
+201,Yolo County,CA,2018-04,456497,Yolo County,CA,499,CA,4.2
+202,El Dorado County,CA,2018-04,465569,El Dorado County,CA,1255,CA,3.5
+203,Shasta County,CA,2018-04,261477,Shasta County,CA,727,CA,5.1
+204,Imperial County,CA,2018-04,206267,Imperial County,CA,309,CA,16.3
+205,Kings County,CA,2018-04,216556,Kings County,CA,476,CA,8.4
+206,Madera County,CA,2018-04,267688,Madera County,CA,849,CA,7.8
+207,Napa County,CA,2018-04,680188,Napa County,CA,357,CA,2.9
+208,Humboldt County,CA,2018-04,321946,Humboldt County,CA,411,CA,3.5
+209,Nevada County,CA,2018-04,464193,Nevada County,CA,1071,CA,3.4
+210,Sutter County,CA,2018-04,297398,Sutter County,CA,383,CA,8.5
+211,Mendocino County,CA,2018-04,415333,Mendocino County,CA,522,CA,4
+212,Yuba County,CA,2018-04,263902,Yuba County,CA,454,CA,6.5
+213,Lake County,CA,2018-04,247266,Lake County,CA,681,CA,5.4
+214,Tehama County,CA,2018-04,233600,Tehama County,CA,425,CA,5.8
+215,Tuolumne County,CA,2018-04,,Tuolumne County,CA,568,CA,4.8
+216,San Benito County,CA,2018-04,577059,,,,CA,5.3
+217,Calaveras County,CA,2018-04,317092,,,,CA,4
+218,Siskiyou County,CA,2018-04,212431,,,,CA,7.1
+219,Amador County,CA,2018-04,315744,,,,CA,4.1
+220,Lassen County,CA,2018-04,173542,,,,CA,5.3
+221,Del Norte County,CA,2018-04,256500,,,,CA,5.5
+222,Glenn County,CA,2018-04,241455,,,,CA,6.8
+223,Colusa County,CA,2018-04,242964,,,,CA,15.1
+224,Plumas County,CA,2018-04,273636,,,,CA,9.3
+225,Inyo County,CA,2018-04,354446,,,,CA,3.8
+226,Mariposa County,CA,2018-04,293601,,,,CA,5.5
+227,Mono County,CA,2018-04,449991,,,,CA,3.5
+228,Trinity County,CA,2018-04,288584,,,,CA,6.5
+229,Modoc County,CA,2018-04,135334,,,,CA,8.1
+230,Sierra County,CA,2018-04,239957,,,,CA,6.7
+231,Alpine County,CA,2018-04,405668,,,,CA,3.8
+232,Los Angeles County,CA,2018-05,625140,Los Angeles County,CA,19188,CA,4.1
+233,San Diego County,CA,2018-05,584790,San Diego County,CA,6342,CA,2.9
+234,Orange County,CA,2018-05,737601,Orange County,CA,7726,CA,2.5
+235,Riverside County,CA,2018-05,380660,Riverside County,CA,10956,CA,3.7
+236,San Bernardino County,CA,2018-05,339665,San Bernardino County,CA,9216,CA,3.6
+237,Santa Clara County,CA,2018-05,1347816,Santa Clara County,CA,2711,CA,2.3
+238,Alameda County,CA,2018-05,899896,Alameda County,CA,1213,CA,2.6
+239,Sacramento County,CA,2018-05,368808,Sacramento County,CA,5010,CA,3.3
+240,Contra Costa County,CA,2018-05,693392,Contra Costa County,CA,3262,CA,2.8
+241,Fresno County,CA,2018-05,254167,Fresno County,CA,2123,CA,6.9
+242,Kern County,CA,2018-05,217618,Kern County,CA,3096,CA,7.6
+243,Ventura County,CA,2018-05,603602,Ventura County,CA,2906,CA,3.1
+244,San Francisco County,CA,2018-05,1397702,San Francisco County,CA,1158,CA,2.1
+245,San Mateo County,CA,2018-05,1437104,San Mateo County,CA,1172,CA,1.9
+246,San Joaquin County,CA,2018-05,361284,San Joaquin County,CA,2343,CA,5.3
+247,Stanislaus County,CA,2018-05,310998,Stanislaus County,CA,1732,CA,6
+248,Sonoma County,CA,2018-05,670385,Sonoma County,CA,1099,CA,2.4
+249,Tulare County,CA,2018-05,216704,Tulare County,CA,1675,CA,8.6
+250,Santa Barbara County,CA,2018-05,627772,Santa Barbara County,CA,1743,CA,3.1
+251,Monterey County,CA,2018-05,568435,Monterey County,CA,1121,CA,5.2
+252,Solano County,CA,2018-05,435194,Solano County,CA,854,CA,3.4
+253,Placer County,CA,2018-05,500817,Placer County,CA,2198,CA,2.7
+254,San Luis Obispo County,CA,2018-05,615015,San Luis Obispo County,CA,1111,CA,2.5
+255,Santa Cruz County,CA,2018-05,880850,Santa Cruz County,CA,691,CA,4.4
+256,Merced County,CA,2018-05,262032,Merced County,CA,1022,CA,7.8
+257,Marin County,CA,2018-05,1180370,Marin County,CA,584,CA,2.1
+258,Butte County,CA,2018-05,297987,Butte County,CA,761,CA,4.3
+259,Yolo County,CA,2018-05,456325,Yolo County,CA,534,CA,3.6
+260,El Dorado County,CA,2018-05,467846,El Dorado County,CA,1506,CA,3.1
+261,Shasta County,CA,2018-05,263637,Shasta County,CA,800,CA,4.3
+262,Imperial County,CA,2018-05,208906,Imperial County,CA,341,CA,16.9
+263,Kings County,CA,2018-05,218026,Kings County,CA,478,CA,6.9
+264,Madera County,CA,2018-05,268545,Madera County,CA,921,CA,6.5
+265,Napa County,CA,2018-05,686410,Napa County,CA,404,CA,2.4
+266,Humboldt County,CA,2018-05,324044,Humboldt County,CA,462,CA,3
+267,Nevada County,CA,2018-05,464888,Nevada County,CA,1242,CA,3.1
+268,Sutter County,CA,2018-05,297539,Sutter County,CA,400,CA,6.9
+269,Mendocino County,CA,2018-05,417313,Mendocino County,CA,646,CA,3.2
+270,Yuba County,CA,2018-05,266713,Yuba County,CA,485,CA,5.6
+271,Lake County,CA,2018-05,248908,Lake County,CA,759,CA,4.5
+272,Tehama County,CA,2018-05,236530,Tehama County,CA,416,CA,5.1
+273,Tuolumne County,CA,2018-05,,Tuolumne County,CA,615,CA,4.1
+274,San Benito County,CA,2018-05,587968,,,,CA,4.7
+275,Calaveras County,CA,2018-05,318697,,,,CA,3.5
+276,Siskiyou County,CA,2018-05,213560,,,,CA,5.6
+277,Amador County,CA,2018-05,317719,,,,CA,3.5
+278,Lassen County,CA,2018-05,174350,,,,CA,4.1
+279,Del Norte County,CA,2018-05,257970,,,,CA,4.8
+280,Glenn County,CA,2018-05,243214,,,,CA,5.9
+281,Colusa County,CA,2018-05,244862,,,,CA,11
+282,Plumas County,CA,2018-05,275563,,,,CA,6.4
+283,Inyo County,CA,2018-05,355959,,,,CA,3.4
+284,Mariposa County,CA,2018-05,295210,,,,CA,4.4
+285,Mono County,CA,2018-05,453083,,,,CA,3.9
+286,Trinity County,CA,2018-05,289841,,,,CA,5.2
+287,Modoc County,CA,2018-05,135702,,,,CA,6.3
+288,Sierra County,CA,2018-05,241329,,,,CA,4.9
+289,Alpine County,CA,2018-05,407065,,,,CA,5.3
+290,Los Angeles County,CA,2018-06,627566,Los Angeles County,CA,20289,CA,4.8
+291,San Diego County,CA,2018-06,585876,San Diego County,CA,6730,CA,3.6
+292,Orange County,CA,2018-06,741162,Orange County,CA,8188,CA,3.2
+293,Riverside County,CA,2018-06,383181,Riverside County,CA,10967,CA,4.7
+294,San Bernardino County,CA,2018-06,341265,San Bernardino County,CA,9866,CA,4.5
+295,Santa Clara County,CA,2018-06,1367097,Santa Clara County,CA,2875,CA,2.9
+296,Alameda County,CA,2018-06,907489,Alameda County,CA,1420,CA,3.3
+297,Sacramento County,CA,2018-06,370961,Sacramento County,CA,5182,CA,4.1
+298,Contra Costa County,CA,2018-06,698079,Contra Costa County,CA,3471,CA,3.5
+299,Fresno County,CA,2018-06,256879,Fresno County,CA,2197,CA,7.5
+300,Kern County,CA,2018-06,219019,Kern County,CA,3226,CA,8.5
+301,Ventura County,CA,2018-06,604904,Ventura County,CA,3060,CA,3.9
+302,San Francisco County,CA,2018-06,1416590,San Francisco County,CA,1167,CA,2.6
+303,San Mateo County,CA,2018-06,1449881,San Mateo County,CA,1190,CA,2.5
+304,San Joaquin County,CA,2018-06,365604,San Joaquin County,CA,2436,CA,6.2
+305,Stanislaus County,CA,2018-06,311979,Stanislaus County,CA,1824,CA,7
+306,Sonoma County,CA,2018-06,672805,Sonoma County,CA,1271,CA,3
+307,Tulare County,CA,2018-06,218049,Tulare County,CA,1674,CA,9.6
+308,Santa Barbara County,CA,2018-06,628649,Santa Barbara County,CA,1808,CA,3.8
+309,Monterey County,CA,2018-06,570157,Monterey County,CA,1110,CA,5.1
+310,Solano County,CA,2018-06,438556,Solano County,CA,1006,CA,4.1
+311,Placer County,CA,2018-06,499616,Placer County,CA,2381,CA,3.4
+312,San Luis Obispo County,CA,2018-06,617667,San Luis Obispo County,CA,1177,CA,3.2
+313,Santa Cruz County,CA,2018-06,884327,Santa Cruz County,CA,747,CA,4.5
+314,Merced County,CA,2018-06,263558,Merced County,CA,1011,CA,8.6
+315,Marin County,CA,2018-06,1185614,Marin County,CA,614,CA,2.7
+316,Butte County,CA,2018-06,298913,Butte County,CA,801,CA,5.3
+317,Yolo County,CA,2018-06,459993,Yolo County,CA,544,CA,4.3
+318,El Dorado County,CA,2018-06,467478,El Dorado County,CA,1648,CA,3.8
+319,Shasta County,CA,2018-06,264566,Shasta County,CA,849,CA,5
+320,Imperial County,CA,2018-06,211548,Imperial County,CA,317,CA,18.8
+321,Kings County,CA,2018-06,219723,Kings County,CA,481,CA,8.2
+322,Madera County,CA,2018-06,270389,Madera County,CA,919,CA,7.2
+323,Napa County,CA,2018-06,689641,Napa County,CA,488,CA,2.9
+324,Humboldt County,CA,2018-06,324733,Humboldt County,CA,516,CA,3.9
+325,Nevada County,CA,2018-06,466397,Nevada County,CA,1386,CA,3.7
+326,Sutter County,CA,2018-06,297344,Sutter County,CA,388,CA,7.3
+327,Mendocino County,CA,2018-06,418953,Mendocino County,CA,665,CA,4
+328,Yuba County,CA,2018-06,267442,Yuba County,CA,525,CA,6.5
+329,Lake County,CA,2018-06,249079,Lake County,CA,804,CA,5.2
+330,Tehama County,CA,2018-06,243708,Tehama County,CA,427,CA,5.9
+331,Tuolumne County,CA,2018-06,,Tuolumne County,CA,666,CA,4.7
+332,San Benito County,CA,2018-06,594810,,,,CA,5.1
+333,Calaveras County,CA,2018-06,319812,,,,CA,4.1
+334,Siskiyou County,CA,2018-06,214662,,,,CA,6.1
+335,Amador County,CA,2018-06,319483,,,,CA,4.1
+336,Lassen County,CA,2018-06,175267,,,,CA,4.7
+337,Del Norte County,CA,2018-06,259229,,,,CA,5.5
+338,Glenn County,CA,2018-06,244444,,,,CA,6.8
+339,Colusa County,CA,2018-06,246384,,,,CA,11.4
+340,Plumas County,CA,2018-06,277644,,,,CA,6.2
+341,Inyo County,CA,2018-06,357208,,,,CA,3.8
+342,Mariposa County,CA,2018-06,296519,,,,CA,4.7
+343,Mono County,CA,2018-06,456109,,,,CA,4.2
+344,Trinity County,CA,2018-06,290735,,,,CA,5.4
+345,Modoc County,CA,2018-06,136128,,,,CA,6.4
+346,Sierra County,CA,2018-06,243201,,,,CA,5.4
+347,Alpine County,CA,2018-06,408288,,,,CA,5.9
+348,Los Angeles County,CA,2018-07,628080,Los Angeles County,CA,20744,CA,5.1
+349,San Diego County,CA,2018-07,587962,San Diego County,CA,7330,CA,3.6
+350,Orange County,CA,2018-07,741654,Orange County,CA,8609,CA,3.2
+351,Riverside County,CA,2018-07,385293,Riverside County,CA,10934,CA,4.8
+352,San Bernardino County,CA,2018-07,342624,San Bernardino County,CA,10322,CA,4.5
+353,Santa Clara County,CA,2018-07,1388098,Santa Clara County,CA,2960,CA,2.8
+354,Alameda County,CA,2018-07,913657,Alameda County,CA,1676,CA,3.3
+355,Sacramento County,CA,2018-07,372925,Sacramento County,CA,5322,CA,4.1
+356,Contra Costa County,CA,2018-07,702717,Contra Costa County,CA,3426,CA,3.4
+357,Fresno County,CA,2018-07,259114,Fresno County,CA,2293,CA,7.4
+358,Kern County,CA,2018-07,219122,Kern County,CA,3337,CA,8.3
+359,Ventura County,CA,2018-07,607881,Ventura County,CA,3133,CA,4
+360,San Francisco County,CA,2018-07,1420712,San Francisco County,CA,1077,CA,2.5
+361,San Mateo County,CA,2018-07,1462312,San Mateo County,CA,1137,CA,2.4
+362,San Joaquin County,CA,2018-07,366015,San Joaquin County,CA,2471,CA,6.2
+363,Stanislaus County,CA,2018-07,313237,Stanislaus County,CA,1839,CA,6.8
+364,Sonoma County,CA,2018-07,677412,Sonoma County,CA,1426,CA,2.9
+365,Tulare County,CA,2018-07,218427,Tulare County,CA,1677,CA,9.9
+366,Santa Barbara County,CA,2018-07,630375,Santa Barbara County,CA,1838,CA,3.8
+367,Monterey County,CA,2018-07,571811,Monterey County,CA,1122,CA,4.8
+368,Solano County,CA,2018-07,440576,Solano County,CA,1027,CA,4.1
+369,Placer County,CA,2018-07,496625,Placer County,CA,2394,CA,3.3
+370,San Luis Obispo County,CA,2018-07,624117,San Luis Obispo County,CA,1219,CA,3.2
+371,Santa Cruz County,CA,2018-07,883650,Santa Cruz County,CA,778,CA,4.4
+372,Merced County,CA,2018-07,265640,Merced County,CA,1048,CA,8.4
+373,Marin County,CA,2018-07,1182732,Marin County,CA,577,CA,2.6
+374,Butte County,CA,2018-07,297451,Butte County,CA,861,CA,5.2
+375,Yolo County,CA,2018-07,465002,Yolo County,CA,550,CA,4.2
+376,El Dorado County,CA,2018-07,464938,El Dorado County,CA,1719,CA,3.7
+377,Shasta County,CA,2018-07,264130,Shasta County,CA,874,CA,5
+378,Imperial County,CA,2018-07,211850,Imperial County,CA,318,CA,20.6
+379,Kings County,CA,2018-07,221534,Kings County,CA,493,CA,7.6
+380,Madera County,CA,2018-07,271479,Madera County,CA,954,CA,7.2
+381,Napa County,CA,2018-07,687772,Napa County,CA,497,CA,2.9
+382,Humboldt County,CA,2018-07,325288,Humboldt County,CA,522,CA,3.9
+383,Nevada County,CA,2018-07,466253,Nevada County,CA,1467,CA,3.6
+384,Sutter County,CA,2018-07,299298,Sutter County,CA,415,CA,6.9
+385,Mendocino County,CA,2018-07,420059,Mendocino County,CA,687,CA,3.8
+386,Yuba County,CA,2018-07,266407,Yuba County,CA,534,CA,6.5
+387,Lake County,CA,2018-07,248142,Lake County,CA,793,CA,5.1
+388,Tehama County,CA,2018-07,248666,Tehama County,CA,470,CA,6.2
+389,Tuolumne County,CA,2018-07,,Tuolumne County,CA,730,CA,4.6
+390,San Benito County,CA,2018-07,595598,,,,CA,4.9
+391,Calaveras County,CA,2018-07,320791,,,,CA,4
+392,Siskiyou County,CA,2018-07,214193,,,,CA,6
+393,Amador County,CA,2018-07,319970,,,,CA,4
+394,Lassen County,CA,2018-07,174794,,,,CA,4.6
+395,Del Norte County,CA,2018-07,260494,,,,CA,5.7
+396,Glenn County,CA,2018-07,243671,,,,CA,7.1
+397,Colusa County,CA,2018-07,245922,,,,CA,10.8
+398,Plumas County,CA,2018-07,277245,,,,CA,5.8
+399,Inyo County,CA,2018-07,357791,,,,CA,3.9
+400,Mariposa County,CA,2018-07,298025,,,,CA,4.6
+401,Mono County,CA,2018-07,457888,,,,CA,4
+402,Trinity County,CA,2018-07,288355,,,,CA,5
+403,Modoc County,CA,2018-07,135434,,,,CA,6.4
+404,Sierra County,CA,2018-07,244965,,,,CA,5.6
+405,Alpine County,CA,2018-07,411816,,,,CA,6.3
+406,Los Angeles County,CA,2018-08,629113,Los Angeles County,CA,23385,CA,5.1
+407,San Diego County,CA,2018-08,591078,San Diego County,CA,7951,CA,3.5
+408,Orange County,CA,2018-08,742575,Orange County,CA,10172,CA,3.2
+409,Riverside County,CA,2018-08,386500,Riverside County,CA,12575,CA,4.9
+410,San Bernardino County,CA,2018-08,343682,San Bernardino County,CA,12457,CA,4.3
+411,Santa Clara County,CA,2018-08,1383170,Santa Clara County,CA,3057,CA,2.7
+412,Alameda County,CA,2018-08,919205,Alameda County,CA,1819,CA,3.2
+413,Sacramento County,CA,2018-08,373625,Sacramento County,CA,5529,CA,4
+414,Contra Costa County,CA,2018-08,702868,Contra Costa County,CA,3476,CA,3.3
+415,Fresno County,CA,2018-08,259413,Fresno County,CA,2431,CA,6.7
+416,Kern County,CA,2018-08,219305,Kern County,CA,3395,CA,7.4
+417,Ventura County,CA,2018-08,611416,Ventura County,CA,3204,CA,4
+418,San Francisco County,CA,2018-08,1429451,San Francisco County,CA,966,CA,2.5
+419,San Mateo County,CA,2018-08,1482251,San Mateo County,CA,1133,CA,2.4
+420,San Joaquin County,CA,2018-08,365934,San Joaquin County,CA,2581,CA,5.7
+421,Stanislaus County,CA,2018-08,314703,Stanislaus County,CA,1971,CA,6
+422,Sonoma County,CA,2018-08,680106,Sonoma County,CA,1530,CA,2.8
+423,Tulare County,CA,2018-08,219511,Tulare County,CA,1704,CA,9.1
+424,Santa Barbara County,CA,2018-08,633048,Santa Barbara County,CA,1932,CA,3.7
+425,Monterey County,CA,2018-08,574963,Monterey County,CA,1175,CA,4.4
+426,Solano County,CA,2018-08,442448,Solano County,CA,1095,CA,3.9
+427,Placer County,CA,2018-08,494796,Placer County,CA,2437,CA,3.3
+428,San Luis Obispo County,CA,2018-08,627986,San Luis Obispo County,CA,1575,CA,3.1
+429,Santa Cruz County,CA,2018-08,879782,Santa Cruz County,CA,828,CA,4.1
+430,Merced County,CA,2018-08,268755,Merced County,CA,1326,CA,7.3
+431,Marin County,CA,2018-08,1184443,Marin County,CA,554,CA,2.6
+432,Butte County,CA,2018-08,295779,Butte County,CA,1140,CA,4.8
+433,Yolo County,CA,2018-08,469030,Yolo County,CA,564,CA,4
+434,El Dorado County,CA,2018-08,464463,El Dorado County,CA,1714,CA,3.6
+435,Shasta County,CA,2018-08,263813,Shasta County,CA,778,CA,4.8
+436,Imperial County,CA,2018-08,213186,Imperial County,CA,322,CA,21.9
+437,Kings County,CA,2018-08,222927,Kings County,CA,502,CA,6.8
+438,Madera County,CA,2018-08,272247,Madera County,CA,1056,CA,6.4
+439,Napa County,CA,2018-08,687723,Napa County,CA,497,CA,2.8
+440,Humboldt County,CA,2018-08,324620,Humboldt County,CA,548,CA,3.7
+441,Nevada County,CA,2018-08,467237,Nevada County,CA,1518,CA,3.5
+442,Sutter County,CA,2018-08,301207,Sutter County,CA,450,CA,5.9
+443,Mendocino County,CA,2018-08,419909,Mendocino County,CA,682,CA,3.8
+444,Yuba County,CA,2018-08,266368,Yuba County,CA,545,CA,5.9
+445,Lake County,CA,2018-08,247864,Lake County,CA,806,CA,5.1
+446,Tehama County,CA,2018-08,247816,Tehama County,CA,527,CA,5.7
+447,Tuolumne County,CA,2018-08,,Tuolumne County,CA,759,CA,4.4
+448,San Benito County,CA,2018-08,600940,,,,CA,4.5
+449,Calaveras County,CA,2018-08,319890,,,,CA,3.9
+450,Siskiyou County,CA,2018-08,213822,,,,CA,5.6
+451,Amador County,CA,2018-08,319556,,,,CA,3.9
+452,Lassen County,CA,2018-08,173810,,,,CA,4.4
+453,Del Norte County,CA,2018-08,260724,,,,CA,5.6
+454,Glenn County,CA,2018-08,243263,,,,CA,6.3
+455,Colusa County,CA,2018-08,245633,,,,CA,8.6
+456,Plumas County,CA,2018-08,275932,,,,CA,5.2
+457,Inyo County,CA,2018-08,358124,,,,CA,3.6
+458,Mariposa County,CA,2018-08,297992,,,,CA,5.5
+459,Mono County,CA,2018-08,459803,,,,CA,4
+460,Trinity County,CA,2018-08,285548,,,,CA,4.6
+461,Modoc County,CA,2018-08,134967,,,,CA,5.9
+462,Sierra County,CA,2018-08,246210,,,,CA,5.5
+463,Alpine County,CA,2018-08,415740,,,,CA,5.4
+464,Los Angeles County,CA,2018-09,630276,Los Angeles County,CA,23982,CA,4.6
+465,San Diego County,CA,2018-09,592271,San Diego County,CA,8248,CA,3.2
+466,Orange County,CA,2018-09,741911,Orange County,CA,10115,CA,2.8
+467,Riverside County,CA,2018-09,387201,Riverside County,CA,12755,CA,4.4
+468,San Bernardino County,CA,2018-09,345943,San Bernardino County,CA,12507,CA,3.9
+469,Santa Clara County,CA,2018-09,1372408,Santa Clara County,CA,3171,CA,2.5
+470,Alameda County,CA,2018-09,922395,Alameda County,CA,2110,CA,2.9
+471,Sacramento County,CA,2018-09,373338,Sacramento County,CA,5461,CA,3.6
+472,Contra Costa County,CA,2018-09,707033,Contra Costa County,CA,3513,CA,3
+473,Fresno County,CA,2018-09,259895,Fresno County,CA,2551,CA,6
+474,Kern County,CA,2018-09,219636,Kern County,CA,3461,CA,6.6
+475,Ventura County,CA,2018-09,613721,Ventura County,CA,3192,CA,3.7
+476,San Francisco County,CA,2018-09,1424964,San Francisco County,CA,1249,CA,2.2
+477,San Mateo County,CA,2018-09,1494741,San Mateo County,CA,1333,CA,2.1
+478,San Joaquin County,CA,2018-09,366503,San Joaquin County,CA,2673,CA,5.1
+479,Stanislaus County,CA,2018-09,316587,Stanislaus County,CA,1892,CA,5.3
+480,Sonoma County,CA,2018-09,680825,Sonoma County,CA,1570,CA,2.5
+481,Tulare County,CA,2018-09,220339,Tulare County,CA,1744,CA,8.1
+482,Santa Barbara County,CA,2018-09,634987,Santa Barbara County,CA,1914,CA,3.3
+483,Monterey County,CA,2018-09,579111,Monterey County,CA,1201,CA,3.9
+484,Solano County,CA,2018-09,444702,Solano County,CA,1156,CA,3.6
+485,Placer County,CA,2018-09,494440,Placer County,CA,2293,CA,3
+486,San Luis Obispo County,CA,2018-09,628395,San Luis Obispo County,CA,1570,CA,2.8
+487,Santa Cruz County,CA,2018-09,874194,Santa Cruz County,CA,863,CA,3.6
+488,Merced County,CA,2018-09,271477,Merced County,CA,1306,CA,6.1
+489,Marin County,CA,2018-09,1189870,Marin County,CA,647,CA,2.3
+490,Butte County,CA,2018-09,295502,Butte County,CA,1127,CA,4.2
+491,Yolo County,CA,2018-09,472003,Yolo County,CA,545,CA,3.5
+492,El Dorado County,CA,2018-09,465823,El Dorado County,CA,1636,CA,3.2
+493,Shasta County,CA,2018-09,264803,Shasta County,CA,773,CA,4.4
+494,Imperial County,CA,2018-09,214708,Imperial County,CA,329,CA,20.5
+495,Kings County,CA,2018-09,223889,Kings County,CA,518,CA,6.1
+496,Madera County,CA,2018-09,272677,Madera County,CA,1087,CA,5.4
+497,Napa County,CA,2018-09,687521,Napa County,CA,517,CA,2.5
+498,Humboldt County,CA,2018-09,324906,Humboldt County,CA,541,CA,3.1
+499,Nevada County,CA,2018-09,469124,Nevada County,CA,1499,CA,3.2
+500,Sutter County,CA,2018-09,303102,Sutter County,CA,432,CA,5.5
+501,Mendocino County,CA,2018-09,418769,Mendocino County,CA,677,CA,3.5
+502,Yuba County,CA,2018-09,267434,Yuba County,CA,548,CA,5.4
+503,Lake County,CA,2018-09,249043,Lake County,CA,812,CA,4.6
+504,Tehama County,CA,2018-09,245869,Tehama County,CA,519,CA,4.9
+505,Tuolumne County,CA,2018-09,,Tuolumne County,CA,769,CA,4
+506,San Benito County,CA,2018-09,608252,,,,CA,4
+507,Calaveras County,CA,2018-09,319221,,,,CA,3.6
+508,Siskiyou County,CA,2018-09,213228,,,,CA,5.2
+509,Amador County,CA,2018-09,318835,,,,CA,3.5
+510,Lassen County,CA,2018-09,172499,,,,CA,3.8
+511,Del Norte County,CA,2018-09,261115,,,,CA,4.8
+512,Glenn County,CA,2018-09,242585,,,,CA,5.3
+513,Colusa County,CA,2018-09,245231,,,,CA,7.4
+514,Plumas County,CA,2018-09,274346,,,,CA,4.7
+515,Inyo County,CA,2018-09,358781,,,,CA,3.4
+516,Mariposa County,CA,2018-09,297669,,,,CA,3.8
+517,Mono County,CA,2018-09,461154,,,,CA,3.9
+518,Trinity County,CA,2018-09,282584,,,,CA,4.4
+519,Modoc County,CA,2018-09,134808,,,,CA,5.3
+520,Sierra County,CA,2018-09,244180,,,,CA,4.8
+521,Alpine County,CA,2018-09,420520,,,,CA,4.8
+522,Los Angeles County,CA,2018-10,633729,Los Angeles County,CA,24209,CA,4.5
+523,San Diego County,CA,2018-10,594561,San Diego County,CA,8321,CA,3.3
+524,Orange County,CA,2018-10,744783,Orange County,CA,10104,CA,2.9
+525,Riverside County,CA,2018-10,387028,Riverside County,CA,12989,CA,4.4
+526,San Bernardino County,CA,2018-10,348078,San Bernardino County,CA,12194,CA,4
+527,Santa Clara County,CA,2018-10,1355825,Santa Clara County,CA,3351,CA,2.5
+528,Alameda County,CA,2018-10,922084,Alameda County,CA,2128,CA,3
+529,Sacramento County,CA,2018-10,373035,Sacramento County,CA,5320,CA,3.7
+530,Contra Costa County,CA,2018-10,711944,Contra Costa County,CA,3579,CA,3.1
+531,Fresno County,CA,2018-10,260298,Fresno County,CA,2624,CA,6.5
+532,Kern County,CA,2018-10,221408,Kern County,CA,3374,CA,6.6
+533,Ventura County,CA,2018-10,615825,Ventura County,CA,3127,CA,3.8
+534,San Francisco County,CA,2018-10,1431198,San Francisco County,CA,1502,CA,2.3
+535,San Mateo County,CA,2018-10,1492593,San Mateo County,CA,1423,CA,2.2
+536,San Joaquin County,CA,2018-10,369939,San Joaquin County,CA,2672,CA,5.3
+537,Stanislaus County,CA,2018-10,317128,Stanislaus County,CA,1846,CA,5.5
+538,Sonoma County,CA,2018-10,675352,Sonoma County,CA,1512,CA,2.6
+539,Tulare County,CA,2018-10,221714,Tulare County,CA,1794,CA,8.6
+540,Santa Barbara County,CA,2018-10,635845,Santa Barbara County,CA,1875,CA,3.4
+541,Monterey County,CA,2018-10,585274,Monterey County,CA,1168,CA,4.2
+542,Solano County,CA,2018-10,447795,Solano County,CA,1170,CA,3.7
+543,Placer County,CA,2018-10,496392,Placer County,CA,2228,CA,3.1
+544,San Luis Obispo County,CA,2018-10,627231,San Luis Obispo County,CA,1464,CA,2.8
+545,Santa Cruz County,CA,2018-10,873191,Santa Cruz County,CA,850,CA,3.7
+546,Merced County,CA,2018-10,273593,Merced County,CA,1341,CA,6.3
+547,Marin County,CA,2018-10,1198567,Marin County,CA,650,CA,2.4
+548,Butte County,CA,2018-10,296650,Butte County,CA,1124,CA,4.3
+549,Yolo County,CA,2018-10,473743,Yolo County,CA,524,CA,3.7
+550,El Dorado County,CA,2018-10,467001,El Dorado County,CA,1524,CA,3.4
+551,Shasta County,CA,2018-10,266741,Shasta County,CA,776,CA,4.4
+552,Imperial County,CA,2018-10,217142,Imperial County,CA,316,CA,20.2
+553,Kings County,CA,2018-10,224846,Kings County,CA,564,CA,6.5
+554,Madera County,CA,2018-10,273900,Madera County,CA,1084,CA,5.9
+555,Napa County,CA,2018-10,694983,Napa County,CA,513,CA,2.6
+556,Humboldt County,CA,2018-10,324757,Humboldt County,CA,518,CA,3.3
+557,Nevada County,CA,2018-10,473430,Nevada County,CA,1455,CA,3.3
+558,Sutter County,CA,2018-10,302912,Sutter County,CA,438,CA,5.9
+559,Mendocino County,CA,2018-10,416863,Mendocino County,CA,652,CA,3.6
+560,Yuba County,CA,2018-10,269457,Yuba County,CA,571,CA,5.6
+561,Lake County,CA,2018-10,249994,Lake County,CA,831,CA,4.9
+562,Tehama County,CA,2018-10,247088,Tehama County,CA,531,CA,4.8
+563,Tuolumne County,CA,2018-10,,Tuolumne County,CA,753,CA,4.1
+564,San Benito County,CA,2018-10,615611,,,,CA,4.2
+565,Calaveras County,CA,2018-10,319072,,,,CA,3.8
+566,Siskiyou County,CA,2018-10,213981,,,,CA,5.2
+567,Amador County,CA,2018-10,318942,,,,CA,3.7
+568,Lassen County,CA,2018-10,172538,,,,CA,3.7
+569,Del Norte County,CA,2018-10,261572,,,,CA,5.3
+570,Glenn County,CA,2018-10,243555,,,,CA,4.9
+571,Colusa County,CA,2018-10,246244,,,,CA,8.7
+572,Plumas County,CA,2018-10,274753,,,,CA,5.1
+573,Inyo County,CA,2018-10,360685,,,,CA,3.5
+574,Mariposa County,CA,2018-10,296903,,,,CA,4.3
+575,Mono County,CA,2018-10,463427,,,,CA,4.7
+576,Trinity County,CA,2018-10,282252,,,,CA,4.8
+577,Modoc County,CA,2018-10,135825,,,,CA,5.3
+578,Sierra County,CA,2018-10,243418,,,,CA,5
+579,Alpine County,CA,2018-10,421978,,,,CA,5
+580,Los Angeles County,CA,2018-11,636040,Los Angeles County,CA,23868,CA,4.3
+581,San Diego County,CA,2018-11,595499,San Diego County,CA,8227,CA,3.3
+582,Orange County,CA,2018-11,745516,Orange County,CA,9744,CA,2.8
+583,Riverside County,CA,2018-11,387874,Riverside County,CA,12982,CA,4.2
+584,San Bernardino County,CA,2018-11,348727,San Bernardino County,CA,11796,CA,3.9
+585,Santa Clara County,CA,2018-11,1344720,Santa Clara County,CA,3149,CA,2.5
+586,Alameda County,CA,2018-11,919203,Alameda County,CA,2028,CA,2.9
+587,Sacramento County,CA,2018-11,373382,Sacramento County,CA,5036,CA,3.7
+588,Contra Costa County,CA,2018-11,714508,Contra Costa County,CA,3357,CA,3.1
+589,Fresno County,CA,2018-11,261730,Fresno County,CA,2527,CA,7.1
+590,Kern County,CA,2018-11,221990,Kern County,CA,3236,CA,6.7
+591,Ventura County,CA,2018-11,615588,Ventura County,CA,2906,CA,3.8
+592,San Francisco County,CA,2018-11,1427654,San Francisco County,CA,1394,CA,2.2
+593,San Mateo County,CA,2018-11,1474910,San Mateo County,CA,1352,CA,2.1
+594,San Joaquin County,CA,2018-11,372242,San Joaquin County,CA,2629,CA,5.7
+595,Stanislaus County,CA,2018-11,318097,Stanislaus County,CA,1768,CA,5.8
+596,Sonoma County,CA,2018-11,668667,Sonoma County,CA,1429,CA,2.6
+597,Tulare County,CA,2018-11,222673,Tulare County,CA,1725,CA,8.9
+598,Santa Barbara County,CA,2018-11,637019,Santa Barbara County,CA,1863,CA,3.5
+599,Monterey County,CA,2018-11,590372,Monterey County,CA,1121,CA,5
+600,Solano County,CA,2018-11,450036,Solano County,CA,1135,CA,3.7
+601,Placer County,CA,2018-11,500097,Placer County,CA,2141,CA,3.1
+602,San Luis Obispo County,CA,2018-11,625832,San Luis Obispo County,CA,1414,CA,2.8
+603,Santa Cruz County,CA,2018-11,873429,Santa Cruz County,CA,805,CA,4.3
+604,Merced County,CA,2018-11,275275,Merced County,CA,1314,CA,7.1
+605,Marin County,CA,2018-11,1202128,Marin County,CA,615,CA,2.4
+606,Butte County,CA,2018-11,297314,Butte County,CA,1010,CA,4.6
+607,Yolo County,CA,2018-11,474221,Yolo County,CA,524,CA,4
+608,El Dorado County,CA,2018-11,468245,El Dorado County,CA,1400,CA,3.5
+609,Shasta County,CA,2018-11,268538,Shasta County,CA,740,CA,4.5
+610,Imperial County,CA,2018-11,218696,Imperial County,CA,331,CA,19.4
+611,Kings County,CA,2018-11,226485,Kings County,CA,564,CA,7.2
+612,Madera County,CA,2018-11,275127,Madera County,CA,1089,CA,6.4
+613,Napa County,CA,2018-11,699607,Napa County,CA,482,CA,2.7
+614,Humboldt County,CA,2018-11,325029,Humboldt County,CA,502,CA,3.4
+615,Nevada County,CA,2018-11,476913,Nevada County,CA,1334,CA,3.3
+616,Sutter County,CA,2018-11,304775,Sutter County,CA,426,CA,7
+617,Mendocino County,CA,2018-11,417345,Mendocino County,CA,624,CA,3.8
+618,Yuba County,CA,2018-11,270597,Yuba County,CA,521,CA,5.9
+619,Lake County,CA,2018-11,251299,Lake County,CA,790,CA,5.1
+620,Tehama County,CA,2018-11,248716,Tehama County,CA,526,CA,5
+621,Tuolumne County,CA,2018-11,,Tuolumne County,CA,724,CA,4.3
+622,San Benito County,CA,2018-11,624524,,,,CA,4.5
+623,Calaveras County,CA,2018-11,320973,,,,CA,3.8
+624,Siskiyou County,CA,2018-11,214472,,,,CA,5.9
+625,Amador County,CA,2018-11,319617,,,,CA,3.7
+626,Lassen County,CA,2018-11,172892,,,,CA,4
+627,Del Norte County,CA,2018-11,262699,,,,CA,5.8
+628,Glenn County,CA,2018-11,244458,,,,CA,5.6
+629,Colusa County,CA,2018-11,247139,,,,CA,12.5
+630,Plumas County,CA,2018-11,275763,,,,CA,6.6
+631,Inyo County,CA,2018-11,362944,,,,CA,3.9
+632,Mariposa County,CA,2018-11,297506,,,,CA,4.9
+633,Mono County,CA,2018-11,464718,,,,CA,4.7
+634,Trinity County,CA,2018-11,282174,,,,CA,5
+635,Modoc County,CA,2018-11,136410,,,,CA,6.6
+636,Sierra County,CA,2018-11,241174,,,,CA,5.3
+637,Alpine County,CA,2018-11,422814,,,,CA,4.3
+638,Los Angeles County,CA,2018-12,635765,Los Angeles County,CA,21461,CA,4.4
+639,San Diego County,CA,2018-12,595148,San Diego County,CA,6897,CA,3.3
+640,Orange County,CA,2018-12,744406,Orange County,CA,8512,CA,2.9
+641,Riverside County,CA,2018-12,388248,Riverside County,CA,12370,CA,4.3
+642,San Bernardino County,CA,2018-12,348728,San Bernardino County,CA,10866,CA,3.9
+643,Santa Clara County,CA,2018-12,1325149,Santa Clara County,CA,2313,CA,2.5
+644,Alameda County,CA,2018-12,910449,Alameda County,CA,1491,CA,2.9
+645,Sacramento County,CA,2018-12,374860,Sacramento County,CA,4409,CA,3.8
+646,Contra Costa County,CA,2018-12,712753,Contra Costa County,CA,2642,CA,3.1
+647,Fresno County,CA,2018-12,262862,Fresno County,CA,2257,CA,7.8
+648,Kern County,CA,2018-12,223095,Kern County,CA,2984,CA,7.8
+649,Ventura County,CA,2018-12,614956,Ventura County,CA,2548,CA,4
+650,San Francisco County,CA,2018-12,1422007,San Francisco County,CA,931,CA,2.3
+651,San Mateo County,CA,2018-12,1448644,San Mateo County,CA,1002,CA,2.1
+652,San Joaquin County,CA,2018-12,372410,San Joaquin County,CA,2362,CA,6.3
+653,Stanislaus County,CA,2018-12,319646,Stanislaus County,CA,1603,CA,6.5
+654,Sonoma County,CA,2018-12,662964,Sonoma County,CA,1166,CA,2.7
+655,Tulare County,CA,2018-12,223677,Tulare County,CA,1653,CA,10
+656,Santa Barbara County,CA,2018-12,640035,Santa Barbara County,CA,1736,CA,4.2
+657,Monterey County,CA,2018-12,594253,Monterey County,CA,1019,CA,8.3
+658,Solano County,CA,2018-12,450458,Solano County,CA,1000,CA,3.9
+659,Placer County,CA,2018-12,503544,Placer County,CA,1803,CA,3.2
+660,San Luis Obispo County,CA,2018-12,625562,San Luis Obispo County,CA,1288,CA,3
+661,Santa Cruz County,CA,2018-12,877590,Santa Cruz County,CA,639,CA,5.6
+662,Merced County,CA,2018-12,276655,Merced County,CA,1288,CA,8.6
+663,Marin County,CA,2018-12,1200846,Marin County,CA,421,CA,2.3
+664,Butte County,CA,2018-12,301109,Butte County,CA,888,CA,5.9
+665,Yolo County,CA,2018-12,471744,Yolo County,CA,456,CA,4.6
+666,El Dorado County,CA,2018-12,470516,El Dorado County,CA,1245,CA,3.6
+667,Shasta County,CA,2018-12,270048,Shasta County,CA,713,CA,5
+668,Imperial County,CA,2018-12,219301,Imperial County,CA,299,CA,18.7
+669,Kings County,CA,2018-12,228166,Kings County,CA,489,CA,8.3
+670,Madera County,CA,2018-12,275519,Madera County,CA,1005,CA,7.3
+671,Napa County,CA,2018-12,705578,Napa County,CA,388,CA,3.4
+672,Humboldt County,CA,2018-12,325780,Humboldt County,CA,461,CA,3.7
+673,Nevada County,CA,2018-12,478098,Nevada County,CA,1237,CA,3.4
+674,Sutter County,CA,2018-12,305400,Sutter County,CA,386,CA,8.5
+675,Mendocino County,CA,2018-12,418918,Mendocino County,CA,585,CA,4.4
+676,Yuba County,CA,2018-12,271460,Yuba County,CA,480,CA,6.7
+677,Lake County,CA,2018-12,251928,Lake County,CA,736,CA,5.9
+678,Tehama County,CA,2018-12,250449,Tehama County,CA,503,CA,5.9
+679,Tuolumne County,CA,2018-12,,Tuolumne County,CA,648,CA,4.6
+680,San Benito County,CA,2018-12,630307,,,,CA,5.4
+681,Calaveras County,CA,2018-12,322855,,,,CA,4
+682,Siskiyou County,CA,2018-12,214937,,,,CA,7.5
+683,Amador County,CA,2018-12,320432,,,,CA,4.1
+684,Lassen County,CA,2018-12,173296,,,,CA,4.9
+685,Del Norte County,CA,2018-12,263285,,,,CA,6.7
+686,Glenn County,CA,2018-12,245940,,,,CA,6.8
+687,Colusa County,CA,2018-12,248160,,,,CA,16.6
+688,Plumas County,CA,2018-12,276412,,,,CA,8.9
+689,Inyo County,CA,2018-12,366315,,,,CA,4.3
+690,Mariposa County,CA,2018-12,298130,,,,CA,5.8
+691,Mono County,CA,2018-12,465931,,,,CA,3.9
+692,Trinity County,CA,2018-12,282087,,,,CA,5.9
+693,Modoc County,CA,2018-12,136603,,,,CA,8.8
+694,Sierra County,CA,2018-12,243395,,,,CA,5.8
+695,Alpine County,CA,2018-12,423626,,,,CA,3.6
+696,Los Angeles County,CA,2019-01,635191,Los Angeles County,CA,19242,CA,5
+697,San Diego County,CA,2019-01,591370,San Diego County,CA,6694,CA,3.9
+698,Orange County,CA,2019-01,741959,Orange County,CA,7944,CA,3.3
+699,Riverside County,CA,2019-01,390415,Riverside County,CA,11905,CA,4.8
+700,San Bernardino County,CA,2019-01,349358,San Bernardino County,CA,9853,CA,4.5
+701,Santa Clara County,CA,2019-01,1301550,Santa Clara County,CA,1815,CA,2.9
+702,Alameda County,CA,2019-01,901754,Alameda County,CA,1239,CA,3.5
+703,Sacramento County,CA,2019-01,375515,Sacramento County,CA,3776,CA,4.4
+704,Contra Costa County,CA,2019-01,710281,Contra Costa County,CA,2210,CA,3.7
+705,Fresno County,CA,2019-01,263550,Fresno County,CA,2074,CA,9
+706,Kern County,CA,2019-01,224433,Kern County,CA,2724,CA,9.1
+707,Ventura County,CA,2019-01,614944,Ventura County,CA,2337,CA,4.4
+708,San Francisco County,CA,2019-01,1421882,San Francisco County,CA,668,CA,2.7
+709,San Mateo County,CA,2019-01,1429447,San Mateo County,CA,784,CA,2.5
+710,San Joaquin County,CA,2019-01,372079,San Joaquin County,CA,2078,CA,7.3
+711,Stanislaus County,CA,2019-01,320931,Stanislaus County,CA,1484,CA,7.5
+712,Sonoma County,CA,2019-01,656783,Sonoma County,CA,942,CA,3.4
+713,Tulare County,CA,2019-01,224727,Tulare County,CA,1551,CA,11.5
+714,Santa Barbara County,CA,2019-01,643881,Santa Barbara County,CA,1566,CA,5.2
+715,Monterey County,CA,2019-01,595852,Monterey County,CA,929,CA,10.2
+716,Solano County,CA,2019-01,447023,Solano County,CA,871,CA,4.7
+717,Placer County,CA,2019-01,508312,Placer County,CA,1558,CA,3.8
+718,San Luis Obispo County,CA,2019-01,624939,San Luis Obispo County,CA,1234,CA,3.6
+719,Santa Cruz County,CA,2019-01,876461,Santa Cruz County,CA,500,CA,6.8
+720,Merced County,CA,2019-01,276996,Merced County,CA,1200,CA,10.2
+721,Marin County,CA,2019-01,1202464,Marin County,CA,317,CA,2.8
+722,Butte County,CA,2019-01,307712,Butte County,CA,849,CA,6.9
+723,Yolo County,CA,2019-01,467853,Yolo County,CA,420,CA,5.5
+724,El Dorado County,CA,2019-01,475969,El Dorado County,CA,1076,CA,4.4
+725,Shasta County,CA,2019-01,271454,Shasta County,CA,661,CA,6.3
+726,Imperial County,CA,2019-01,218860,Imperial County,CA,261,CA,20
+727,Kings County,CA,2019-01,230409,Kings County,CA,476,CA,9.8
+728,Madera County,CA,2019-01,276097,Madera County,CA,946,CA,8.6
+729,Napa County,CA,2019-01,707592,Napa County,CA,353,CA,4.1
+730,Humboldt County,CA,2019-01,326385,Humboldt County,CA,404,CA,4.7
+731,Nevada County,CA,2019-01,477147,Nevada County,CA,1112,CA,4.1
+732,Sutter County,CA,2019-01,307594,Sutter County,CA,307,CA,9.9
+733,Mendocino County,CA,2019-01,421395,Mendocino County,CA,543,CA,5.3
+734,Yuba County,CA,2019-01,272530,Yuba County,CA,401,CA,8
+735,Lake County,CA,2019-01,253878,Lake County,CA,674,CA,6.6
+736,Tehama County,CA,2019-01,251237,Tehama County,CA,424,CA,7.2
+737,Tuolumne County,CA,2019-01,,Tuolumne County,CA,513,CA,5.8
+738,San Benito County,CA,2019-01,628062,,,,CA,6.4
+739,Calaveras County,CA,2019-01,324006,,,,CA,4.9
+740,Siskiyou County,CA,2019-01,215346,,,,CA,9.3
+741,Amador County,CA,2019-01,321130,,,,CA,5
+742,Lassen County,CA,2019-01,173399,,,,CA,6.1
+743,Del Norte County,CA,2019-01,263509,,,,CA,7.4
+744,Glenn County,CA,2019-01,246649,,,,CA,8.2
+745,Colusa County,CA,2019-01,249778,,,,CA,19.9
+746,Plumas County,CA,2019-01,277401,,,,CA,11.6
+747,Inyo County,CA,2019-01,368770,,,,CA,4.9
+748,Mariposa County,CA,2019-01,298622,,,,CA,7.2
+749,Mono County,CA,2019-01,465929,,,,CA,4.1
+750,Trinity County,CA,2019-01,281814,,,,CA,7.4
+751,Modoc County,CA,2019-01,136535,,,,CA,11.7
+752,Sierra County,CA,2019-01,244486,,,,CA,7.5
+753,Alpine County,CA,2019-01,423691,,,,CA,4.3
+754,Los Angeles County,CA,2019-02,633017,Los Angeles County,CA,20751,CA,4.5
+755,San Diego County,CA,2019-02,589006,San Diego County,CA,6778,CA,3.4
+756,Orange County,CA,2019-02,739756,Orange County,CA,8794,CA,2.9
+757,Riverside County,CA,2019-02,391730,Riverside County,CA,12781,CA,4.3
+758,San Bernardino County,CA,2019-02,350130,San Bernardino County,CA,9935,CA,4
+759,Santa Clara County,CA,2019-02,1280644,Santa Clara County,CA,2298,CA,2.6
+760,Alameda County,CA,2019-02,897180,Alameda County,CA,1412,CA,3.1
+761,Sacramento County,CA,2019-02,375632,Sacramento County,CA,3954,CA,4
+762,Contra Costa County,CA,2019-02,706832,Contra Costa County,CA,2632,CA,3.3
+763,Fresno County,CA,2019-02,264399,Fresno County,CA,2187,CA,8.8
+764,Kern County,CA,2019-02,225888,Kern County,CA,2851,CA,9.1
+765,Ventura County,CA,2019-02,614719,Ventura County,CA,2496,CA,3.9
+766,San Francisco County,CA,2019-02,1423557,San Francisco County,CA,912,CA,2.4
+767,San Mateo County,CA,2019-02,1419741,San Mateo County,CA,944,CA,2.2
+768,San Joaquin County,CA,2019-02,371350,San Joaquin County,CA,2141,CA,6.8
+769,Stanislaus County,CA,2019-02,321560,Stanislaus County,CA,1522,CA,7
+770,Sonoma County,CA,2019-02,650792,Sonoma County,CA,939,CA,3
+771,Tulare County,CA,2019-02,224452,Tulare County,CA,1642,CA,11.4
+772,Santa Barbara County,CA,2019-02,645045,Santa Barbara County,CA,1588,CA,4.7
+773,Monterey County,CA,2019-02,599469,Monterey County,CA,987,CA,10.3
+774,Solano County,CA,2019-02,445303,Solano County,CA,929,CA,4.3
+775,Placer County,CA,2019-02,510542,Placer County,CA,1715,CA,3.4
+776,San Luis Obispo County,CA,2019-02,623813,San Luis Obispo County,CA,1345,CA,3.1
+777,Santa Cruz County,CA,2019-02,880728,Santa Cruz County,CA,511,CA,6.8
+778,Merced County,CA,2019-02,276680,Merced County,CA,1271,CA,10.4
+779,Marin County,CA,2019-02,1201739,Marin County,CA,393,CA,2.5
+780,Butte County,CA,2019-02,316740,Butte County,CA,887,CA,6.1
+781,Yolo County,CA,2019-02,465544,Yolo County,CA,455,CA,5.1
+782,El Dorado County,CA,2019-02,478856,El Dorado County,CA,1095,CA,4.1
+783,Shasta County,CA,2019-02,273007,Shasta County,CA,659,CA,6.1
+784,Imperial County,CA,2019-02,218070,Imperial County,CA,274,CA,18.5
+785,Kings County,CA,2019-02,230993,Kings County,CA,496,CA,9.8
+786,Madera County,CA,2019-02,276325,Madera County,CA,941,CA,8.1
+787,Napa County,CA,2019-02,710617,Napa County,CA,371,CA,3.3
+788,Humboldt County,CA,2019-02,326712,Humboldt County,CA,407,CA,4.2
+789,Nevada County,CA,2019-02,476318,Nevada County,CA,1098,CA,3.8
+790,Sutter County,CA,2019-02,308273,Sutter County,CA,304,CA,9.7
+791,Mendocino County,CA,2019-02,423126,Mendocino County,CA,550,CA,5.1
+792,Yuba County,CA,2019-02,274099,Yuba County,CA,424,CA,7.5
+793,Lake County,CA,2019-02,253922,Lake County,CA,683,CA,6
+794,Tehama County,CA,2019-02,252081,Tehama County,CA,396,CA,6.7
+795,Tuolumne County,CA,2019-02,,Tuolumne County,CA,488,CA,5.5
+796,San Benito County,CA,2019-02,619339,,,,CA,6.3
+797,Calaveras County,CA,2019-02,325906,,,,CA,4.6
+798,Siskiyou County,CA,2019-02,215641,,,,CA,9.4
+799,Amador County,CA,2019-02,321763,,,,CA,4.7
+800,Lassen County,CA,2019-02,173376,,,,CA,5.9
+801,Del Norte County,CA,2019-02,264147,,,,CA,6.4
+802,Glenn County,CA,2019-02,247258,,,,CA,7.7
+803,Colusa County,CA,2019-02,251217,,,,CA,20.2
+804,Plumas County,CA,2019-02,278142,,,,CA,12.3
+805,Inyo County,CA,2019-02,370807,,,,CA,4.5
+806,Mariposa County,CA,2019-02,298782,,,,CA,6.8
+807,Mono County,CA,2019-02,466254,,,,CA,3.8
+808,Trinity County,CA,2019-02,282238,,,,CA,7.7
+809,Modoc County,CA,2019-02,136865,,,,CA,10.8
+810,Sierra County,CA,2019-02,247169,,,,CA,7.6
+811,Alpine County,CA,2019-02,423901,,,,CA,4.2
+812,Los Angeles County,CA,2019-03,631183,Los Angeles County,CA,21846,CA,4.4
+813,San Diego County,CA,2019-03,588643,San Diego County,CA,6776,CA,3.5
+814,Orange County,CA,2019-03,739313,Orange County,CA,9677,CA,3.1
+815,Riverside County,CA,2019-03,393782,Riverside County,CA,13289,CA,4.4
+816,San Bernardino County,CA,2019-03,351260,San Bernardino County,CA,10100,CA,4.1
+817,Santa Clara County,CA,2019-03,1265506,Santa Clara County,CA,2837,CA,2.7
+818,Alameda County,CA,2019-03,897020,Alameda County,CA,1565,CA,3.2
+819,Sacramento County,CA,2019-03,375586,Sacramento County,CA,4189,CA,4.1
+820,Contra Costa County,CA,2019-03,702423,Contra Costa County,CA,3023,CA,3.4
+821,Fresno County,CA,2019-03,265964,Fresno County,CA,2253,CA,9
+822,Kern County,CA,2019-03,226885,Kern County,CA,2873,CA,9.7
+823,Ventura County,CA,2019-03,614873,Ventura County,CA,2747,CA,3.9
+824,San Francisco County,CA,2019-03,1421859,San Francisco County,CA,1019,CA,2.5
+825,San Mateo County,CA,2019-03,1414501,San Mateo County,CA,1086,CA,2.3
+826,San Joaquin County,CA,2019-03,373644,San Joaquin County,CA,2307,CA,6.9
+827,Stanislaus County,CA,2019-03,321235,Stanislaus County,CA,1585,CA,7.1
+828,Sonoma County,CA,2019-03,646769,Sonoma County,CA,1041,CA,3.1
+829,Tulare County,CA,2019-03,224070,Tulare County,CA,1683,CA,11.9
+830,Santa Barbara County,CA,2019-03,642056,Santa Barbara County,CA,1637,CA,4.6
+831,Monterey County,CA,2019-03,601344,Monterey County,CA,1073,CA,10
+832,Solano County,CA,2019-03,445443,Solano County,CA,944,CA,4.3
+833,Placer County,CA,2019-03,511123,Placer County,CA,1834,CA,3.5
+834,San Luis Obispo County,CA,2019-03,625474,San Luis Obispo County,CA,1444,CA,3.2
+835,Santa Cruz County,CA,2019-03,878534,Santa Cruz County,CA,591,CA,6.9
+836,Merced County,CA,2019-03,276470,Merced County,CA,1318,CA,10.4
+837,Marin County,CA,2019-03,1200865,Marin County,CA,474,CA,2.6
+838,Butte County,CA,2019-03,322864,Butte County,CA,857,CA,6.1
+839,Yolo County,CA,2019-03,467887,Yolo County,CA,493,CA,5.1
+840,El Dorado County,CA,2019-03,479771,El Dorado County,CA,1223,CA,4.1
+841,Shasta County,CA,2019-03,273567,Shasta County,CA,645,CA,5.9
+842,Imperial County,CA,2019-03,218022,Imperial County,CA,271,CA,18.3
+843,Kings County,CA,2019-03,230776,Kings County,CA,523,CA,10
+844,Madera County,CA,2019-03,276090,Madera County,CA,972,CA,8.5
+845,Napa County,CA,2019-03,710387,Napa County,CA,416,CA,3.3
+846,Humboldt County,CA,2019-03,326280,Humboldt County,CA,400,CA,4.2
+847,Nevada County,CA,2019-03,477355,Nevada County,CA,1124,CA,3.9
+848,Sutter County,CA,2019-03,308269,Sutter County,CA,309,CA,10.1
+849,Mendocino County,CA,2019-03,419858,Mendocino County,CA,566,CA,5
+850,Yuba County,CA,2019-03,275323,Yuba County,CA,424,CA,7.5
+851,Lake County,CA,2019-03,253324,Lake County,CA,696,CA,6
+852,Tehama County,CA,2019-03,253645,Tehama County,CA,391,CA,6.9
+853,Tuolumne County,CA,2019-03,,Tuolumne County,CA,495,CA,5.6
+854,San Benito County,CA,2019-03,614235,,,,CA,6.4
+855,Calaveras County,CA,2019-03,327637,,,,CA,4.7
+856,Siskiyou County,CA,2019-03,216146,,,,CA,9.4
+857,Amador County,CA,2019-03,322222,,,,CA,4.7
+858,Lassen County,CA,2019-03,173431,,,,CA,6.1
+859,Del Norte County,CA,2019-03,264920,,,,CA,6.3
+860,Glenn County,CA,2019-03,247684,,,,CA,7.7
+861,Colusa County,CA,2019-03,252607,,,,CA,20.3
+862,Plumas County,CA,2019-03,279323,,,,CA,12.4
+863,Inyo County,CA,2019-03,371426,,,,CA,4.5
+864,Mariposa County,CA,2019-03,299001,,,,CA,6.4
+865,Mono County,CA,2019-03,466927,,,,CA,3.9
+866,Trinity County,CA,2019-03,282751,,,,CA,7.9
+867,Modoc County,CA,2019-03,137131,,,,CA,10.6
+868,Sierra County,CA,2019-03,247227,,,,CA,7.8
+869,Alpine County,CA,2019-03,423308,,,,CA,4.6
+870,Los Angeles County,CA,2019-04,630729,Los Angeles County,CA,22648,CA,4
+871,San Diego County,CA,2019-04,591699,San Diego County,CA,6800,CA,2.9
+872,Orange County,CA,2019-04,738774,Orange County,CA,10478,CA,2.5
+873,Riverside County,CA,2019-04,394761,Riverside County,CA,13673,CA,3.7
+874,San Bernardino County,CA,2019-04,352080,San Bernardino County,CA,10328,CA,3.5
+875,Santa Clara County,CA,2019-04,1259318,Santa Clara County,CA,3244,CA,2.3
+876,Alameda County,CA,2019-04,896588,Alameda County,CA,1710,CA,2.7
+877,Sacramento County,CA,2019-04,377487,Sacramento County,CA,4405,CA,3.4
+878,Contra Costa County,CA,2019-04,699657,Contra Costa County,CA,3406,CA,2.8
+879,Fresno County,CA,2019-04,266588,Fresno County,CA,2389,CA,7.6
+880,Kern County,CA,2019-04,227011,Kern County,CA,2910,CA,8.2
+881,Ventura County,CA,2019-04,616246,Ventura County,CA,2991,CA,3.2
+882,San Francisco County,CA,2019-04,1418865,San Francisco County,CA,1084,CA,2
+883,San Mateo County,CA,2019-04,1414671,San Mateo County,CA,1178,CA,1.9
+884,San Joaquin County,CA,2019-04,374222,San Joaquin County,CA,2465,CA,5.9
+885,Stanislaus County,CA,2019-04,323884,Stanislaus County,CA,1643,CA,6.2
+886,Sonoma County,CA,2019-04,643635,Sonoma County,CA,1208,CA,2.5
+887,Tulare County,CA,2019-04,224725,Tulare County,CA,1707,CA,9.9
+888,Santa Barbara County,CA,2019-04,640238,Santa Barbara County,CA,1756,CA,3.3
+889,Monterey County,CA,2019-04,601876,Monterey County,CA,1139,CA,7.1
+890,Solano County,CA,2019-04,447855,Solano County,CA,965,CA,3.6
+891,Placer County,CA,2019-04,512388,Placer County,CA,1988,CA,2.9
+892,San Luis Obispo County,CA,2019-04,627626,San Luis Obispo County,CA,1560,CA,2.6
+893,Santa Cruz County,CA,2019-04,882635,Santa Cruz County,CA,677,CA,5.6
+894,Merced County,CA,2019-04,278009,Merced County,CA,1343,CA,8.7
+895,Marin County,CA,2019-04,1196599,Marin County,CA,601,CA,2.1
+896,Butte County,CA,2019-04,327070,Butte County,CA,822,CA,5
+897,Yolo County,CA,2019-04,472294,Yolo County,CA,546,CA,3.9
+898,El Dorado County,CA,2019-04,476260,El Dorado County,CA,1384,CA,3.4
+899,Shasta County,CA,2019-04,274832,Shasta County,CA,632,CA,4.8
+900,Imperial County,CA,2019-04,219345,Imperial County,CA,262,CA,17.4
+901,Kings County,CA,2019-04,230738,Kings County,CA,549,CA,8.3
+902,Madera County,CA,2019-04,275775,Madera County,CA,1026,CA,7.4
+903,Napa County,CA,2019-04,708120,Napa County,CA,468,CA,2.7
+904,Humboldt County,CA,2019-04,326996,Humboldt County,CA,403,CA,3.5
+905,Nevada County,CA,2019-04,482950,Nevada County,CA,1194,CA,3.2
+906,Sutter County,CA,2019-04,308651,Sutter County,CA,320,CA,8.4
+907,Mendocino County,CA,2019-04,415556,Mendocino County,CA,593,CA,4.1
+908,Yuba County,CA,2019-04,276325,Yuba County,CA,423,CA,6.2
+909,Lake County,CA,2019-04,251981,Lake County,CA,734,CA,5
+910,Tehama County,CA,2019-04,256478,Tehama County,CA,396,CA,5.7
+911,Tuolumne County,CA,2019-04,,Tuolumne County,CA,533,CA,4.6
+912,San Benito County,CA,2019-04,616177,,,,CA,5.1
+913,Calaveras County,CA,2019-04,327226,,,,CA,3.7
+914,Siskiyou County,CA,2019-04,216615,,,,CA,7.2
+915,Amador County,CA,2019-04,322979,,,,CA,3.7
+916,Lassen County,CA,2019-04,173894,,,,CA,5
+917,Del Norte County,CA,2019-04,265855,,,,CA,5.5
+918,Glenn County,CA,2019-04,248976,,,,CA,6.4
+919,Colusa County,CA,2019-04,253600,,,,CA,15.2
+920,Plumas County,CA,2019-04,280141,,,,CA,9.7
+921,Inyo County,CA,2019-04,372264,,,,CA,3.6
+922,Mariposa County,CA,2019-04,299334,,,,CA,4.8
+923,Mono County,CA,2019-04,468450,,,,CA,3.1
+924,Trinity County,CA,2019-04,283828,,,,CA,5.9
+925,Modoc County,CA,2019-04,137365,,,,CA,7.9
+926,Sierra County,CA,2019-04,246785,,,,CA,6.3
+927,Alpine County,CA,2019-04,422883,,,,CA,3.9
+928,Los Angeles County,CA,2019-05,631599,Los Angeles County,CA,23878,CA,4
+929,San Diego County,CA,2019-05,593340,San Diego County,CA,7227,CA,2.8
+930,Orange County,CA,2019-05,739770,Orange County,CA,11066,CA,2.5
+931,Riverside County,CA,2019-05,394934,Riverside County,CA,13813,CA,3.7
+932,San Bernardino County,CA,2019-05,353491,San Bernardino County,CA,10825,CA,3.4
+933,Santa Clara County,CA,2019-05,1252257,Santa Clara County,CA,3618,CA,2.2
+934,Alameda County,CA,2019-05,894571,Alameda County,CA,1854,CA,2.6
+935,Sacramento County,CA,2019-05,379788,Sacramento County,CA,4705,CA,3.3
+936,Contra Costa County,CA,2019-05,699109,Contra Costa County,CA,3831,CA,2.7
+937,Fresno County,CA,2019-05,266271,Fresno County,CA,2526,CA,6.5
+938,Kern County,CA,2019-05,227698,Kern County,CA,3058,CA,7.4
+939,Ventura County,CA,2019-05,616961,Ventura County,CA,3189,CA,3
+940,San Francisco County,CA,2019-05,1422426,San Francisco County,CA,1115,CA,2
+941,San Mateo County,CA,2019-05,1414660,San Mateo County,CA,1302,CA,1.8
+942,San Joaquin County,CA,2019-05,375652,San Joaquin County,CA,2654,CA,5.2
+943,Stanislaus County,CA,2019-05,325028,Stanislaus County,CA,1678,CA,5.7
+944,Sonoma County,CA,2019-05,645051,Sonoma County,CA,1447,CA,2.4
+945,Tulare County,CA,2019-05,225993,Tulare County,CA,1717,CA,8.5
+946,Santa Barbara County,CA,2019-05,638703,Santa Barbara County,CA,1902,CA,2.9
+947,Monterey County,CA,2019-05,600273,Monterey County,CA,1184,CA,4.9
+948,Solano County,CA,2019-05,449574,Solano County,CA,1072,CA,3.4
+949,Placer County,CA,2019-05,514734,Placer County,CA,2265,CA,2.8
+950,San Luis Obispo County,CA,2019-05,632641,San Luis Obispo County,CA,1641,CA,2.5
+951,Santa Cruz County,CA,2019-05,878435,Santa Cruz County,CA,746,CA,4.2
+952,Merced County,CA,2019-05,279584,Merced County,CA,1463,CA,7.3
+953,Marin County,CA,2019-05,1195002,Marin County,CA,723,CA,2
+954,Butte County,CA,2019-05,330093,Butte County,CA,905,CA,4.5
+955,Yolo County,CA,2019-05,474046,Yolo County,CA,586,CA,3.5
+956,El Dorado County,CA,2019-05,474361,El Dorado County,CA,1650,CA,3.1
+957,Shasta County,CA,2019-05,277005,Shasta County,CA,726,CA,4.1
+958,Imperial County,CA,2019-05,220469,Imperial County,CA,269,CA,18.8
+959,Kings County,CA,2019-05,231385,Kings County,CA,553,CA,6.9
+960,Madera County,CA,2019-05,276670,Madera County,CA,1045,CA,6.2
+961,Napa County,CA,2019-05,708071,Napa County,CA,573,CA,2.3
+962,Humboldt County,CA,2019-05,327582,Humboldt County,CA,432,CA,3.1
+963,Nevada County,CA,2019-05,484341,Nevada County,CA,1509,CA,3
+964,Sutter County,CA,2019-05,310278,Sutter County,CA,343,CA,6.8
+965,Mendocino County,CA,2019-05,410961,Mendocino County,CA,623,CA,3.3
+966,Yuba County,CA,2019-05,277678,Yuba County,CA,466,CA,5.5
+967,Lake County,CA,2019-05,251384,Lake County,CA,811,CA,4.3
+968,Tehama County,CA,2019-05,259054,Tehama County,CA,445,CA,5.1
+969,Tuolumne County,CA,2019-05,,Tuolumne County,CA,620,CA,4
+970,San Benito County,CA,2019-05,619501,,,,CA,4.5
+971,Calaveras County,CA,2019-05,327209,,,,CA,3.3
+972,Siskiyou County,CA,2019-05,217107,,,,CA,5.5
+973,Amador County,CA,2019-05,323887,,,,CA,3.4
+974,Lassen County,CA,2019-05,174706,,,,CA,4.1
+975,Del Norte County,CA,2019-05,266263,,,,CA,5
+976,Glenn County,CA,2019-05,250276,,,,CA,5.7
+977,Colusa County,CA,2019-05,254717,,,,CA,10.5
+978,Plumas County,CA,2019-05,281433,,,,CA,6.4
+979,Inyo County,CA,2019-05,373283,,,,CA,3
+980,Mariposa County,CA,2019-05,300150,,,,CA,3.8
+981,Mono County,CA,2019-05,469361,,,,CA,3.5
+982,Trinity County,CA,2019-05,284172,,,,CA,4.5
+983,Modoc County,CA,2019-05,137442,,,,CA,5.7
+984,Sierra County,CA,2019-05,246050,,,,CA,5
+985,Alpine County,CA,2019-05,423388,,,,CA,5.9
+986,Los Angeles County,CA,2019-06,633394,Los Angeles County,CA,24070,CA,4.5
+987,San Diego County,CA,2019-06,595228,San Diego County,CA,11521,CA,3.4
+988,Orange County,CA,2019-06,738861,Orange County,CA,11031,CA,3
+989,Riverside County,CA,2019-06,394977,Riverside County,CA,13461,CA,4.4
+990,San Bernardino County,CA,2019-06,354191,San Bernardino County,CA,11114,CA,4.2
+991,Santa Clara County,CA,2019-06,1241005,Santa Clara County,CA,3769,CA,2.7
+992,Alameda County,CA,2019-06,892945,Alameda County,CA,2078,CA,3.2
+993,Sacramento County,CA,2019-06,381639,Sacramento County,CA,4927,CA,3.9
+994,Contra Costa County,CA,2019-06,698025,Contra Costa County,CA,3883,CA,3.3
+995,Fresno County,CA,2019-06,266290,Fresno County,CA,2542,CA,7.1
+996,Kern County,CA,2019-06,228817,Kern County,CA,3156,CA,8.1
+997,Ventura County,CA,2019-06,615529,Ventura County,CA,3269,CA,3.7
+998,San Francisco County,CA,2019-06,1426470,San Francisco County,CA,1115,CA,2.4
+999,San Mateo County,CA,2019-06,1411604,San Mateo County,CA,1357,CA,2.2
+1000,San Joaquin County,CA,2019-06,376144,San Joaquin County,CA,2761,CA,5.9
+1001,Stanislaus County,CA,2019-06,326409,Stanislaus County,CA,1730,CA,6.4
+1002,Sonoma County,CA,2019-06,648591,Sonoma County,CA,1560,CA,2.8
+1003,Tulare County,CA,2019-06,226761,Tulare County,CA,1637,CA,9.3
+1004,Santa Barbara County,CA,2019-06,640325,Santa Barbara County,CA,1939,CA,3.4
+1005,Monterey County,CA,2019-06,600235,Monterey County,CA,1214,CA,4.8
+1006,Solano County,CA,2019-06,450106,Solano County,CA,1085,CA,3.9
+1007,Placer County,CA,2019-06,515699,Placer County,CA,2385,CA,3.3
+1008,San Luis Obispo County,CA,2019-06,631853,San Luis Obispo County,CA,1657,CA,3
+1009,Santa Cruz County,CA,2019-06,878008,Santa Cruz County,CA,818,CA,4.4
+1010,Merced County,CA,2019-06,280860,Merced County,CA,1504,CA,8.2
+1011,Marin County,CA,2019-06,1195276,Marin County,CA,770,CA,2.5
+1012,Butte County,CA,2019-06,333531,Butte County,CA,981,CA,5.4
+1013,Yolo County,CA,2019-06,472724,Yolo County,CA,618,CA,4.1
+1014,El Dorado County,CA,2019-06,472471,El Dorado County,CA,1884,CA,3.7
+1015,Shasta County,CA,2019-06,280353,Shasta County,CA,813,CA,4.7
+1016,Imperial County,CA,2019-06,221834,Imperial County,CA,288,CA,20.7
+1017,Kings County,CA,2019-06,231973,Kings County,CA,537,CA,8
+1018,Madera County,CA,2019-06,278217,Madera County,CA,1034,CA,6.9
+1019,Napa County,CA,2019-06,705490,Napa County,CA,591,CA,2.8
+1020,Humboldt County,CA,2019-06,328377,Humboldt County,CA,477,CA,3.7
+1021,Nevada County,CA,2019-06,482672,Nevada County,CA,1423,CA,3.4
+1022,Sutter County,CA,2019-06,311627,Sutter County,CA,366,CA,7.1
+1023,Mendocino County,CA,2019-06,410036,Mendocino County,CA,648,CA,3.8
+1024,Yuba County,CA,2019-06,280449,Yuba County,CA,505,CA,6
+1025,Lake County,CA,2019-06,243843,Lake County,CA,855,CA,4.9
+1026,Tehama County,CA,2019-06,260818,Tehama County,CA,455,CA,5.7
+1027,Tuolumne County,CA,2019-06,,Tuolumne County,CA,772,CA,4.5
+1028,San Benito County,CA,2019-06,621443,,,,CA,4.8
+1029,Calaveras County,CA,2019-06,326545,,,,CA,3.8
+1030,Siskiyou County,CA,2019-06,217648,,,,CA,5.8
+1031,Amador County,CA,2019-06,324848,,,,CA,3.8
+1032,Lassen County,CA,2019-06,175409,,,,CA,4.7
+1033,Del Norte County,CA,2019-06,266906,,,,CA,5.5
+1034,Glenn County,CA,2019-06,251481,,,,CA,6.3
+1035,Colusa County,CA,2019-06,255849,,,,CA,10.9
+1036,Plumas County,CA,2019-06,282720,,,,CA,6.2
+1037,Inyo County,CA,2019-06,375331,,,,CA,3.5
+1038,Mariposa County,CA,2019-06,301063,,,,CA,4.1
+1039,Mono County,CA,2019-06,470037,,,,CA,4.1
+1040,Trinity County,CA,2019-06,284396,,,,CA,4.8
+1041,Modoc County,CA,2019-06,137378,,,,CA,5.8
+1042,Sierra County,CA,2019-06,245844,,,,CA,5
+1043,Alpine County,CA,2019-06,423627,,,,CA,7.1
+1044,Los Angeles County,CA,2019-07,631321,Los Angeles County,CA,24226,CA,5
+1045,San Diego County,CA,2019-07,597516,San Diego County,CA,11525,CA,3.6
+1046,Orange County,CA,2019-07,739691,Orange County,CA,11103,CA,3.1
+1047,Riverside County,CA,2019-07,395747,Riverside County,CA,13165,CA,4.7
+1048,San Bernardino County,CA,2019-07,354017,San Bernardino County,CA,11638,CA,4.4
+1049,Santa Clara County,CA,2019-07,1229454,Santa Clara County,CA,3622,CA,2.8
+1050,Alameda County,CA,2019-07,893084,Alameda County,CA,2076,CA,3.3
+1051,Sacramento County,CA,2019-07,381872,Sacramento County,CA,4963,CA,4.1
+1052,Contra Costa County,CA,2019-07,698397,Contra Costa County,CA,3897,CA,3.4
+1053,Fresno County,CA,2019-07,267499,Fresno County,CA,2526,CA,7.3
+1054,Kern County,CA,2019-07,229629,Kern County,CA,3200,CA,8.5
+1055,Ventura County,CA,2019-07,613761,Ventura County,CA,3228,CA,3.9
+1056,San Francisco County,CA,2019-07,1424265,San Francisco County,CA,1023,CA,2.4
+1057,San Mateo County,CA,2019-07,1410636,San Mateo County,CA,1283,CA,2.3
+1058,San Joaquin County,CA,2019-07,376545,San Joaquin County,CA,2860,CA,6.2
+1059,Stanislaus County,CA,2019-07,325234,Stanislaus County,CA,1705,CA,6.4
+1060,Sonoma County,CA,2019-07,650605,Sonoma County,CA,1621,CA,3
+1061,Tulare County,CA,2019-07,225845,Tulare County,CA,1657,CA,10
+1062,Santa Barbara County,CA,2019-07,639028,Santa Barbara County,CA,1910,CA,3.6
+1063,Monterey County,CA,2019-07,598051,Monterey County,CA,1232,CA,4.7
+1064,Solano County,CA,2019-07,451569,Solano County,CA,1158,CA,4.1
+1065,Placer County,CA,2019-07,514835,Placer County,CA,2427,CA,3.4
+1066,San Luis Obispo County,CA,2019-07,627567,San Luis Obispo County,CA,1651,CA,3.2
+1067,Santa Cruz County,CA,2019-07,874261,Santa Cruz County,CA,850,CA,4.4
+1068,Merced County,CA,2019-07,280715,Merced County,CA,1558,CA,8.4
+1069,Marin County,CA,2019-07,1190571,Marin County,CA,712,CA,2.6
+1070,Butte County,CA,2019-07,336689,Butte County,CA,1016,CA,5.6
+1071,Yolo County,CA,2019-07,471621,Yolo County,CA,609,CA,4.3
+1072,El Dorado County,CA,2019-07,473090,El Dorado County,CA,2019,CA,3.7
+1073,Shasta County,CA,2019-07,281861,Shasta County,CA,810,CA,4.9
+1074,Imperial County,CA,2019-07,222539,Imperial County,CA,249,CA,22.6
+1075,Kings County,CA,2019-07,231295,Kings County,CA,520,CA,7.7
+1076,Madera County,CA,2019-07,278945,Madera County,CA,1058,CA,7.2
+1077,Napa County,CA,2019-07,701000,Napa County,CA,604,CA,2.9
+1078,Humboldt County,CA,2019-07,326818,Humboldt County,CA,484,CA,4
+1079,Nevada County,CA,2019-07,477651,Nevada County,CA,1489,CA,3.6
+1080,Sutter County,CA,2019-07,312905,Sutter County,CA,371,CA,6.8
+1081,Mendocino County,CA,2019-07,409311,Mendocino County,CA,645,CA,4
+1082,Yuba County,CA,2019-07,282275,Yuba County,CA,524,CA,6.2
+1083,Lake County,CA,2019-07,241310,Lake County,CA,870,CA,5.1
+1084,Tehama County,CA,2019-07,261068,Tehama County,CA,476,CA,6
+1085,Tuolumne County,CA,2019-07,,Tuolumne County,CA,841,CA,4.6
+1086,San Benito County,CA,2019-07,622590,,,,CA,4.9
+1087,Calaveras County,CA,2019-07,326164,,,,CA,3.9
+1088,Siskiyou County,CA,2019-07,217140,,,,CA,5.7
+1089,Amador County,CA,2019-07,325295,,,,CA,4
+1090,Lassen County,CA,2019-07,175382,,,,CA,4.8
+1091,Del Norte County,CA,2019-07,267810,,,,CA,6
+1092,Glenn County,CA,2019-07,251083,,,,CA,6.5
+1093,Colusa County,CA,2019-07,254727,,,,CA,10.3
+1094,Plumas County,CA,2019-07,281577,,,,CA,6.2
+1095,Inyo County,CA,2019-07,371111,,,,CA,3.5
+1096,Mariposa County,CA,2019-07,300383,,,,CA,3.9
+1097,Mono County,CA,2019-07,468708,,,,CA,3.8
+1098,Trinity County,CA,2019-07,282727,,,,CA,4.8
+1099,Modoc County,CA,2019-07,136537,,,,CA,6.1
+1100,Sierra County,CA,2019-07,246056,,,,CA,4.9
+1101,Alpine County,CA,2019-07,422585,,,,CA,7.2
+1102,Los Angeles County,CA,2019-08,631279,Los Angeles County,CA,24847,CA,4.8
+1103,San Diego County,CA,2019-08,599518,San Diego County,CA,11125,CA,3.5
+1104,Orange County,CA,2019-08,741529,Orange County,CA,10688,CA,3
+1105,Riverside County,CA,2019-08,396516,Riverside County,CA,12890,CA,4.7
+1106,San Bernardino County,CA,2019-08,354523,San Bernardino County,CA,11681,CA,4.1
+1107,Santa Clara County,CA,2019-08,1220525,Santa Clara County,CA,3453,CA,2.7
+1108,Alameda County,CA,2019-08,892331,Alameda County,CA,2024,CA,3.2
+1109,Sacramento County,CA,2019-08,381447,Sacramento County,CA,4838,CA,3.9
+1110,Contra Costa County,CA,2019-08,698436,Contra Costa County,CA,3742,CA,3.3
+1111,Fresno County,CA,2019-08,269145,Fresno County,CA,2686,CA,6.6
+1112,Kern County,CA,2019-08,230526,Kern County,CA,3220,CA,7.4
+1113,Ventura County,CA,2019-08,613723,Ventura County,CA,3105,CA,3.9
+1114,San Francisco County,CA,2019-08,1420409,San Francisco County,CA,1054,CA,2.3
+1115,San Mateo County,CA,2019-08,1406537,San Mateo County,CA,1259,CA,2.2
+1116,San Joaquin County,CA,2019-08,376912,San Joaquin County,CA,2838,CA,5.8
+1117,Stanislaus County,CA,2019-08,325763,Stanislaus County,CA,1690,CA,5.8
+1118,Sonoma County,CA,2019-08,650672,Sonoma County,CA,1724,CA,2.8
+1119,Tulare County,CA,2019-08,225536,Tulare County,CA,1454,CA,9.3
+1120,Santa Barbara County,CA,2019-08,639289,Santa Barbara County,CA,1937,CA,3.3
+1121,Monterey County,CA,2019-08,597757,Monterey County,CA,1226,CA,4.3
+1122,Solano County,CA,2019-08,452901,Solano County,CA,1235,CA,3.8
+1123,Placer County,CA,2019-08,514677,Placer County,CA,2416,CA,3.2
+1124,San Luis Obispo County,CA,2019-08,626968,San Luis Obispo County,CA,1626,CA,3
+1125,Santa Cruz County,CA,2019-08,868602,Santa Cruz County,CA,873,CA,4
+1126,Merced County,CA,2019-08,280865,Merced County,CA,1549,CA,7.3
+1127,Marin County,CA,2019-08,1180612,Marin County,CA,741,CA,2.5
+1128,Butte County,CA,2019-08,338711,Butte County,CA,1034,CA,5
+1129,Yolo County,CA,2019-08,473148,Yolo County,CA,602,CA,3.9
+1130,El Dorado County,CA,2019-08,473180,El Dorado County,CA,1998,CA,3.6
+1131,Shasta County,CA,2019-08,281965,Shasta County,CA,785,CA,4.4
+1132,Imperial County,CA,2019-08,222503,Imperial County,CA,234,CA,25
+1133,Kings County,CA,2019-08,230522,Kings County,CA,513,CA,7
+1134,Madera County,CA,2019-08,279645,Madera County,CA,1117,CA,6.3
+1135,Napa County,CA,2019-08,695104,Napa County,CA,625,CA,2.7
+1136,Humboldt County,CA,2019-08,326738,Humboldt County,CA,473,CA,3.8
+1137,Nevada County,CA,2019-08,475031,Nevada County,CA,1512,CA,3.4
+1138,Sutter County,CA,2019-08,314452,Sutter County,CA,389,CA,5.9
+1139,Mendocino County,CA,2019-08,408160,Mendocino County,CA,643,CA,3.7
+1140,Yuba County,CA,2019-08,283913,Yuba County,CA,539,CA,5.8
+1141,Lake County,CA,2019-08,239153,Lake County,CA,881,CA,4.6
+1142,Tehama County,CA,2019-08,261491,Tehama County,CA,494,CA,5.6
+1143,Tuolumne County,CA,2019-08,,Tuolumne County,CA,880,CA,4.3
+1144,San Benito County,CA,2019-08,623917,,,,CA,4.4
+1145,Calaveras County,CA,2019-08,325455,,,,CA,3.7
+1146,Siskiyou County,CA,2019-08,216921,,,,CA,5.4
+1147,Amador County,CA,2019-08,324914,,,,CA,3.7
+1148,Lassen County,CA,2019-08,174952,,,,CA,4.3
+1149,Del Norte County,CA,2019-08,269436,,,,CA,5.8
+1150,Glenn County,CA,2019-08,250658,,,,CA,6
+1151,Colusa County,CA,2019-08,253496,,,,CA,8.1
+1152,Plumas County,CA,2019-08,279478,,,,CA,5.6
+1153,Inyo County,CA,2019-08,367011,,,,CA,3.3
+1154,Mariposa County,CA,2019-08,299653,,,,CA,3.7
+1155,Mono County,CA,2019-08,468824,,,,CA,3.7
+1156,Trinity County,CA,2019-08,282384,,,,CA,4.4
+1157,Modoc County,CA,2019-08,135756,,,,CA,5.5
+1158,Sierra County,CA,2019-08,246937,,,,CA,4.5
+1159,Alpine County,CA,2019-08,421246,,,,CA,5.8
+1160,Los Angeles County,CA,2019-09,632550,Los Angeles County,CA,25488,CA,4.3
+1161,San Diego County,CA,2019-09,600093,San Diego County,CA,10611,CA,3
+1162,Orange County,CA,2019-09,746932,Orange County,CA,10135,CA,2.6
+1163,Riverside County,CA,2019-09,396544,Riverside County,CA,12513,CA,4.1
+1164,San Bernardino County,CA,2019-09,355221,San Bernardino County,CA,11580,CA,3.6
+1165,Santa Clara County,CA,2019-09,1224697,Santa Clara County,CA,3340,CA,2.3
+1166,Alameda County,CA,2019-09,892171,Alameda County,CA,1951,CA,2.7
+1167,Sacramento County,CA,2019-09,382350,Sacramento County,CA,4772,CA,3.3
+1168,Contra Costa County,CA,2019-09,698877,Contra Costa County,CA,3578,CA,2.8
+1169,Fresno County,CA,2019-09,269702,Fresno County,CA,2722,CA,5.8
+1170,Kern County,CA,2019-09,230942,Kern County,CA,3145,CA,6.4
+1171,Ventura County,CA,2019-09,615692,Ventura County,CA,2951,CA,3.4
+1172,San Francisco County,CA,2019-09,1416247,San Francisco County,CA,1188,CA,2
+1173,San Mateo County,CA,2019-09,1410103,San Mateo County,CA,1273,CA,1.9
+1174,San Joaquin County,CA,2019-09,376549,San Joaquin County,CA,2828,CA,5
+1175,Stanislaus County,CA,2019-09,325938,Stanislaus County,CA,1679,CA,5
+1176,Sonoma County,CA,2019-09,649115,Sonoma County,CA,1784,CA,2.4
+1177,Tulare County,CA,2019-09,226067,Tulare County,CA,1125,CA,8.2
+1178,Santa Barbara County,CA,2019-09,638256,Santa Barbara County,CA,1984,CA,3
+1179,Monterey County,CA,2019-09,596529,Monterey County,CA,1195,CA,3.7
+1180,Solano County,CA,2019-09,454373,Solano County,CA,1351,CA,3.3
+1181,Placer County,CA,2019-09,516397,Placer County,CA,2369,CA,2.8
+1182,San Luis Obispo County,CA,2019-09,629580,San Luis Obispo County,CA,1566,CA,2.6
+1183,Santa Cruz County,CA,2019-09,866789,Santa Cruz County,CA,867,CA,3.4
+1184,Merced County,CA,2019-09,280539,Merced County,CA,1516,CA,6
+1185,Marin County,CA,2019-09,1173049,Marin County,CA,818,CA,2.1
+1186,Butte County,CA,2019-09,340070,Butte County,CA,1024,CA,4.1
+1187,Yolo County,CA,2019-09,473357,Yolo County,CA,596,CA,3.3
+1188,El Dorado County,CA,2019-09,472840,El Dorado County,CA,1929,CA,3
+1189,Shasta County,CA,2019-09,282162,Shasta County,CA,772,CA,3.9
+1190,Imperial County,CA,2019-09,220772,Imperial County,CA,237,CA,22.5
+1191,Kings County,CA,2019-09,230186,Kings County,CA,503,CA,6.1
+1192,Madera County,CA,2019-09,280995,Madera County,CA,1125,CA,5.4
+1193,Napa County,CA,2019-09,694639,Napa County,CA,669,CA,2.3
+1194,Humboldt County,CA,2019-09,326776,Humboldt County,CA,451,CA,3
+1195,Nevada County,CA,2019-09,472795,Nevada County,CA,1496,CA,2.9
+1196,Sutter County,CA,2019-09,318116,Sutter County,CA,397,CA,5.2
+1197,Mendocino County,CA,2019-09,406780,Mendocino County,CA,633,CA,3.2
+1198,Yuba County,CA,2019-09,283882,Yuba County,CA,533,CA,5.1
+1199,Lake County,CA,2019-09,244718,Lake County,CA,906,CA,4.1
+1200,Tehama County,CA,2019-09,262777,Tehama County,CA,509,CA,4.6
+1201,Tuolumne County,CA,2019-09,,Tuolumne County,CA,886,CA,3.8
+1202,San Benito County,CA,2019-09,625123,,,,CA,3.9
+1203,Calaveras County,CA,2019-09,316910,,,,CA,3.2
+1204,Siskiyou County,CA,2019-09,216606,,,,CA,4.6
+1205,Amador County,CA,2019-09,324492,,,,CA,3.2
+1206,Lassen County,CA,2019-09,174639,,,,CA,3.5
+1207,Del Norte County,CA,2019-09,271119,,,,CA,5
+1208,Glenn County,CA,2019-09,250199,,,,CA,4.7
+1209,Colusa County,CA,2019-09,252378,,,,CA,7.1
+1210,Plumas County,CA,2019-09,277257,,,,CA,4.8
+1211,Inyo County,CA,2019-09,362687,,,,CA,2.8
+1212,Mariposa County,CA,2019-09,299269,,,,CA,3.2
+1213,Mono County,CA,2019-09,469470,,,,CA,3.5
+1214,Trinity County,CA,2019-09,282221,,,,CA,4
+1215,Modoc County,CA,2019-09,135364,,,,CA,4.7
+1216,Sierra County,CA,2019-09,249139,,,,CA,3.8
+1217,Alpine County,CA,2019-09,420685,,,,CA,5.1
+1218,Los Angeles County,CA,2019-10,637259,Los Angeles County,CA,22364,CA,4.3
+1219,San Diego County,CA,2019-10,600656,San Diego County,CA,10442,CA,3.1
+1220,Orange County,CA,2019-10,750312,Orange County,CA,9608,CA,2.7
+1221,Riverside County,CA,2019-10,397988,Riverside County,CA,12140,CA,4.2
+1222,San Bernardino County,CA,2019-10,357078,San Bernardino County,CA,11126,CA,3.7
+1223,Santa Clara County,CA,2019-10,1224340,Santa Clara County,CA,3317,CA,2.4
+1224,Alameda County,CA,2019-10,890156,Alameda County,CA,1996,CA,2.9
+1225,Sacramento County,CA,2019-10,383778,Sacramento County,CA,4669,CA,3.5
+1226,Contra Costa County,CA,2019-10,700394,Contra Costa County,CA,3542,CA,3
+1227,Fresno County,CA,2019-10,270449,Fresno County,CA,2435,CA,6.3
+1228,Kern County,CA,2019-10,231433,Kern County,CA,2981,CA,6.5
+1229,Ventura County,CA,2019-10,618364,Ventura County,CA,2783,CA,3.5
+1230,San Francisco County,CA,2019-10,1423896,San Francisco County,CA,1455,CA,2.1
+1231,San Mateo County,CA,2019-10,1405200,San Mateo County,CA,1407,CA,2
+1232,San Joaquin County,CA,2019-10,376543,San Joaquin County,CA,2829,CA,5.3
+1233,Stanislaus County,CA,2019-10,328439,Stanislaus County,CA,1696,CA,5.2
+1234,Sonoma County,CA,2019-10,649087,Sonoma County,CA,1742,CA,2.5
+1235,Tulare County,CA,2019-10,228108,Tulare County,CA,1091,CA,8.7
+1236,Santa Barbara County,CA,2019-10,641701,Santa Barbara County,CA,1755,CA,3.1
+1237,Monterey County,CA,2019-10,598159,Monterey County,CA,1184,CA,4.1
+1238,Solano County,CA,2019-10,455459,Solano County,CA,1364,CA,3.5
+1239,Placer County,CA,2019-10,517738,Placer County,CA,2257,CA,3
+1240,San Luis Obispo County,CA,2019-10,633535,San Luis Obispo County,CA,1465,CA,2.7
+1241,Santa Cruz County,CA,2019-10,867553,Santa Cruz County,CA,859,CA,3.7
+1242,Merced County,CA,2019-10,280688,Merced County,CA,1440,CA,6.3
+1243,Marin County,CA,2019-10,1171656,Marin County,CA,806,CA,2.2
+1244,Butte County,CA,2019-10,341543,Butte County,CA,992,CA,4.3
+1245,Yolo County,CA,2019-10,469926,Yolo County,CA,580,CA,3.5
+1246,El Dorado County,CA,2019-10,473232,El Dorado County,CA,1783,CA,3.2
+1247,Shasta County,CA,2019-10,282570,Shasta County,CA,773,CA,4.1
+1248,Imperial County,CA,2019-10,220191,Imperial County,CA,231,CA,23.1
+1249,Kings County,CA,2019-10,230902,Kings County,CA,509,CA,6.8
+1250,Madera County,CA,2019-10,282553,Madera County,CA,995,CA,5.8
+1251,Napa County,CA,2019-10,697042,Napa County,CA,641,CA,2.5
+1252,Humboldt County,CA,2019-10,328218,Humboldt County,CA,431,CA,3.2
+1253,Nevada County,CA,2019-10,471482,Nevada County,CA,1398,CA,3.1
+1254,Sutter County,CA,2019-10,320458,Sutter County,CA,425,CA,5.6
+1255,Mendocino County,CA,2019-10,405724,Mendocino County,CA,613,CA,3.3
+1256,Yuba County,CA,2019-10,285384,Yuba County,CA,465,CA,5.2
+1257,Lake County,CA,2019-10,244698,Lake County,CA,860,CA,4.6
+1258,Tehama County,CA,2019-10,264880,Tehama County,CA,517,CA,4.7
+1259,Tuolumne County,CA,2019-10,,Tuolumne County,CA,810,CA,4
+1260,San Benito County,CA,2019-10,621849,,,,CA,4.3
+1261,Calaveras County,CA,2019-10,318925,,,,CA,3.5
+1262,Siskiyou County,CA,2019-10,217362,,,,CA,4.8
+1263,Amador County,CA,2019-10,324631,,,,CA,3.5
+1264,Lassen County,CA,2019-10,174880,,,,CA,3.5
+1265,Del Norte County,CA,2019-10,272099,,,,CA,5.5
+1266,Glenn County,CA,2019-10,251330,,,,CA,4.6
+1267,Colusa County,CA,2019-10,253689,,,,CA,7.8
+1268,Plumas County,CA,2019-10,277708,,,,CA,5.2
+1269,Inyo County,CA,2019-10,364188,,,,CA,3
+1270,Mariposa County,CA,2019-10,300298,,,,CA,3.6
+1271,Mono County,CA,2019-10,472868,,,,CA,4.2
+1272,Trinity County,CA,2019-10,283720,,,,CA,4.6
+1273,Modoc County,CA,2019-10,136094,,,,CA,4.9
+1274,Sierra County,CA,2019-10,249540,,,,CA,4.2
+1275,Alpine County,CA,2019-10,421640,,,,CA,5.7
+1276,Los Angeles County,CA,2019-11,639992,Los Angeles County,CA,21080,CA,4.1
+1277,San Diego County,CA,2019-11,602693,San Diego County,CA,9668,CA,3.1
+1278,Orange County,CA,2019-11,750333,Orange County,CA,8653,CA,2.7
+1279,Riverside County,CA,2019-11,398493,Riverside County,CA,11996,CA,4.1
+1280,San Bernardino County,CA,2019-11,358494,San Bernardino County,CA,10471,CA,3.7
+1281,Santa Clara County,CA,2019-11,1228122,Santa Clara County,CA,2822,CA,2.5
+1282,Alameda County,CA,2019-11,888265,Alameda County,CA,1515,CA,2.9
+1283,Sacramento County,CA,2019-11,387407,Sacramento County,CA,4211,CA,3.5
+1284,Contra Costa County,CA,2019-11,703089,Contra Costa County,CA,3145,CA,3
+1285,Fresno County,CA,2019-11,270745,Fresno County,CA,2357,CA,7.1
+1286,Kern County,CA,2019-11,232162,Kern County,CA,2831,CA,6.9
+1287,Ventura County,CA,2019-11,619068,Ventura County,CA,2652,CA,3.7
+1288,San Francisco County,CA,2019-11,1427244,San Francisco County,CA,1279,CA,2.1
+1289,San Mateo County,CA,2019-11,1405348,San Mateo County,CA,1256,CA,2
+1290,San Joaquin County,CA,2019-11,376876,San Joaquin County,CA,2651,CA,5.7
+1291,Stanislaus County,CA,2019-11,329620,Stanislaus County,CA,1554,CA,5.6
+1292,Sonoma County,CA,2019-11,645549,Sonoma County,CA,1492,CA,2.6
+1293,Tulare County,CA,2019-11,228121,Tulare County,CA,1583,CA,9.3
+1294,Santa Barbara County,CA,2019-11,643865,Santa Barbara County,CA,1669,CA,3.3
+1295,Monterey County,CA,2019-11,599368,Monterey County,CA,1072,CA,5
+1296,Solano County,CA,2019-11,454498,Solano County,CA,1218,CA,3.6
+1297,Placer County,CA,2019-11,519368,Placer County,CA,1992,CA,3
+1298,San Luis Obispo County,CA,2019-11,633413,San Luis Obispo County,CA,1350,CA,2.7
+1299,Santa Cruz County,CA,2019-11,867543,Santa Cruz County,CA,763,CA,4.3
+1300,Merced County,CA,2019-11,280353,Merced County,CA,1348,CA,7.1
+1301,Marin County,CA,2019-11,1177332,Marin County,CA,643,CA,2.3
+1302,Butte County,CA,2019-11,343607,Butte County,CA,877,CA,4.4
+1303,Yolo County,CA,2019-11,465919,Yolo County,CA,550,CA,3.9
+1304,El Dorado County,CA,2019-11,472331,El Dorado County,CA,1517,CA,3.3
+1305,Shasta County,CA,2019-11,283041,Shasta County,CA,716,CA,4.3
+1306,Imperial County,CA,2019-11,220649,Imperial County,CA,230,CA,22.4
+1307,Kings County,CA,2019-11,232264,Kings County,CA,550,CA,7.6
+1308,Madera County,CA,2019-11,284471,Madera County,CA,931,CA,6.5
+1309,Napa County,CA,2019-11,699177,Napa County,CA,554,CA,2.8
+1310,Humboldt County,CA,2019-11,329057,Humboldt County,CA,388,CA,3.3
+1311,Nevada County,CA,2019-11,472020,Nevada County,CA,1206,CA,3.2
+1312,Sutter County,CA,2019-11,320926,Sutter County,CA,411,CA,6.5
+1313,Mendocino County,CA,2019-11,401678,Mendocino County,CA,541,CA,3.7
+1314,Yuba County,CA,2019-11,287704,Yuba County,CA,401,CA,5.6
+1315,Lake County,CA,2019-11,244729,Lake County,CA,811,CA,5.1
+1316,Tehama County,CA,2019-11,267068,Tehama County,CA,481,CA,4.9
+1317,Tuolumne County,CA,2019-11,,Tuolumne County,CA,729,CA,4.2
+1318,San Benito County,CA,2019-11,620124,,,,CA,4.5
+1319,Calaveras County,CA,2019-11,320433,,,,CA,3.6
+1320,Siskiyou County,CA,2019-11,217590,,,,CA,5.4
+1321,Amador County,CA,2019-11,325028,,,,CA,3.7
+1322,Lassen County,CA,2019-11,175004,,,,CA,3.7
+1323,Del Norte County,CA,2019-11,272468,,,,CA,5.9
+1324,Glenn County,CA,2019-11,252313,,,,CA,5.1
+1325,Colusa County,CA,2019-11,254550,,,,CA,11.1
+1326,Plumas County,CA,2019-11,278273,,,,CA,6.4
+1327,Inyo County,CA,2019-11,365265,,,,CA,3.2
+1328,Mariposa County,CA,2019-11,300698,,,,CA,4.2
+1329,Mono County,CA,2019-11,474016,,,,CA,4.2
+1330,Trinity County,CA,2019-11,283469,,,,CA,5.3
+1331,Modoc County,CA,2019-11,136385,,,,CA,5.9
+1332,Sierra County,CA,2019-11,249742,,,,CA,4.2
+1333,Alpine County,CA,2019-11,422204,,,,CA,6
+1334,Los Angeles County,CA,2019-12,643197,Los Angeles County,CA,17658,CA,4
+1335,San Diego County,CA,2019-12,605229,San Diego County,CA,8138,CA,3
+1336,Orange County,CA,2019-12,748708,Orange County,CA,7046,CA,2.6
+1337,Riverside County,CA,2019-12,401398,Riverside County,CA,10970,CA,3.9
+1338,San Bernardino County,CA,2019-12,359917,San Bernardino County,CA,9213,CA,3.5
+1339,Santa Clara County,CA,2019-12,1230220,Santa Clara County,CA,1843,CA,2.3
+1340,Alameda County,CA,2019-12,890855,Alameda County,CA,922,CA,2.7
+1341,Sacramento County,CA,2019-12,390681,Sacramento County,CA,3350,CA,3.5
+1342,Contra Costa County,CA,2019-12,707155,Contra Costa County,CA,2391,CA,2.9
+1343,Fresno County,CA,2019-12,271258,Fresno County,CA,2099,CA,7.4
+1344,Kern County,CA,2019-12,232671,Kern County,CA,2596,CA,7.6
+1345,Ventura County,CA,2019-12,622151,Ventura County,CA,2193,CA,3.6
+1346,San Francisco County,CA,2019-12,1440129,San Francisco County,CA,788,CA,2
+1347,San Mateo County,CA,2019-12,1404853,San Mateo County,CA,826,CA,1.9
+1348,San Joaquin County,CA,2019-12,378803,San Joaquin County,CA,2242,CA,6
+1349,Stanislaus County,CA,2019-12,331561,Stanislaus County,CA,1268,CA,6
+1350,Sonoma County,CA,2019-12,643697,Sonoma County,CA,1177,CA,2.6
+1351,Tulare County,CA,2019-12,228286,Tulare County,CA,1397,CA,10.1
+1352,Santa Barbara County,CA,2019-12,648150,Santa Barbara County,CA,1444,CA,3.7
+1353,Monterey County,CA,2019-12,601077,Monterey County,CA,919,CA,7.9
+1354,Solano County,CA,2019-12,452269,Solano County,CA,1027,CA,3.6
+1355,Placer County,CA,2019-12,521945,Placer County,CA,1562,CA,2.9
+1356,San Luis Obispo County,CA,2019-12,633022,San Luis Obispo County,CA,1182,CA,2.8
+1357,Santa Cruz County,CA,2019-12,866237,Santa Cruz County,CA,549,CA,5.2
+1358,Merced County,CA,2019-12,280487,Merced County,CA,1256,CA,8.5
+1359,Marin County,CA,2019-12,1180554,Marin County,CA,406,CA,2.1
+1360,Butte County,CA,2019-12,343822,Butte County,CA,776,CA,4.6
+1361,Yolo County,CA,2019-12,464582,Yolo County,CA,445,CA,4.2
+1362,El Dorado County,CA,2019-12,471589,El Dorado County,CA,1230,CA,3.3
+1363,Shasta County,CA,2019-12,283586,Shasta County,CA,630,CA,4.5
+1364,Imperial County,CA,2019-12,223033,Imperial County,CA,218,CA,20.9
+1365,Kings County,CA,2019-12,234850,Kings County,CA,520,CA,8.3
+1366,Madera County,CA,2019-12,286849,Madera County,CA,883,CA,7.1
+1367,Napa County,CA,2019-12,698650,Napa County,CA,425,CA,3.1
+1368,Humboldt County,CA,2019-12,329481,Humboldt County,CA,347,CA,3.3
+1369,Nevada County,CA,2019-12,474281,Nevada County,CA,1025,CA,3.1
+1370,Sutter County,CA,2019-12,319501,Sutter County,CA,335,CA,7.8
+1371,Mendocino County,CA,2019-12,398556,Mendocino County,CA,475,CA,4
+1372,Yuba County,CA,2019-12,290245,Yuba County,CA,335,CA,6.1
+1373,Lake County,CA,2019-12,244169,Lake County,CA,727,CA,5.5
+1374,Tehama County,CA,2019-12,268963,Tehama County,CA,417,CA,5.3
+1375,Tuolumne County,CA,2019-12,,Tuolumne County,CA,610,CA,4.3
+1376,San Benito County,CA,2019-12,622210,,,,CA,5.1
+1377,Calaveras County,CA,2019-12,331076,,,,CA,3.7
+1378,Siskiyou County,CA,2019-12,217753,,,,CA,6.9
+1379,Amador County,CA,2019-12,325287,,,,CA,3.9
+1380,Lassen County,CA,2019-12,175028,,,,CA,4.6
+1381,Del Norte County,CA,2019-12,272533,,,,CA,6.2
+1382,Glenn County,CA,2019-12,253274,,,,CA,5.9
+1383,Colusa County,CA,2019-12,255062,,,,CA,14.9
+1384,Plumas County,CA,2019-12,278752,,,,CA,8.3
+1385,Inyo County,CA,2019-12,367023,,,,CA,3.3
+1386,Mariposa County,CA,2019-12,300986,,,,CA,4.6
+1387,Mono County,CA,2019-12,474489,,,,CA,3.5
+1388,Trinity County,CA,2019-12,283168,,,,CA,5.7
+1389,Modoc County,CA,2019-12,136296,,,,CA,7.6
+1390,Sierra County,CA,2019-12,248515,,,,CA,4.9
+1391,Alpine County,CA,2019-12,421900,,,,CA,4.8
+1392,Los Angeles County,CA,2020-01,646324,Los Angeles County,CA,15668,CA,4.5
+1393,San Diego County,CA,2020-01,608202,San Diego County,CA,7315,CA,3.4
+1394,Orange County,CA,2020-01,751021,Orange County,CA,6230,CA,2.9
+1395,Riverside County,CA,2020-01,401463,Riverside County,CA,10261,CA,4.3
+1396,San Bernardino County,CA,2020-01,361132,San Bernardino County,CA,8282,CA,3.9
+1397,Santa Clara County,CA,2020-01,1245822,Santa Clara County,CA,1433,CA,2.7
+1398,Alameda County,CA,2020-01,899683,Alameda County,CA,756,CA,3.1
+1399,Sacramento County,CA,2020-01,393976,Sacramento County,CA,2835,CA,4
+1400,Contra Costa County,CA,2020-01,703483,Contra Costa County,CA,1938,CA,3.3
+1401,Fresno County,CA,2020-01,271406,Fresno County,CA,1813,CA,8.3
+1402,Kern County,CA,2020-01,233337,Kern County,CA,2327,CA,8.8
+1403,Ventura County,CA,2020-01,624844,Ventura County,CA,2060,CA,4
+1404,San Francisco County,CA,2020-01,1443471,San Francisco County,CA,610,CA,2.4
+1405,San Mateo County,CA,2020-01,1415467,San Mateo County,CA,625,CA,2.2
+1406,San Joaquin County,CA,2020-01,379455,San Joaquin County,CA,1909,CA,6.8
+1407,Stanislaus County,CA,2020-01,332056,Stanislaus County,CA,1096,CA,6.8
+1408,Sonoma County,CA,2020-01,650243,Sonoma County,CA,1015,CA,3
+1409,Tulare County,CA,2020-01,227999,Tulare County,CA,1338,CA,11.2
+1410,Santa Barbara County,CA,2020-01,650032,Santa Barbara County,CA,1230,CA,4.6
+1411,Monterey County,CA,2020-01,605323,Monterey County,CA,778,CA,10.1
+1412,Solano County,CA,2020-01,452499,Solano County,CA,913,CA,4.2
+1413,Placer County,CA,2020-01,523558,Placer County,CA,1279,CA,3.4
+1414,San Luis Obispo County,CA,2020-01,634598,San Luis Obispo County,CA,1104,CA,3.2
+1415,Santa Cruz County,CA,2020-01,865746,Santa Cruz County,CA,414,CA,6.3
+1416,Merced County,CA,2020-01,281162,Merced County,CA,1159,CA,9.9
+1417,Marin County,CA,2020-01,1183210,Marin County,CA,311,CA,2.5
+1418,Butte County,CA,2020-01,341052,Butte County,CA,680,CA,5.6
+1419,Yolo County,CA,2020-01,468937,Yolo County,CA,377,CA,5.1
+1420,El Dorado County,CA,2020-01,471708,El Dorado County,CA,1075,CA,3.8
+1421,Shasta County,CA,2020-01,283302,Shasta County,CA,585,CA,5.5
+1422,Imperial County,CA,2020-01,224368,Imperial County,CA,212,CA,19.9
+1423,Kings County,CA,2020-01,237043,Kings County,CA,484,CA,9.6
+1424,Madera County,CA,2020-01,289882,Madera County,CA,814,CA,8.2
+1425,Napa County,CA,2020-01,695028,Napa County,CA,314,CA,3.7
+1426,Humboldt County,CA,2020-01,329368,Humboldt County,CA,308,CA,4.2
+1427,Nevada County,CA,2020-01,477262,Nevada County,CA,906,CA,3.7
+1428,Sutter County,CA,2020-01,319787,Sutter County,CA,295,CA,9.1
+1429,Mendocino County,CA,2020-01,398349,Mendocino County,CA,428,CA,4.9
+1430,Yuba County,CA,2020-01,292225,Yuba County,CA,304,CA,7.3
+1431,Lake County,CA,2020-01,244571,Lake County,CA,657,CA,6.3
+1432,Tehama County,CA,2020-01,262005,Tehama County,CA,401,CA,6.4
+1433,Tuolumne County,CA,2020-01,,Tuolumne County,CA,505,CA,5.2
+1434,San Benito County,CA,2020-01,633166,,,,CA,6.2
+1435,Calaveras County,CA,2020-01,332535,,,,CA,4.4
+1436,Siskiyou County,CA,2020-01,217931,,,,CA,8.5
+1437,Amador County,CA,2020-01,325668,,,,CA,4.8
+1438,Lassen County,CA,2020-01,175090,,,,CA,6
+1439,Del Norte County,CA,2020-01,273092,,,,CA,6.7
+1440,Glenn County,CA,2020-01,254266,,,,CA,7.7
+1441,Colusa County,CA,2020-01,254811,,,,CA,20
+1442,Plumas County,CA,2020-01,278872,,,,CA,10.8
+1443,Inyo County,CA,2020-01,368576,,,,CA,4
+1444,Mariposa County,CA,2020-01,301507,,,,CA,6
+1445,Mono County,CA,2020-01,474227,,,,CA,3.6
+1446,Trinity County,CA,2020-01,282224,,,,CA,7
+1447,Modoc County,CA,2020-01,136002,,,,CA,10.1
+1448,Sierra County,CA,2020-01,248989,,,,CA,6.4
+1449,Alpine County,CA,2020-01,422075,,,,CA,4.6
+1450,Los Angeles County,CA,2020-02,652904,Los Angeles County,CA,16898,CA,4.3
+1451,San Diego County,CA,2020-02,611465,San Diego County,CA,8042,CA,3.2
+1452,Orange County,CA,2020-02,755993,Orange County,CA,7037,CA,2.8
+1453,Riverside County,CA,2020-02,402564,Riverside County,CA,11154,CA,4
+1454,San Bernardino County,CA,2020-02,363191,San Bernardino County,CA,8588,CA,3.7
+1455,Santa Clara County,CA,2020-02,1261482,Santa Clara County,CA,1901,CA,2.5
+1456,Alameda County,CA,2020-02,905899,Alameda County,CA,1077,CA,2.9
+1457,Sacramento County,CA,2020-02,396550,Sacramento County,CA,3220,CA,3.7
+1458,Contra Costa County,CA,2020-02,700886,Contra Costa County,CA,2476,CA,3.1
+1459,Fresno County,CA,2020-02,272100,Fresno County,CA,1856,CA,8.4
+1460,Kern County,CA,2020-02,234253,Kern County,CA,2358,CA,9.1
+1461,Ventura County,CA,2020-02,625786,Ventura County,CA,2374,CA,3.7
+1462,San Francisco County,CA,2020-02,1453974,San Francisco County,CA,877,CA,2.2
+1463,San Mateo County,CA,2020-02,1421468,San Mateo County,CA,858,CA,2.1
+1464,San Joaquin County,CA,2020-02,382448,San Joaquin County,CA,2046,CA,6.5
+1465,Stanislaus County,CA,2020-02,334416,Stanislaus County,CA,1192,CA,6.5
+1466,Sonoma County,CA,2020-02,659678,Sonoma County,CA,1124,CA,2.8
+1467,Tulare County,CA,2020-02,230552,Tulare County,CA,1425,CA,11.3
+1468,Santa Barbara County,CA,2020-02,652899,Santa Barbara County,CA,1277,CA,4.4
+1469,Monterey County,CA,2020-02,608364,Monterey County,CA,872,CA,10.1
+1470,Solano County,CA,2020-02,452992,Solano County,CA,974,CA,3.9
+1471,Placer County,CA,2020-02,526336,Placer County,CA,1449,CA,3.1
+1472,San Luis Obispo County,CA,2020-02,639795,San Luis Obispo County,CA,1257,CA,3
+1473,Santa Cruz County,CA,2020-02,873187,Santa Cruz County,CA,471,CA,6.4
+1474,Merced County,CA,2020-02,283926,Merced County,CA,1244,CA,10.2
+1475,Marin County,CA,2020-02,1194038,Marin County,CA,380,CA,2.4
+1476,Butte County,CA,2020-02,336800,Butte County,CA,686,CA,5.4
+1477,Yolo County,CA,2020-02,477171,Yolo County,CA,433,CA,4.8
+1478,El Dorado County,CA,2020-02,472754,El Dorado County,CA,1177,CA,3.6
+1479,Shasta County,CA,2020-02,283116,Shasta County,CA,568,CA,5.4
+1480,Imperial County,CA,2020-02,225748,Imperial County,CA,222,CA,18.1
+1481,Kings County,CA,2020-02,239459,Kings County,CA,486,CA,9.8
+1482,Madera County,CA,2020-02,291987,Madera County,CA,858,CA,7.9
+1483,Napa County,CA,2020-02,691980,Napa County,CA,365,CA,3.2
+1484,Humboldt County,CA,2020-02,328400,Humboldt County,CA,281,CA,3.8
+1485,Nevada County,CA,2020-02,478372,Nevada County,CA,943,CA,3.6
+1486,Sutter County,CA,2020-02,319004,Sutter County,CA,288,CA,9
+1487,Mendocino County,CA,2020-02,399824,Mendocino County,CA,441,CA,4.6
+1488,Yuba County,CA,2020-02,293073,Yuba County,CA,358,CA,7
+1489,Lake County,CA,2020-02,245025,Lake County,CA,670,CA,5.8
+1490,Tehama County,CA,2020-02,254055,Tehama County,CA,420,CA,6.1
+1491,Tuolumne County,CA,2020-02,,Tuolumne County,CA,553,CA,5.1
+1492,San Benito County,CA,2020-02,643791,,,,CA,5.9
+1493,Calaveras County,CA,2020-02,332986,,,,CA,4.1
+1494,Siskiyou County,CA,2020-02,217964,,,,CA,8.4
+1495,Amador County,CA,2020-02,325944,,,,CA,4.4
+1496,Lassen County,CA,2020-02,175294,,,,CA,5.9
+1497,Del Norte County,CA,2020-02,273317,,,,CA,6.2
+1498,Glenn County,CA,2020-02,254797,,,,CA,7.1
+1499,Colusa County,CA,2020-02,254380,,,,CA,20.2
+1500,Plumas County,CA,2020-02,278920,,,,CA,10.8
+1501,Inyo County,CA,2020-02,369630,,,,CA,3.9
+1502,Mariposa County,CA,2020-02,302005,,,,CA,5.9
+1503,Mono County,CA,2020-02,474600,,,,CA,3.7
+1504,Trinity County,CA,2020-02,282120,,,,CA,7.2
+1505,Modoc County,CA,2020-02,135915,,,,CA,9.6
+1506,Sierra County,CA,2020-02,249078,,,,CA,6.9
+1507,Alpine County,CA,2020-02,420877,,,,CA,5.1
+1508,Los Angeles County,CA,2020-03,659734,Los Angeles County,CA,17312,CA,6.7
+1509,San Diego County,CA,2020-03,617153,San Diego County,CA,8421,CA,3.8
+1510,Orange County,CA,2020-03,763185,Orange County,CA,7310,CA,3.3
+1511,Riverside County,CA,2020-03,403051,Riverside County,CA,11192,CA,4.7
+1512,San Bernardino County,CA,2020-03,365886,San Bernardino County,CA,8771,CA,4.4
+1513,Santa Clara County,CA,2020-03,1282227,Santa Clara County,CA,2212,CA,3
+1514,Alameda County,CA,2020-03,913653,Alameda County,CA,1176,CA,3.5
+1515,Sacramento County,CA,2020-03,399927,Sacramento County,CA,3440,CA,4.3
+1516,Contra Costa County,CA,2020-03,699059,Contra Costa County,CA,2852,CA,3.6
+1517,Fresno County,CA,2020-03,274229,Fresno County,CA,1851,CA,9.8
+1518,Kern County,CA,2020-03,236787,Kern County,CA,2426,CA,11
+1519,Ventura County,CA,2020-03,625048,Ventura County,CA,2477,CA,4.2
+1520,San Francisco County,CA,2020-03,1455886,San Francisco County,CA,924,CA,2.8
+1521,San Mateo County,CA,2020-03,1444608,San Mateo County,CA,988,CA,2.5
+1522,San Joaquin County,CA,2020-03,384649,San Joaquin County,CA,2112,CA,7.5
+1523,Stanislaus County,CA,2020-03,335863,Stanislaus County,CA,1330,CA,7.6
+1524,Sonoma County,CA,2020-03,663563,Sonoma County,CA,1209,CA,3.3
+1525,Tulare County,CA,2020-03,232126,Tulare County,CA,1489,CA,13.2
+1526,Santa Barbara County,CA,2020-03,654558,Santa Barbara County,CA,1313,CA,4.9
+1527,Monterey County,CA,2020-03,611182,Monterey County,CA,930,CA,11.2
+1528,Solano County,CA,2020-03,456618,Solano County,CA,1051,CA,4.6
+1529,Placer County,CA,2020-03,528648,Placer County,CA,1652,CA,3.6
+1530,San Luis Obispo County,CA,2020-03,642797,San Luis Obispo County,CA,1294,CA,3.5
+1531,Santa Cruz County,CA,2020-03,881668,Santa Cruz County,CA,554,CA,7.4
+1532,Merced County,CA,2020-03,286679,Merced County,CA,1258,CA,11.6
+1533,Marin County,CA,2020-03,1201571,Marin County,CA,451,CA,2.8
+1534,Butte County,CA,2020-03,334235,Butte County,CA,728,CA,6.1
+1535,Yolo County,CA,2020-03,482656,Yolo County,CA,484,CA,5.4
+1536,El Dorado County,CA,2020-03,473885,El Dorado County,CA,1233,CA,4.2
+1537,Shasta County,CA,2020-03,282166,Shasta County,CA,588,CA,6.2
+1538,Imperial County,CA,2020-03,226691,Imperial County,CA,210,CA,20.1
+1539,Kings County,CA,2020-03,241363,Kings County,CA,490,CA,11.3
+1540,Madera County,CA,2020-03,292747,Madera County,CA,902,CA,9.6
+1541,Napa County,CA,2020-03,692462,Napa County,CA,455,CA,3.7
+1542,Humboldt County,CA,2020-03,327060,Humboldt County,CA,291,CA,4.4
+1543,Nevada County,CA,2020-03,477300,Nevada County,CA,1005,CA,4.2
+1544,Sutter County,CA,2020-03,321278,Sutter County,CA,292,CA,10.3
+1545,Mendocino County,CA,2020-03,402426,Mendocino County,CA,442,CA,5.3
+1546,Yuba County,CA,2020-03,294633,Yuba County,CA,408,CA,7.9
+1547,Lake County,CA,2020-03,246632,Lake County,CA,679,CA,6.6
+1548,Tehama County,CA,2020-03,245124,Tehama County,CA,469,CA,6.9
+1549,Tuolumne County,CA,2020-03,,Tuolumne County,CA,584,CA,5.9
+1550,San Benito County,CA,2020-03,646735,,,,CA,7
+1551,Calaveras County,CA,2020-03,334566,,,,CA,4.9
+1552,Siskiyou County,CA,2020-03,217892,,,,CA,9.2
+1553,Amador County,CA,2020-03,326325,,,,CA,4.9
+1554,Lassen County,CA,2020-03,175981,,,,CA,6.6
+1555,Del Norte County,CA,2020-03,273696,,,,CA,6.9
+1556,Glenn County,CA,2020-03,255266,,,,CA,8
+1557,Colusa County,CA,2020-03,254122,,,,CA,21.4
+1558,Plumas County,CA,2020-03,278802,,,,CA,11.9
+1559,Inyo County,CA,2020-03,369376,,,,CA,4.4
+1560,Mariposa County,CA,2020-03,302031,,,,CA,6.7
+1561,Mono County,CA,2020-03,475115,,,,CA,4.4
+1562,Trinity County,CA,2020-03,282100,,,,CA,8.2
+1563,Modoc County,CA,2020-03,135505,,,,CA,10.2
+1564,Sierra County,CA,2020-03,249191,,,,CA,7.8
+1565,Alpine County,CA,2020-03,420294,,,,CA,5.5
+1566,Los Angeles County,CA,2020-04,665278,Los Angeles County,CA,15269,CA,17.5
+1567,San Diego County,CA,2020-04,621118,San Diego County,CA,7692,CA,15.9
+1568,Orange County,CA,2020-04,767285,Orange County,CA,6320,CA,14.4
+1569,Riverside County,CA,2020-04,405092,Riverside County,CA,10042,CA,16
+1570,San Bernardino County,CA,2020-04,368559,San Bernardino County,CA,8055,CA,14.2
+1571,Santa Clara County,CA,2020-04,1287616,Santa Clara County,CA,2081,CA,12.2
+1572,Alameda County,CA,2020-04,911663,Alameda County,CA,1102,CA,14.6
+1573,Sacramento County,CA,2020-04,402764,Sacramento County,CA,3434,CA,14.9
+1574,Contra Costa County,CA,2020-04,702122,Contra Costa County,CA,2417,CA,15.1
+1575,Fresno County,CA,2020-04,276566,Fresno County,CA,1875,CA,17.1
+1576,Kern County,CA,2020-04,238994,Kern County,CA,2394,CA,18.6
+1577,Ventura County,CA,2020-04,624481,Ventura County,CA,2231,CA,14.5
+1578,San Francisco County,CA,2020-04,1465145,San Francisco County,CA,661,CA,13
+1579,San Mateo County,CA,2020-04,1445171,San Mateo County,CA,865,CA,11.8
+1580,San Joaquin County,CA,2020-04,388179,San Joaquin County,CA,1930,CA,17.9
+1581,Stanislaus County,CA,2020-04,337326,Stanislaus County,CA,1272,CA,17.2
+1582,Sonoma County,CA,2020-04,660626,Sonoma County,CA,1059,CA,15.4
+1583,Tulare County,CA,2020-04,234711,Tulare County,CA,1456,CA,18.6
+1584,Santa Barbara County,CA,2020-04,660587,Santa Barbara County,CA,1230,CA,14
+1585,Monterey County,CA,2020-04,611882,Monterey County,CA,829,CA,19.1
+1586,Solano County,CA,2020-04,458608,Solano County,CA,986,CA,15.7
+1587,Placer County,CA,2020-04,532134,Placer County,CA,1582,CA,13.2
+1588,San Luis Obispo County,CA,2020-04,646372,San Luis Obispo County,CA,1167,CA,14.8
+1589,Santa Cruz County,CA,2020-04,886654,Santa Cruz County,CA,518,CA,17.6
+1590,Merced County,CA,2020-04,287990,Merced County,CA,1231,CA,18.5
+1591,Marin County,CA,2020-04,1206095,Marin County,CA,339,CA,12.1
+1592,Butte County,CA,2020-04,333078,Butte County,CA,666,CA,15.9
+1593,Yolo County,CA,2020-04,484163,Yolo County,CA,464,CA,11.8
+1594,El Dorado County,CA,2020-04,473276,El Dorado County,CA,1125,CA,15.5
+1595,Shasta County,CA,2020-04,284115,Shasta County,CA,634,CA,15.7
+1596,Imperial County,CA,2020-04,226218,Imperial County,CA,199,CA,28.6
+1597,Kings County,CA,2020-04,244003,Kings County,CA,464,CA,16.9
+1598,Madera County,CA,2020-04,293319,Madera County,CA,878,CA,17.4
+1599,Napa County,CA,2020-04,696546,Napa County,CA,387,CA,17.8
+1600,Humboldt County,CA,2020-04,326683,Humboldt County,CA,294,CA,15.2
+1601,Nevada County,CA,2020-04,475372,Nevada County,CA,885,CA,15.4
+1602,Sutter County,CA,2020-04,324277,Sutter County,CA,265,CA,17.8
+1603,Mendocino County,CA,2020-04,401028,Mendocino County,CA,394,CA,15.6
+1604,Yuba County,CA,2020-04,296115,Yuba County,CA,386,CA,16.4
+1605,Lake County,CA,2020-04,248747,Lake County,CA,596,CA,16
+1606,Tehama County,CA,2020-04,245031,Tehama County,CA,445,CA,14.7
+1607,Tuolumne County,CA,2020-04,,Tuolumne County,CA,523,CA,19.9
+1608,San Benito County,CA,2020-04,640359,,,,CA,18.8
+1609,Calaveras County,CA,2020-04,336146,,,,CA,13.7
+1610,Siskiyou County,CA,2020-04,217643,,,,CA,15.6
+1611,Amador County,CA,2020-04,326188,,,,CA,15.2
+1612,Lassen County,CA,2020-04,176568,,,,CA,11.5
+1613,Del Norte County,CA,2020-04,273863,,,,CA,14.5
+1614,Glenn County,CA,2020-04,255294,,,,CA,14.4
+1615,Colusa County,CA,2020-04,254322,,,,CA,25.7
+1616,Plumas County,CA,2020-04,278616,,,,CA,18.7
+1617,Inyo County,CA,2020-04,369546,,,,CA,14.9
+1618,Mariposa County,CA,2020-04,301678,,,,CA,20.4
+1619,Mono County,CA,2020-04,475316,,,,CA,28.2
+1620,Trinity County,CA,2020-04,282805,,,,CA,13.2
+1621,Modoc County,CA,2020-04,134781,,,,CA,13.2
+1622,Sierra County,CA,2020-04,248303,,,,CA,14.3
+1623,Alpine County,CA,2020-04,419433,,,,CA,22.9
+1624,Los Angeles County,CA,2020-05,663097,Los Angeles County,CA,16535,CA,19.2
+1625,San Diego County,CA,2020-05,624059,San Diego County,CA,8270,CA,15.6
+1626,Orange County,CA,2020-05,765877,Orange County,CA,7059,CA,14.9
+1627,Riverside County,CA,2020-05,407515,Riverside County,CA,10170,CA,15.7
+1628,San Bernardino County,CA,2020-05,368292,San Bernardino County,CA,8308,CA,14.1
+1629,Santa Clara County,CA,2020-05,1269885,Santa Clara County,CA,2508,CA,11.3
+1630,Alameda County,CA,2020-05,904066,Alameda County,CA,1417,CA,13.8
+1631,Sacramento County,CA,2020-05,402972,Sacramento County,CA,3861,CA,14.3
+1632,Contra Costa County,CA,2020-05,698164,Contra Costa County,CA,2792,CA,14
+1633,Fresno County,CA,2020-05,277788,Fresno County,CA,1828,CA,15.2
+1634,Kern County,CA,2020-05,239825,Kern County,CA,2365,CA,16.9
+1635,Ventura County,CA,2020-05,626285,Ventura County,CA,2342,CA,13.6
+1636,San Francisco County,CA,2020-05,1455058,San Francisco County,CA,1008,CA,12.8
+1637,San Mateo County,CA,2020-05,1427071,San Mateo County,CA,1059,CA,11.3
+1638,San Joaquin County,CA,2020-05,388736,San Joaquin County,CA,1973,CA,15.8
+1639,Stanislaus County,CA,2020-05,341021,Stanislaus County,CA,1334,CA,15.6
+1640,Sonoma County,CA,2020-05,655434,Sonoma County,CA,1358,CA,13.4
+1641,Tulare County,CA,2020-05,236564,Tulare County,CA,1382,CA,16.5
+1642,Santa Barbara County,CA,2020-05,664925,Santa Barbara County,CA,1340,CA,12.4
+1643,Monterey County,CA,2020-05,616371,Monterey County,CA,913,CA,14.8
+1644,Solano County,CA,2020-05,461563,Solano County,CA,1096,CA,14.5
+1645,Placer County,CA,2020-05,530961,Placer County,CA,1859,CA,12.4
+1646,San Luis Obispo County,CA,2020-05,644958,San Luis Obispo County,CA,1222,CA,13.1
+1647,Santa Cruz County,CA,2020-05,884431,Santa Cruz County,CA,614,CA,14.3
+1648,Merced County,CA,2020-05,286597,Merced County,CA,1201,CA,15.7
+1649,Marin County,CA,2020-05,1203484,Marin County,CA,591,CA,11
+1650,Butte County,CA,2020-05,332025,Butte County,CA,692,CA,13.3
+1651,Yolo County,CA,2020-05,481722,Yolo County,CA,532,CA,10.5
+1652,El Dorado County,CA,2020-05,471770,El Dorado County,CA,1268,CA,14.9
+1653,Shasta County,CA,2020-05,285811,Shasta County,CA,618,CA,12.8
+1654,Imperial County,CA,2020-05,225592,Imperial County,CA,176,CA,27.5
+1655,Kings County,CA,2020-05,245087,Kings County,CA,438,CA,14.9
+1656,Madera County,CA,2020-05,293750,Madera County,CA,882,CA,14.8
+1657,Napa County,CA,2020-05,702526,Napa County,CA,498,CA,15.2
+1658,Humboldt County,CA,2020-05,328400,Humboldt County,CA,293,CA,12.9
+1659,Nevada County,CA,2020-05,472353,Nevada County,CA,1013,CA,13.1
+1660,Sutter County,CA,2020-05,328539,Sutter County,CA,291,CA,14.7
+1661,Mendocino County,CA,2020-05,401393,Mendocino County,CA,409,CA,13.6
+1662,Yuba County,CA,2020-05,297725,Yuba County,CA,372,CA,14.6
+1663,Lake County,CA,2020-05,250456,Lake County,CA,613,CA,14.2
+1664,Tehama County,CA,2020-05,246019,Tehama County,CA,421,CA,12.4
+1665,Tuolumne County,CA,2020-05,,Tuolumne County,CA,553,CA,17.7
+1666,San Benito County,CA,2020-05,635041,,,,CA,14.9
+1667,Calaveras County,CA,2020-05,337736,,,,CA,11.6
+1668,Siskiyou County,CA,2020-05,217266,,,,CA,12.6
+1669,Amador County,CA,2020-05,325912,,,,CA,15.3
+1670,Lassen County,CA,2020-05,176919,,,,CA,9.5
+1671,Del Norte County,CA,2020-05,273985,,,,CA,13.4
+1672,Glenn County,CA,2020-05,255305,,,,CA,11.7
+1673,Colusa County,CA,2020-05,254370,,,,CA,19.4
+1674,Plumas County,CA,2020-05,278504,,,,CA,13.6
+1675,Inyo County,CA,2020-05,369506,,,,CA,12.5
+1676,Mariposa County,CA,2020-05,301167,,,,CA,19.1
+1677,Mono County,CA,2020-05,474509,,,,CA,26.5
+1678,Trinity County,CA,2020-05,282748,,,,CA,10.5
+1679,Modoc County,CA,2020-05,133964,,,,CA,10.1
+1680,Sierra County,CA,2020-05,247785,,,,CA,11.4
+1681,Alpine County,CA,2020-05,419118,,,,CA,22.8
+1682,Los Angeles County,CA,2020-06,660358,Los Angeles County,CA,18703,CA,17.8
+1683,San Diego County,CA,2020-06,624302,San Diego County,CA,8957,CA,13.5
+1684,Orange County,CA,2020-06,762505,Orange County,CA,8191,CA,13.3
+1685,Riverside County,CA,2020-06,409046,Riverside County,CA,10583,CA,13.7
+1686,San Bernardino County,CA,2020-06,368398,San Bernardino County,CA,8882,CA,13
+1687,Santa Clara County,CA,2020-06,1253191,Santa Clara County,CA,2975,CA,10.3
+1688,Alameda County,CA,2020-06,895276,Alameda County,CA,1476,CA,13
+1689,Sacramento County,CA,2020-06,401318,Sacramento County,CA,4181,CA,12.9
+1690,Contra Costa County,CA,2020-06,695085,Contra Costa County,CA,3189,CA,12.9
+1691,Fresno County,CA,2020-06,277247,Fresno County,CA,1677,CA,13.5
+1692,Kern County,CA,2020-06,240115,Kern County,CA,2267,CA,15.7
+1693,Ventura County,CA,2020-06,626728,Ventura County,CA,2510,CA,11.9
+1694,San Francisco County,CA,2020-06,1444861,San Francisco County,CA,1408,CA,12
+1695,San Mateo County,CA,2020-06,1406162,San Mateo County,CA,1283,CA,10.5
+1696,San Joaquin County,CA,2020-06,386978,San Joaquin County,CA,2127,CA,14.5
+1697,Stanislaus County,CA,2020-06,342992,Stanislaus County,CA,1314,CA,13.7
+1698,Sonoma County,CA,2020-06,650522,Sonoma County,CA,1641,CA,11.4
+1699,Tulare County,CA,2020-06,239084,Tulare County,CA,1350,CA,15
+1700,Santa Barbara County,CA,2020-06,665754,Santa Barbara County,CA,1400,CA,10.7
+1701,Monterey County,CA,2020-06,619664,Monterey County,CA,1020,CA,12.1
+1702,Solano County,CA,2020-06,462288,Solano County,CA,1110,CA,12.9
+1703,Placer County,CA,2020-06,529982,Placer County,CA,2151,CA,10.5
+1704,San Luis Obispo County,CA,2020-06,644585,San Luis Obispo County,CA,1306,CA,11
+1705,Santa Cruz County,CA,2020-06,880276,Santa Cruz County,CA,727,CA,12.2
+1706,Merced County,CA,2020-06,286643,Merced County,CA,1240,CA,14.4
+1707,Marin County,CA,2020-06,1212281,Marin County,CA,748,CA,10
+1708,Butte County,CA,2020-06,330489,Butte County,CA,730,CA,11.6
+1709,Yolo County,CA,2020-06,480806,Yolo County,CA,570,CA,9.8
+1710,El Dorado County,CA,2020-06,471103,El Dorado County,CA,1466,CA,12
+1711,Shasta County,CA,2020-06,286367,Shasta County,CA,581,CA,10.6
+1712,Imperial County,CA,2020-06,226243,Imperial County,CA,184,CA,26.5
+1713,Kings County,CA,2020-06,245758,Kings County,CA,438,CA,13.3
+1714,Madera County,CA,2020-06,295615,Madera County,CA,847,CA,12.9
+1715,Napa County,CA,2020-06,703362,Napa County,CA,558,CA,12.4
+1716,Humboldt County,CA,2020-06,330526,Humboldt County,CA,256,CA,11.5
+1717,Nevada County,CA,2020-06,473851,Nevada County,CA,1176,CA,11.2
+1718,Sutter County,CA,2020-06,329424,Sutter County,CA,303,CA,12.8
+1719,Mendocino County,CA,2020-06,405941,Mendocino County,CA,451,CA,12
+1720,Yuba County,CA,2020-06,299274,Yuba County,CA,386,CA,12.7
+1721,Lake County,CA,2020-06,251631,Lake County,CA,633,CA,12.3
+1722,Tehama County,CA,2020-06,246465,Tehama County,CA,401,CA,10.7
+1723,Tuolumne County,CA,2020-06,,Tuolumne County,CA,614,CA,13.9
+1724,San Benito County,CA,2020-06,635236,,,,CA,12.7
+1725,Calaveras County,CA,2020-06,335996,,,,CA,10
+1726,Siskiyou County,CA,2020-06,216803,,,,CA,10.9
+1727,Amador County,CA,2020-06,325837,,,,CA,12.1
+1728,Lassen County,CA,2020-06,176888,,,,CA,8.3
+1729,Del Norte County,CA,2020-06,274165,,,,CA,11.6
+1730,Glenn County,CA,2020-06,255112,,,,CA,10.5
+1731,Colusa County,CA,2020-06,254219,,,,CA,16.2
+1732,Plumas County,CA,2020-06,278446,,,,CA,10.8
+1733,Inyo County,CA,2020-06,369423,,,,CA,10.4
+1734,Mariposa County,CA,2020-06,300676,,,,CA,14.2
+1735,Mono County,CA,2020-06,473201,,,,CA,21
+1736,Trinity County,CA,2020-06,281914,,,,CA,8.9
+1737,Modoc County,CA,2020-06,133567,,,,CA,8.7
+1738,Sierra County,CA,2020-06,247747,,,,CA,9.5
+1739,Alpine County,CA,2020-06,418594,,,,CA,19.6
+1740,Los Angeles County,CA,2020-07,662938,Los Angeles County,CA,19805,CA,18.4
+1741,San Diego County,CA,2020-07,627906,San Diego County,CA,8913,CA,12.3
+1742,Orange County,CA,2020-07,762685,Orange County,CA,8581,CA,12.3
+1743,Riverside County,CA,2020-07,411743,Riverside County,CA,10284,CA,13.2
+1744,San Bernardino County,CA,2020-07,370518,San Bernardino County,CA,8683,CA,12.7
+1745,Santa Clara County,CA,2020-07,1248465,Santa Clara County,CA,3113,CA,9.3
+1746,Alameda County,CA,2020-07,900945,Alameda County,CA,1491,CA,12
+1747,Sacramento County,CA,2020-07,402577,Sacramento County,CA,4107,CA,12.1
+1748,Contra Costa County,CA,2020-07,701009,Contra Costa County,CA,3247,CA,11.9
+1749,Fresno County,CA,2020-07,279873,Fresno County,CA,1513,CA,13
+1750,Kern County,CA,2020-07,242293,Kern County,CA,2299,CA,15.2
+1751,Ventura County,CA,2020-07,629911,Ventura County,CA,2566,CA,11.2
+1752,San Francisco County,CA,2020-07,1426198,San Francisco County,CA,1692,CA,11
+1753,San Mateo County,CA,2020-07,1405621,San Mateo County,CA,1415,CA,9.4
+1754,San Joaquin County,CA,2020-07,388909,San Joaquin County,CA,2094,CA,13.8
+1755,Stanislaus County,CA,2020-07,345677,Stanislaus County,CA,1267,CA,12.9
+1756,Sonoma County,CA,2020-07,650414,Sonoma County,CA,1610,CA,10
+1757,Tulare County,CA,2020-07,241881,Tulare County,CA,1261,CA,15
+1758,Santa Barbara County,CA,2020-07,663561,Santa Barbara County,CA,1371,CA,9.6
+1759,Monterey County,CA,2020-07,623704,Monterey County,CA,1025,CA,10.4
+1760,Solano County,CA,2020-07,461191,Solano County,CA,1045,CA,12.1
+1761,Placer County,CA,2020-07,531064,Placer County,CA,2111,CA,9.4
+1762,San Luis Obispo County,CA,2020-07,645719,San Luis Obispo County,CA,1313,CA,9.9
+1763,Santa Cruz County,CA,2020-07,883541,Santa Cruz County,CA,698,CA,10.6
+1764,Merced County,CA,2020-07,290715,Merced County,CA,1170,CA,13.9
+1765,Marin County,CA,2020-07,1228688,Marin County,CA,740,CA,9.1
+1766,Butte County,CA,2020-07,332480,Butte County,CA,705,CA,11.1
+1767,Yolo County,CA,2020-07,480871,Yolo County,CA,538,CA,9.1
+1768,El Dorado County,CA,2020-07,474872,El Dorado County,CA,1504,CA,9.9
+1769,Shasta County,CA,2020-07,287364,Shasta County,CA,501,CA,10.1
+1770,Imperial County,CA,2020-07,229478,Imperial County,CA,166,CA,27.5
+1771,Kings County,CA,2020-07,247161,Kings County,CA,432,CA,12.4
+1772,Madera County,CA,2020-07,298080,Madera County,CA,811,CA,12.4
+1773,Napa County,CA,2020-07,706206,Napa County,CA,569,CA,10.7
+1774,Humboldt County,CA,2020-07,334496,Humboldt County,CA,224,CA,10.6
+1775,Nevada County,CA,2020-07,479348,Nevada County,CA,1142,CA,10
+1776,Sutter County,CA,2020-07,328606,Sutter County,CA,275,CA,11.7
+1777,Mendocino County,CA,2020-07,414557,Mendocino County,CA,434,CA,10.9
+1778,Yuba County,CA,2020-07,300997,Yuba County,CA,358,CA,12.2
+1779,Lake County,CA,2020-07,252935,Lake County,CA,647,CA,11
+1780,Tehama County,CA,2020-07,248085,Tehama County,CA,372,CA,10.3
+1781,Tuolumne County,CA,2020-07,,Tuolumne County,CA,646,CA,12.2
+1782,San Benito County,CA,2020-07,640326,,,,CA,11.3
+1783,Calaveras County,CA,2020-07,336499,,,,CA,9.1
+1784,Siskiyou County,CA,2020-07,217298,,,,CA,10.3
+1785,Amador County,CA,2020-07,325369,,,,CA,11.6
+1786,Lassen County,CA,2020-07,177432,,,,CA,8
+1787,Del Norte County,CA,2020-07,274599,,,,CA,11.1
+1788,Glenn County,CA,2020-07,256338,,,,CA,10.1
+1789,Colusa County,CA,2020-07,255377,,,,CA,13.5
+1790,Plumas County,CA,2020-07,279427,,,,CA,10
+1791,Inyo County,CA,2020-07,369215,,,,CA,9.3
+1792,Mariposa County,CA,2020-07,301033,,,,CA,11.3
+1793,Mono County,CA,2020-07,473847,,,,CA,13.7
+1794,Trinity County,CA,2020-07,282286,,,,CA,8
+1795,Modoc County,CA,2020-07,133465,,,,CA,7.8
+1796,Sierra County,CA,2020-07,248251,,,,CA,8.6
+1797,Alpine County,CA,2020-07,419179,,,,CA,14.5
+1798,Los Angeles County,CA,2020-08,672028,Los Angeles County,CA,20562,CA,16.6
+1799,San Diego County,CA,2020-08,634635,San Diego County,CA,9028,CA,10.8
+1800,Orange County,CA,2020-08,772572,Orange County,CA,8692,CA,10.7
+1801,Riverside County,CA,2020-08,416115,Riverside County,CA,10021,CA,11.6
+1802,San Bernardino County,CA,2020-08,375819,San Bernardino County,CA,8338,CA,11.3
+1803,Santa Clara County,CA,2020-08,1274282,Santa Clara County,CA,3226,CA,8.1
+1804,Alameda County,CA,2020-08,917758,Alameda County,CA,1458,CA,10.6
+1805,Sacramento County,CA,2020-08,406837,Sacramento County,CA,3952,CA,10.9
+1806,Contra Costa County,CA,2020-08,715994,Contra Costa County,CA,3254,CA,10.5
+1807,Fresno County,CA,2020-08,284047,Fresno County,CA,1477,CA,11.5
+1808,Kern County,CA,2020-08,245383,Kern County,CA,2255,CA,13
+1809,Ventura County,CA,2020-08,634426,Ventura County,CA,2497,CA,9.8
+1810,San Francisco County,CA,2020-08,1428662,San Francisco County,CA,1978,CA,9.7
+1811,San Mateo County,CA,2020-08,1429048,San Mateo County,CA,1509,CA,8.3
+1812,San Joaquin County,CA,2020-08,391939,San Joaquin County,CA,2004,CA,12.2
+1813,Stanislaus County,CA,2020-08,347982,Stanislaus County,CA,1245,CA,11.2
+1814,Sonoma County,CA,2020-08,654638,Sonoma County,CA,1518,CA,8.7
+1815,Tulare County,CA,2020-08,245052,Tulare County,CA,1234,CA,13.1
+1816,Santa Barbara County,CA,2020-08,667725,Santa Barbara County,CA,1335,CA,8.3
+1817,Monterey County,CA,2020-08,627702,Monterey County,CA,982,CA,8.8
+1818,Solano County,CA,2020-08,461224,Solano County,CA,987,CA,11
+1819,Placer County,CA,2020-08,535153,Placer County,CA,1979,CA,8.2
+1820,San Luis Obispo County,CA,2020-08,651666,San Luis Obispo County,CA,1301,CA,8.6
+1821,Santa Cruz County,CA,2020-08,898680,Santa Cruz County,CA,669,CA,9.2
+1822,Merced County,CA,2020-08,295122,Merced County,CA,995,CA,11.9
+1823,Marin County,CA,2020-08,1246341,Marin County,CA,690,CA,7.8
+1824,Butte County,CA,2020-08,335993,Butte County,CA,701,CA,9.8
+1825,Yolo County,CA,2020-08,483581,Yolo County,CA,500,CA,7.9
+1826,El Dorado County,CA,2020-08,484153,El Dorado County,CA,1368,CA,8.5
+1827,Shasta County,CA,2020-08,289916,Shasta County,CA,447,CA,8.7
+1828,Imperial County,CA,2020-08,234830,Imperial County,CA,164,CA,24.8
+1829,Kings County,CA,2020-08,250878,Kings County,CA,420,CA,11
+1830,Madera County,CA,2020-08,301330,Madera County,CA,745,CA,10.5
+1831,Napa County,CA,2020-08,710469,Napa County,CA,520,CA,9.3
+1832,Humboldt County,CA,2020-08,337734,Humboldt County,CA,217,CA,9.4
+1833,Nevada County,CA,2020-08,490804,Nevada County,CA,1072,CA,8.6
+1834,Sutter County,CA,2020-08,328915,Sutter County,CA,273,CA,10.1
+1835,Mendocino County,CA,2020-08,423427,Mendocino County,CA,419,CA,9.5
+1836,Yuba County,CA,2020-08,302866,Yuba County,CA,350,CA,10.8
+1837,Lake County,CA,2020-08,254328,Lake County,CA,593,CA,9.5
+1838,Tehama County,CA,2020-08,248555,Tehama County,CA,369,CA,8.9
+1839,Tuolumne County,CA,2020-08,,Tuolumne County,CA,631,CA,10.7
+1840,San Benito County,CA,2020-08,649358,,,,CA,9.6
+1841,Calaveras County,CA,2020-08,338926,,,,CA,7.8
+1842,Siskiyou County,CA,2020-08,218427,,,,CA,9.1
+1843,Amador County,CA,2020-08,330489,,,,CA,9.8
+1844,Lassen County,CA,2020-08,178162,,,,CA,6.8
+1845,Del Norte County,CA,2020-08,275523,,,,CA,9.8
+1846,Glenn County,CA,2020-08,257821,,,,CA,8.6
+1847,Colusa County,CA,2020-08,257267,,,,CA,10.7
+1848,Plumas County,CA,2020-08,281027,,,,CA,8.5
+1849,Inyo County,CA,2020-08,370023,,,,CA,8
+1850,Mariposa County,CA,2020-08,302775,,,,CA,10
+1851,Mono County,CA,2020-08,476614,,,,CA,11
+1852,Trinity County,CA,2020-08,284373,,,,CA,6.9
+1853,Modoc County,CA,2020-08,134225,,,,CA,6.7
+1854,Sierra County,CA,2020-08,248268,,,,CA,7.7
+1855,Alpine County,CA,2020-08,419977,,,,CA,11.6
+1856,Los Angeles County,CA,2020-09,683187,Los Angeles County,CA,21261,CA,11.9
+1857,San Diego County,CA,2020-09,644814,San Diego County,CA,8915,CA,9.6
+1858,Orange County,CA,2020-09,782708,Orange County,CA,8612,CA,9.6
+1859,Riverside County,CA,2020-09,422029,Riverside County,CA,10053,CA,10.6
+1860,San Bernardino County,CA,2020-09,381448,San Bernardino County,CA,8238,CA,10.5
+1861,Santa Clara County,CA,2020-09,1294719,Santa Clara County,CA,3346,CA,7.4
+1862,Alameda County,CA,2020-09,935910,Alameda County,CA,1401,CA,9.7
+1863,Sacramento County,CA,2020-09,413459,Sacramento County,CA,3966,CA,10
+1864,Contra Costa County,CA,2020-09,734367,Contra Costa County,CA,3246,CA,9.6
+1865,Fresno County,CA,2020-09,289571,Fresno County,CA,1498,CA,10.5
+1866,Kern County,CA,2020-09,248673,Kern County,CA,2265,CA,11.9
+1867,Ventura County,CA,2020-09,644826,Ventura County,CA,2445,CA,8.8
+1868,San Francisco County,CA,2020-09,1429761,San Francisco County,CA,2221,CA,9
+1869,San Mateo County,CA,2020-09,1435245,San Mateo County,CA,1661,CA,7.6
+1870,San Joaquin County,CA,2020-09,399859,San Joaquin County,CA,1976,CA,11.3
+1871,Stanislaus County,CA,2020-09,352452,Stanislaus County,CA,1257,CA,10.3
+1872,Sonoma County,CA,2020-09,666675,Sonoma County,CA,1382,CA,7.8
+1873,Tulare County,CA,2020-09,248082,Tulare County,CA,1250,CA,12.1
+1874,Santa Barbara County,CA,2020-09,675756,Santa Barbara County,CA,1313,CA,7.5
+1875,Monterey County,CA,2020-09,635008,Monterey County,CA,946,CA,8.1
+1876,Solano County,CA,2020-09,465571,Solano County,CA,976,CA,10.1
+1877,Placer County,CA,2020-09,543087,Placer County,CA,1985,CA,7.2
+1878,San Luis Obispo County,CA,2020-09,659907,San Luis Obispo County,CA,1227,CA,7.5
+1879,Santa Cruz County,CA,2020-09,915380,Santa Cruz County,CA,604,CA,8.3
+1880,Merced County,CA,2020-09,298744,Merced County,CA,864,CA,10.6
+1881,Marin County,CA,2020-09,1265328,Marin County,CA,701,CA,7
+1882,Butte County,CA,2020-09,341196,Butte County,CA,687,CA,9
+1883,Yolo County,CA,2020-09,486675,Yolo County,CA,476,CA,7.3
+1884,El Dorado County,CA,2020-09,498686,El Dorado County,CA,1285,CA,7.7
+1885,Shasta County,CA,2020-09,294793,Shasta County,CA,443,CA,8
+1886,Imperial County,CA,2020-09,240767,Imperial County,CA,166,CA,22.2
+1887,Kings County,CA,2020-09,254769,Kings County,CA,436,CA,10.4
+1888,Madera County,CA,2020-09,304855,Madera County,CA,729,CA,9.6
+1889,Napa County,CA,2020-09,720507,Napa County,CA,506,CA,8.3
+1890,Humboldt County,CA,2020-09,341047,Humboldt County,CA,194,CA,8.1
+1891,Nevada County,CA,2020-09,504198,Nevada County,CA,1027,CA,7.7
+1892,Sutter County,CA,2020-09,331660,Sutter County,CA,258,CA,9.4
+1893,Mendocino County,CA,2020-09,432113,Mendocino County,CA,405,CA,8.6
+1894,Yuba County,CA,2020-09,306499,Yuba County,CA,340,CA,10.1
+1895,Lake County,CA,2020-09,260334,Lake County,CA,568,CA,8.9
+1896,Tehama County,CA,2020-09,250926,Tehama County,CA,386,CA,8.1
+1897,Tuolumne County,CA,2020-09,,Tuolumne County,CA,579,CA,9.6
+1898,San Benito County,CA,2020-09,654605,,,,CA,8.9
+1899,Calaveras County,CA,2020-09,343832,,,,CA,7.3
+1900,Siskiyou County,CA,2020-09,220203,,,,CA,8
+1901,Amador County,CA,2020-09,335190,,,,CA,8.9
+1902,Lassen County,CA,2020-09,178842,,,,CA,6.3
+1903,Del Norte County,CA,2020-09,271980,,,,CA,8.9
+1904,Glenn County,CA,2020-09,259632,,,,CA,7.6
+1905,Colusa County,CA,2020-09,259460,,,,CA,10
+1906,Plumas County,CA,2020-09,282683,,,,CA,7.8
+1907,Inyo County,CA,2020-09,370730,,,,CA,7.5
+1908,Mariposa County,CA,2020-09,305210,,,,CA,9.5
+1909,Mono County,CA,2020-09,480301,,,,CA,10
+1910,Trinity County,CA,2020-09,287210,,,,CA,6.5
+1911,Modoc County,CA,2020-09,135204,,,,CA,6.1
+1912,Sierra County,CA,2020-09,248779,,,,CA,6.5
+1913,Alpine County,CA,2020-09,421041,,,,CA,11
+1914,Los Angeles County,CA,2020-10,693188,Los Angeles County,CA,21483,CA,10.8
+1915,San Diego County,CA,2020-10,655932,San Diego County,CA,8736,CA,8.4
+1916,Orange County,CA,2020-10,793156,Orange County,CA,8459,CA,8.2
+1917,Riverside County,CA,2020-10,427508,Riverside County,CA,9936,CA,9.3
+1918,San Bernardino County,CA,2020-10,387031,San Bernardino County,CA,8066,CA,9.4
+1919,Santa Clara County,CA,2020-10,1312779,Santa Clara County,CA,3416,CA,6.4
+1920,Alameda County,CA,2020-10,950178,Alameda County,CA,1476,CA,8.4
+1921,Sacramento County,CA,2020-10,420493,Sacramento County,CA,3934,CA,8.8
+1922,Contra Costa County,CA,2020-10,745823,Contra Costa County,CA,3314,CA,8.4
+1923,Fresno County,CA,2020-10,292299,Fresno County,CA,1522,CA,9.7
+1924,Kern County,CA,2020-10,250874,Kern County,CA,2224,CA,10.6
+1925,Ventura County,CA,2020-10,652484,Ventura County,CA,2393,CA,7.6
+1926,San Francisco County,CA,2020-10,1424861,San Francisco County,CA,2501,CA,7.6
+1927,San Mateo County,CA,2020-10,1444833,San Mateo County,CA,1732,CA,6.6
+1928,San Joaquin County,CA,2020-10,405524,San Joaquin County,CA,1941,CA,10.2
+1929,Stanislaus County,CA,2020-10,356457,Stanislaus County,CA,1252,CA,9.4
+1930,Sonoma County,CA,2020-10,677384,Sonoma County,CA,1375,CA,6.9
+1931,Tulare County,CA,2020-10,250533,Tulare County,CA,1288,CA,11.1
+1932,Santa Barbara County,CA,2020-10,686969,Santa Barbara County,CA,1207,CA,6.6
+1933,Monterey County,CA,2020-10,642708,Monterey County,CA,889,CA,7.4
+1934,Solano County,CA,2020-10,473446,Solano County,CA,938,CA,9
+1935,Placer County,CA,2020-10,552938,Placer County,CA,1874,CA,6.3
+1936,San Luis Obispo County,CA,2020-10,667148,San Luis Obispo County,CA,1143,CA,6.4
+1937,Santa Cruz County,CA,2020-10,930898,Santa Cruz County,CA,590,CA,7.4
+1938,Merced County,CA,2020-10,300842,Merced County,CA,859,CA,9.7
+1939,Marin County,CA,2020-10,1279421,Marin County,CA,782,CA,6
+1940,Butte County,CA,2020-10,345197,Butte County,CA,662,CA,8
+1941,Yolo County,CA,2020-10,493171,Yolo County,CA,453,CA,6.5
+1942,El Dorado County,CA,2020-10,513448,El Dorado County,CA,1212,CA,6.7
+1943,Shasta County,CA,2020-10,300224,Shasta County,CA,483,CA,7.3
+1944,Imperial County,CA,2020-10,245744,Imperial County,CA,169,CA,20
+1945,Kings County,CA,2020-10,258104,Kings County,CA,423,CA,9.8
+1946,Madera County,CA,2020-10,308456,Madera County,CA,693,CA,8.9
+1947,Napa County,CA,2020-10,733030,Napa County,CA,468,CA,7.4
+1948,Humboldt County,CA,2020-10,344798,Humboldt County,CA,169,CA,7.3
+1949,Nevada County,CA,2020-10,519906,Nevada County,CA,990,CA,6.8
+1950,Sutter County,CA,2020-10,338830,Sutter County,CA,285,CA,8.6
+1951,Mendocino County,CA,2020-10,439474,Mendocino County,CA,407,CA,7.8
+1952,Yuba County,CA,2020-10,310842,Yuba County,CA,323,CA,9.3
+1953,Lake County,CA,2020-10,266156,Lake County,CA,512,CA,8.3
+1954,Tehama County,CA,2020-10,252507,Tehama County,CA,372,CA,7.3
+1955,Tuolumne County,CA,2020-10,,Tuolumne County,CA,544,CA,8.7
+1956,San Benito County,CA,2020-10,660669,,,,CA,7.9
+1957,Calaveras County,CA,2020-10,351144,,,,CA,6.6
+1958,Siskiyou County,CA,2020-10,221305,,,,CA,7.3
+1959,Amador County,CA,2020-10,341125,,,,CA,8
+1960,Lassen County,CA,2020-10,179759,,,,CA,5.4
+1961,Del Norte County,CA,2020-10,269058,,,,CA,8.3
+1962,Glenn County,CA,2020-10,260636,,,,CA,6.8
+1963,Colusa County,CA,2020-10,260325,,,,CA,9.2
+1964,Plumas County,CA,2020-10,284123,,,,CA,7.5
+1965,Inyo County,CA,2020-10,371706,,,,CA,6.8
+1966,Mariposa County,CA,2020-10,307265,,,,CA,8.8
+1967,Mono County,CA,2020-10,483522,,,,CA,10.2
+1968,Trinity County,CA,2020-10,288336,,,,CA,6.2
+1969,Modoc County,CA,2020-10,136321,,,,CA,5.9
+1970,Sierra County,CA,2020-10,251363,,,,CA,5.6
+1971,Alpine County,CA,2020-10,419610,,,,CA,10.3
+1972,Los Angeles County,CA,2020-11,700929,Los Angeles County,CA,21108,CA,10.7
+1973,San Diego County,CA,2020-11,668101,San Diego County,CA,8286,CA,6.8
+1974,Orange County,CA,2020-11,800158,Orange County,CA,7683,CA,6.6
+1975,Riverside County,CA,2020-11,433756,Riverside County,CA,9572,CA,7.7
+1976,San Bernardino County,CA,2020-11,392388,San Bernardino County,CA,7611,CA,7.9
+1977,Santa Clara County,CA,2020-11,1326230,Santa Clara County,CA,3212,CA,5.2
+1978,Alameda County,CA,2020-11,965245,Alameda County,CA,1346,CA,6.8
+1979,Sacramento County,CA,2020-11,427162,Sacramento County,CA,3635,CA,7.3
+1980,Contra Costa County,CA,2020-11,755382,Contra Costa County,CA,3120,CA,6.9
+1981,Fresno County,CA,2020-11,295285,Fresno County,CA,1410,CA,8.5
+1982,Kern County,CA,2020-11,253776,Kern County,CA,2117,CA,9
+1983,Ventura County,CA,2020-11,659658,Ventura County,CA,2186,CA,6.4
+1984,San Francisco County,CA,2020-11,1412432,San Francisco County,CA,2300,CA,5.9
+1985,San Mateo County,CA,2020-11,1446102,San Mateo County,CA,1605,CA,5.3
+1986,San Joaquin County,CA,2020-11,412945,San Joaquin County,CA,1813,CA,8.7
+1987,Stanislaus County,CA,2020-11,359905,Stanislaus County,CA,1210,CA,8.1
+1988,Sonoma County,CA,2020-11,688274,Sonoma County,CA,1365,CA,5.7
+1989,Tulare County,CA,2020-11,253779,Tulare County,CA,1257,CA,9.6
+1990,Santa Barbara County,CA,2020-11,694696,Santa Barbara County,CA,1135,CA,5.7
+1991,Monterey County,CA,2020-11,649377,Monterey County,CA,841,CA,7
+1992,Solano County,CA,2020-11,480241,Solano County,CA,862,CA,7.5
+1993,Placer County,CA,2020-11,563063,Placer County,CA,1658,CA,5.2
+1994,San Luis Obispo County,CA,2020-11,673122,San Luis Obispo County,CA,1042,CA,5.4
+1995,Santa Cruz County,CA,2020-11,943551,Santa Cruz County,CA,552,CA,6.6
+1996,Merced County,CA,2020-11,306344,Merced County,CA,861,CA,8.9
+1997,Marin County,CA,2020-11,1293049,Marin County,CA,711,CA,4.9
+1998,Butte County,CA,2020-11,348469,Butte County,CA,690,CA,6.9
+1999,Yolo County,CA,2020-11,500699,Yolo County,CA,429,CA,5.8
+2000,El Dorado County,CA,2020-11,525980,El Dorado County,CA,1071,CA,5.7
+2001,Shasta County,CA,2020-11,304698,Shasta County,CA,466,CA,6.5
+2002,Imperial County,CA,2020-11,249591,Imperial County,CA,165,CA,16.4
+2003,Kings County,CA,2020-11,260360,Kings County,CA,456,CA,8.8
+2004,Madera County,CA,2020-11,311143,Madera County,CA,669,CA,7.9
+2005,Napa County,CA,2020-11,744631,Napa County,CA,453,CA,6.4
+2006,Humboldt County,CA,2020-11,348459,Humboldt County,CA,181,CA,6.2
+2007,Nevada County,CA,2020-11,533022,Nevada County,CA,925,CA,5.7
+2008,Sutter County,CA,2020-11,346309,Sutter County,CA,283,CA,8
+2009,Mendocino County,CA,2020-11,445598,Mendocino County,CA,372,CA,6.7
+2010,Yuba County,CA,2020-11,315661,Yuba County,CA,277,CA,8.3
+2011,Lake County,CA,2020-11,272586,Lake County,CA,512,CA,7.4
+2012,Tehama County,CA,2020-11,255196,Tehama County,CA,361,CA,6.6
+2013,Tuolumne County,CA,2020-11,,Tuolumne County,CA,492,CA,7.4
+2014,San Benito County,CA,2020-11,662898,,,,CA,6.9
+2015,Calaveras County,CA,2020-11,357762,,,,CA,5.6
+2016,Siskiyou County,CA,2020-11,222715,,,,CA,6.8
+2017,Amador County,CA,2020-11,343976,,,,CA,6.9
+2018,Lassen County,CA,2020-11,181241,,,,CA,5
+2019,Del Norte County,CA,2020-11,266859,,,,CA,7.6
+2020,Glenn County,CA,2020-11,262208,,,,CA,6.2
+2021,Colusa County,CA,2020-11,261387,,,,CA,10.1
+2022,Plumas County,CA,2020-11,285895,,,,CA,7.4
+2023,Inyo County,CA,2020-11,373263,,,,CA,5.8
+2024,Mariposa County,CA,2020-11,308636,,,,CA,8.4
+2025,Mono County,CA,2020-11,486476,,,,CA,8.1
+2026,Trinity County,CA,2020-11,288491,,,,CA,5.7
+2027,Modoc County,CA,2020-11,137017,,,,CA,5.9
+2028,Sierra County,CA,2020-11,255523,,,,CA,5.1
+2029,Alpine County,CA,2020-11,418845,,,,CA,7.5
+2030,Los Angeles County,CA,2020-12,706371,Los Angeles County,CA,18276,CA,11
+2031,San Diego County,CA,2020-12,678817,San Diego County,CA,6897,CA,8
+2032,Orange County,CA,2020-12,808193,Orange County,CA,6538,CA,7.4
+2033,Riverside County,CA,2020-12,440067,Riverside County,CA,8377,CA,8.7
+2034,San Bernardino County,CA,2020-12,398679,San Bernardino County,CA,6558,CA,8.8
+2035,Santa Clara County,CA,2020-12,1337846,Santa Clara County,CA,2471,CA,5.9
+2036,Alameda County,CA,2020-12,972936,Alameda County,CA,1054,CA,7.5
+2037,Sacramento County,CA,2020-12,434498,Sacramento County,CA,3052,CA,8.3
+2038,Contra Costa County,CA,2020-12,763031,Contra Costa County,CA,2473,CA,7.7
+2039,Fresno County,CA,2020-12,298997,Fresno County,CA,1313,CA,10
+2040,Kern County,CA,2020-12,258040,Kern County,CA,1927,CA,10.8
+2041,Ventura County,CA,2020-12,664631,Ventura County,CA,1777,CA,7.4
+2042,San Francisco County,CA,2020-12,1404316,San Francisco County,CA,1692,CA,6.4
+2043,San Mateo County,CA,2020-12,1454708,San Mateo County,CA,1204,CA,5.8
+2044,San Joaquin County,CA,2020-12,420079,San Joaquin County,CA,1481,CA,10
+2045,Stanislaus County,CA,2020-12,364958,Stanislaus County,CA,1059,CA,9.4
+2046,Sonoma County,CA,2020-12,696560,Sonoma County,CA,1173,CA,6.6
+2047,Tulare County,CA,2020-12,256874,Tulare County,CA,1137,CA,11.5
+2048,Santa Barbara County,CA,2020-12,703362,Santa Barbara County,CA,986,CA,7.3
+2049,Monterey County,CA,2020-12,657015,Monterey County,CA,724,CA,10.3
+2050,Solano County,CA,2020-12,485492,Solano County,CA,765,CA,8.6
+2051,Placer County,CA,2020-12,568547,Placer County,CA,1340,CA,6
+2052,San Luis Obispo County,CA,2020-12,678085,San Luis Obispo County,CA,891,CA,6.7
+2053,Santa Cruz County,CA,2020-12,955905,Santa Cruz County,CA,474,CA,8.1
+2054,Merced County,CA,2020-12,311791,Merced County,CA,835,CA,11
+2055,Marin County,CA,2020-12,1300186,Marin County,CA,533,CA,5.6
+2056,Butte County,CA,2020-12,351568,Butte County,CA,587,CA,8.1
+2057,Yolo County,CA,2020-12,508871,Yolo County,CA,377,CA,6.8
+2058,El Dorado County,CA,2020-12,537422,El Dorado County,CA,846,CA,6.8
+2059,Shasta County,CA,2020-12,309388,Shasta County,CA,406,CA,7.8
+2060,Imperial County,CA,2020-12,251045,Imperial County,CA,246,CA,17.5
+2061,Kings County,CA,2020-12,263181,Kings County,CA,418,CA,10.6
+2062,Madera County,CA,2020-12,312232,Madera County,CA,572,CA,9.4
+2063,Napa County,CA,2020-12,759172,Napa County,CA,387,CA,7.5
+2064,Humboldt County,CA,2020-12,352384,Humboldt County,CA,143,CA,7.4
+2065,Nevada County,CA,2020-12,543689,Nevada County,CA,752,CA,6.7
+2066,Sutter County,CA,2020-12,354161,Sutter County,CA,223,CA,9.9
+2067,Mendocino County,CA,2020-12,449442,Mendocino County,CA,332,CA,7.7
+2068,Yuba County,CA,2020-12,318484,Yuba County,CA,239,CA,9.8
+2069,Lake County,CA,2020-12,275100,Lake County,CA,485,CA,8.8
+2070,Tehama County,CA,2020-12,256506,Tehama County,CA,347,CA,8
+2071,Tuolumne County,CA,2020-12,,Tuolumne County,CA,424,CA,9
+2072,San Benito County,CA,2020-12,668895,,,,CA,8.5
+2073,Calaveras County,CA,2020-12,365725,,,,CA,6.8
+2074,Siskiyou County,CA,2020-12,223841,,,,CA,9.5
+2075,Amador County,CA,2020-12,347868,,,,CA,8.1
+2076,Lassen County,CA,2020-12,182930,,,,CA,6.7
+2077,Del Norte County,CA,2020-12,269284,,,,CA,9
+2078,Glenn County,CA,2020-12,263690,,,,CA,7.6
+2079,Colusa County,CA,2020-12,262274,,,,CA,14
+2080,Plumas County,CA,2020-12,287919,,,,CA,10.4
+2081,Inyo County,CA,2020-12,375631,,,,CA,6.7
+2082,Mariposa County,CA,2020-12,309597,,,,CA,10.8
+2083,Mono County,CA,2020-12,489221,,,,CA,9.1
+2084,Trinity County,CA,2020-12,288833,,,,CA,7.6
+2085,Modoc County,CA,2020-12,137719,,,,CA,8.3
+2086,Sierra County,CA,2020-12,257945,,,,CA,7
+2087,Alpine County,CA,2020-12,418219,,,,CA,7.7
+2088,Los Angeles County,CA,2021-01,710177,Los Angeles County,CA,15745,CA,11.2
+2089,San Diego County,CA,2021-01,688322,San Diego County,CA,5826,CA,8
+2090,Orange County,CA,2021-01,815817,Orange County,CA,5594,CA,7.3
+2091,Riverside County,CA,2021-01,446044,Riverside County,CA,7205,CA,8.6
+2092,San Bernardino County,CA,2021-01,404974,San Bernardino County,CA,5451,CA,8.6
+2093,Santa Clara County,CA,2021-01,1346815,Santa Clara County,CA,2033,CA,5.7
+2094,Alameda County,CA,2021-01,978521,Alameda County,CA,861,CA,7.2
+2095,Sacramento County,CA,2021-01,440216,Sacramento County,CA,2432,CA,8.1
+2096,Contra Costa County,CA,2021-01,770443,Contra Costa County,CA,1972,CA,7.5
+2097,Fresno County,CA,2021-01,302645,Fresno County,CA,1061,CA,10.1
+2098,Kern County,CA,2021-01,262334,Kern County,CA,1714,CA,10.8
+2099,Ventura County,CA,2021-01,672869,Ventura County,CA,1543,CA,7.4
+2100,San Francisco County,CA,2021-01,1406124,San Francisco County,CA,1260,CA,6.2
+2101,San Mateo County,CA,2021-01,1455465,San Mateo County,CA,961,CA,5.7
+2102,San Joaquin County,CA,2021-01,428840,San Joaquin County,CA,1227,CA,10
+2103,Stanislaus County,CA,2021-01,370499,Stanislaus County,CA,878,CA,9.4
+2104,Sonoma County,CA,2021-01,702055,Sonoma County,CA,974,CA,7.1
+2105,Tulare County,CA,2021-01,259899,Tulare County,CA,1026,CA,11.5
+2106,Santa Barbara County,CA,2021-01,711238,Santa Barbara County,CA,825,CA,7.8
+2107,Monterey County,CA,2021-01,665198,Monterey County,CA,656,CA,11.5
+2108,Solano County,CA,2021-01,491162,Solano County,CA,668,CA,8.6
+2109,Placer County,CA,2021-01,570122,Placer County,CA,1056,CA,6
+2110,San Luis Obispo County,CA,2021-01,685329,San Luis Obispo County,CA,783,CA,6.8
+2111,Santa Cruz County,CA,2021-01,967046,Santa Cruz County,CA,371,CA,8.7
+2112,Merced County,CA,2021-01,318220,Merced County,CA,735,CA,11.6
+2113,Marin County,CA,2021-01,1311855,Marin County,CA,392,CA,5.4
+2114,Butte County,CA,2021-01,354950,Butte County,CA,514,CA,8.1
+2115,Yolo County,CA,2021-01,514405,Yolo County,CA,302,CA,7
+2116,El Dorado County,CA,2021-01,548548,El Dorado County,CA,676,CA,6.9
+2117,Shasta County,CA,2021-01,312168,Shasta County,CA,343,CA,7.9
+2118,Imperial County,CA,2021-01,252347,Imperial County,CA,243,CA,16.5
+2119,Kings County,CA,2021-01,267132,Kings County,CA,334,CA,10.9
+2120,Madera County,CA,2021-01,313258,Madera County,CA,508,CA,9.8
+2121,Napa County,CA,2021-01,773603,Napa County,CA,316,CA,8.8
+2122,Humboldt County,CA,2021-01,354511,Humboldt County,CA,124,CA,7.4
+2123,Nevada County,CA,2021-01,556323,Nevada County,CA,643,CA,6.7
+2124,Sutter County,CA,2021-01,356129,Sutter County,CA,178,CA,10.4
+2125,Mendocino County,CA,2021-01,449204,Mendocino County,CA,269,CA,7.7
+2126,Yuba County,CA,2021-01,320577,Yuba County,CA,201,CA,10.1
+2127,Lake County,CA,2021-01,277913,Lake County,CA,457,CA,8.9
+2128,Tehama County,CA,2021-01,257306,Tehama County,CA,315,CA,8.1
+2129,Tuolumne County,CA,2021-01,307706,Tuolumne County,CA,374,CA,9.2
+2130,San Benito County,CA,2021-01,669575,,,,CA,8.9
+2131,Calaveras County,CA,2021-01,371096,,,,CA,7
+2132,Siskiyou County,CA,2021-01,227882,,,,CA,9.9
+2133,Amador County,CA,2021-01,354109,,,,CA,8.3
+2134,Lassen County,CA,2021-01,186348,,,,CA,7
+2135,Del Norte County,CA,2021-01,275142,,,,CA,9
+2136,Glenn County,CA,2021-01,268383,,,,CA,8
+2137,Colusa County,CA,2021-01,266336,,,,CA,16
+2138,Plumas County,CA,2021-01,292833,,,,CA,12
+2139,Inyo County,CA,2021-01,381793,,,,CA,6.9
+2140,Mariposa County,CA,2021-01,313941,,,,CA,12
+2141,Mono County,CA,2021-01,496879,,,,CA,9
+2142,Trinity County,CA,2021-01,292467,,,,CA,7.8
+2143,Modoc County,CA,2021-01,140225,,,,CA,9.4
+2144,Sierra County,CA,2021-01,261686,,,,CA,7.6
+2145,Alpine County,CA,2021-01,424333,,,,CA,6.9
+2146,Los Angeles County,CA,2021-02,717192,Los Angeles County,CA,16668,CA,10.7
+2147,San Diego County,CA,2021-02,696776,San Diego County,CA,6198,CA,7.2
+2148,Orange County,CA,2021-02,824213,Orange County,CA,6065,CA,6.7
+2149,Riverside County,CA,2021-02,452767,Riverside County,CA,7297,CA,8
+2150,San Bernardino County,CA,2021-02,410973,San Bernardino County,CA,5617,CA,8.1
+2151,Santa Clara County,CA,2021-02,1348841,Santa Clara County,CA,2485,CA,5.3
+2152,Alameda County,CA,2021-02,988809,Alameda County,CA,856,CA,6.7
+2153,Sacramento County,CA,2021-02,448264,Sacramento County,CA,2407,CA,7.7
+2154,Contra Costa County,CA,2021-02,780016,Contra Costa County,CA,2122,CA,7
+2155,Fresno County,CA,2021-02,306091,Fresno County,CA,1028,CA,10.1
+2156,Kern County,CA,2021-02,266246,Kern County,CA,1630,CA,10.9
+2157,Ventura County,CA,2021-02,679557,Ventura County,CA,2166,CA,6.8
+2158,San Francisco County,CA,2021-02,1414290,San Francisco County,CA,1526,CA,5.7
+2159,San Mateo County,CA,2021-02,1462917,San Mateo County,CA,1109,CA,5.2
+2160,San Joaquin County,CA,2021-02,439594,San Joaquin County,CA,1149,CA,9.5
+2161,Stanislaus County,CA,2021-02,375365,Stanislaus County,CA,861,CA,9.1
+2162,Sonoma County,CA,2021-02,704831,Sonoma County,CA,1022,CA,6.3
+2163,Tulare County,CA,2021-02,262009,Tulare County,CA,1000,CA,11.6
+2164,Santa Barbara County,CA,2021-02,719695,Santa Barbara County,CA,861,CA,7.2
+2165,Monterey County,CA,2021-02,673164,Monterey County,CA,674,CA,11.1
+2166,Solano County,CA,2021-02,497832,Solano County,CA,603,CA,8.1
+2167,Placer County,CA,2021-02,573220,Placer County,CA,1123,CA,5.7
+2168,San Luis Obispo County,CA,2021-02,691373,San Luis Obispo County,CA,812,CA,6.3
+2169,Santa Cruz County,CA,2021-02,972667,Santa Cruz County,CA,394,CA,8.5
+2170,Merced County,CA,2021-02,322563,Merced County,CA,734,CA,11.6
+2171,Marin County,CA,2021-02,1317845,Marin County,CA,418,CA,5
+2172,Butte County,CA,2021-02,359281,Butte County,CA,565,CA,7.7
+2173,Yolo County,CA,2021-02,520400,Yolo County,CA,307,CA,6.9
+2174,El Dorado County,CA,2021-02,559328,El Dorado County,CA,733,CA,6.6
+2175,Shasta County,CA,2021-02,315431,Shasta County,CA,317,CA,7.8
+2176,Imperial County,CA,2021-02,255010,Imperial County,CA,236,CA,16
+2177,Kings County,CA,2021-02,270774,Kings County,CA,357,CA,10.7
+2178,Madera County,CA,2021-02,315699,Madera County,CA,488,CA,9.6
+2179,Napa County,CA,2021-02,784491,Napa County,CA,329,CA,7.1
+2180,Humboldt County,CA,2021-02,357586,Humboldt County,CA,111,CA,7
+2181,Nevada County,CA,2021-02,570100,Nevada County,CA,616,CA,6.3
+2182,Sutter County,CA,2021-02,359921,Sutter County,CA,190,CA,10.5
+2183,Mendocino County,CA,2021-02,450964,Mendocino County,CA,263,CA,7.4
+2184,Yuba County,CA,2021-02,323575,Yuba County,CA,230,CA,9.9
+2185,Lake County,CA,2021-02,283072,Lake County,CA,453,CA,8.3
+2186,Tehama County,CA,2021-02,258343,Tehama County,CA,298,CA,8.1
+2187,Tuolumne County,CA,2021-02,309672,Tuolumne County,CA,348,CA,8.6
+2188,San Benito County,CA,2021-02,680038,,,,CA,8.6
+2189,Calaveras County,CA,2021-02,377400,,,,CA,6.6
+2190,Siskiyou County,CA,2021-02,232185,,,,CA,9.8
+2191,Amador County,CA,2021-02,359941,,,,CA,7.8
+2192,Lassen County,CA,2021-02,190148,,,,CA,6.9
+2193,Del Norte County,CA,2021-02,281372,,,,CA,8.6
+2194,Glenn County,CA,2021-02,274034,,,,CA,7.7
+2195,Colusa County,CA,2021-02,270923,,,,CA,16.3
+2196,Plumas County,CA,2021-02,298334,,,,CA,12.4
+2197,Inyo County,CA,2021-02,388319,,,,CA,6.6
+2198,Mariposa County,CA,2021-02,319375,,,,CA,10.1
+2199,Mono County,CA,2021-02,505652,,,,CA,8
+2200,Trinity County,CA,2021-02,297293,,,,CA,7.6
+2201,Modoc County,CA,2021-02,142612,,,,CA,9.5
+2202,Sierra County,CA,2021-02,265940,,,,CA,7.7
+2203,Alpine County,CA,2021-02,432052,,,,CA,7.1
+2204,Los Angeles County,CA,2021-03,724202,Los Angeles County,CA,17163,CA,10.4
+2205,San Diego County,CA,2021-03,707104,San Diego County,CA,6314,CA,6.8
+2206,Orange County,CA,2021-03,833837,Orange County,CA,6322,CA,6.3
+2207,Riverside County,CA,2021-03,460444,Riverside County,CA,7256,CA,7.6
+2208,San Bernardino County,CA,2021-03,417359,San Bernardino County,CA,5938,CA,7.7
+2209,Santa Clara County,CA,2021-03,1352241,Santa Clara County,CA,2920,CA,5.1
+2210,Alameda County,CA,2021-03,1010317,Alameda County,CA,879,CA,6.4
+2211,Sacramento County,CA,2021-03,454031,Sacramento County,CA,2671,CA,7.3
+2212,Contra Costa County,CA,2021-03,788006,Contra Costa County,CA,2353,CA,6.7
+2213,Fresno County,CA,2021-03,310625,Fresno County,CA,1046,CA,9.9
+2214,Kern County,CA,2021-03,268458,Kern County,CA,1567,CA,11.1
+2215,Ventura County,CA,2021-03,688368,Ventura County,CA,1730,CA,6.4
+2216,San Francisco County,CA,2021-03,1426425,San Francisco County,CA,1614,CA,5.4
+2217,San Mateo County,CA,2021-03,1461558,San Mateo County,CA,1167,CA,4.9
+2218,San Joaquin County,CA,2021-03,447860,San Joaquin County,CA,1280,CA,9.1
+2219,Stanislaus County,CA,2021-03,379769,Stanislaus County,CA,894,CA,8.7
+2220,Sonoma County,CA,2021-03,710666,Sonoma County,CA,1097,CA,5.9
+2221,Tulare County,CA,2021-03,265183,Tulare County,CA,1022,CA,11.6
+2222,Santa Barbara County,CA,2021-03,730243,Santa Barbara County,CA,829,CA,6.6
+2223,Monterey County,CA,2021-03,683088,Monterey County,CA,669,CA,10.5
+2224,Solano County,CA,2021-03,506608,Solano County,CA,644,CA,7.7
+2225,Placer County,CA,2021-03,581184,Placer County,CA,1200,CA,5.4
+2226,San Luis Obispo County,CA,2021-03,700537,San Luis Obispo County,CA,836,CA,5.8
+2227,Santa Cruz County,CA,2021-03,984967,Santa Cruz County,CA,431,CA,8.2
+2228,Merced County,CA,2021-03,328885,Merced County,CA,814,CA,11.4
+2229,Marin County,CA,2021-03,1330031,Marin County,CA,457,CA,4.7
+2230,Butte County,CA,2021-03,363142,Butte County,CA,590,CA,7.4
+2231,Yolo County,CA,2021-03,525627,Yolo County,CA,331,CA,6.4
+2232,El Dorado County,CA,2021-03,570137,El Dorado County,CA,770,CA,6.2
+2233,Shasta County,CA,2021-03,320003,Shasta County,CA,319,CA,7.5
+2234,Imperial County,CA,2021-03,261928,Imperial County,CA,235,CA,15.7
+2235,Kings County,CA,2021-03,273517,Kings County,CA,404,CA,10.5
+2236,Madera County,CA,2021-03,320739,Madera County,CA,484,CA,9.5
+2237,Napa County,CA,2021-03,789195,Napa County,CA,355,CA,6.5
+2238,Humboldt County,CA,2021-03,361453,Humboldt County,CA,115,CA,6.6
+2239,Nevada County,CA,2021-03,584572,Nevada County,CA,631,CA,6.1
+2240,Sutter County,CA,2021-03,362816,Sutter County,CA,211,CA,10.3
+2241,Mendocino County,CA,2021-03,456464,Mendocino County,CA,247,CA,7.1
+2242,Yuba County,CA,2021-03,326688,Yuba County,CA,216,CA,9.7
+2243,Lake County,CA,2021-03,288327,Lake County,CA,422,CA,7.9
+2244,Tehama County,CA,2021-03,261707,Tehama County,CA,280,CA,7.9
+2245,Tuolumne County,CA,2021-03,313292,Tuolumne County,CA,348,CA,8.2
+2246,San Benito County,CA,2021-03,693864,,,,CA,8.2
+2247,Calaveras County,CA,2021-03,382723,,,,CA,6.3
+2248,Siskiyou County,CA,2021-03,237108,,,,CA,9.3
+2249,Amador County,CA,2021-03,361766,,,,CA,7.4
+2250,Lassen County,CA,2021-03,194488,,,,CA,6.6
+2251,Del Norte County,CA,2021-03,287507,,,,CA,8.3
+2252,Glenn County,CA,2021-03,280690,,,,CA,7.4
+2253,Colusa County,CA,2021-03,276610,,,,CA,15.6
+2254,Plumas County,CA,2021-03,304664,,,,CA,11.9
+2255,Inyo County,CA,2021-03,395571,,,,CA,6.4
+2256,Mariposa County,CA,2021-03,325953,,,,CA,9.3
+2257,Mono County,CA,2021-03,516116,,,,CA,7.7
+2258,Trinity County,CA,2021-03,303031,,,,CA,7.4
+2259,Modoc County,CA,2021-03,145442,,,,CA,9.1
+2260,Sierra County,CA,2021-03,271632,,,,CA,7.4
+2261,Alpine County,CA,2021-03,440771,,,,CA,7.7
+2262,Los Angeles County,CA,2021-04,734634,Los Angeles County,CA,17257,CA,10.3
+2263,San Diego County,CA,2021-04,721266,San Diego County,CA,6459,CA,6.7
+2264,Orange County,CA,2021-04,846047,Orange County,CA,6311,CA,6.2
+2265,Riverside County,CA,2021-04,470926,Riverside County,CA,7074,CA,7.5
+2266,San Bernardino County,CA,2021-04,425063,San Bernardino County,CA,6167,CA,7.6
+2267,Santa Clara County,CA,2021-04,1368448,Santa Clara County,CA,3113,CA,4.9
+2268,Alameda County,CA,2021-04,1035837,Alameda County,CA,959,CA,6.3
+2269,Sacramento County,CA,2021-04,462950,Sacramento County,CA,2900,CA,7.1
+2270,Contra Costa County,CA,2021-04,801134,Contra Costa County,CA,2438,CA,6.6
+2271,Fresno County,CA,2021-04,316128,Fresno County,CA,1099,CA,9.5
+2272,Kern County,CA,2021-04,272397,Kern County,CA,1615,CA,10.6
+2273,Ventura County,CA,2021-04,696982,Ventura County,CA,1804,CA,6.1
+2274,San Francisco County,CA,2021-04,1435072,San Francisco County,CA,1605,CA,5.3
+2275,San Mateo County,CA,2021-04,1478328,San Mateo County,CA,1262,CA,4.8
+2276,San Joaquin County,CA,2021-04,454316,San Joaquin County,CA,1388,CA,8.9
+2277,Stanislaus County,CA,2021-04,385055,Stanislaus County,CA,956,CA,8.6
+2278,Sonoma County,CA,2021-04,720798,Sonoma County,CA,1151,CA,5.7
+2279,Tulare County,CA,2021-04,268639,Tulare County,CA,1073,CA,11
+2280,Santa Barbara County,CA,2021-04,739962,Santa Barbara County,CA,821,CA,5.9
+2281,Monterey County,CA,2021-04,692099,Monterey County,CA,641,CA,8.6
+2282,Solano County,CA,2021-04,514464,Solano County,CA,672,CA,7.5
+2283,Placer County,CA,2021-04,591396,Placer County,CA,1303,CA,5.2
+2284,San Luis Obispo County,CA,2021-04,707247,San Luis Obispo County,CA,854,CA,5.5
+2285,Santa Cruz County,CA,2021-04,1005991,Santa Cruz County,CA,468,CA,7.7
+2286,Merced County,CA,2021-04,335605,Merced County,CA,824,CA,10.9
+2287,Marin County,CA,2021-04,1343530,Marin County,CA,503,CA,4.6
+2288,Butte County,CA,2021-04,366917,Butte County,CA,602,CA,7
+2289,Yolo County,CA,2021-04,533079,Yolo County,CA,385,CA,6
+2290,El Dorado County,CA,2021-04,580331,El Dorado County,CA,799,CA,5.9
+2291,Shasta County,CA,2021-04,327102,Shasta County,CA,302,CA,6.9
+2292,Imperial County,CA,2021-04,272614,Imperial County,CA,247,CA,16.2
+2293,Kings County,CA,2021-04,275302,Kings County,CA,405,CA,10.1
+2294,Madera County,CA,2021-04,326599,Madera County,CA,495,CA,9.3
+2295,Napa County,CA,2021-04,794649,Napa County,CA,360,CA,6.2
+2296,Humboldt County,CA,2021-04,368003,Humboldt County,CA,134,CA,6.3
+2297,Nevada County,CA,2021-04,592136,Nevada County,CA,687,CA,5.8
+2298,Sutter County,CA,2021-04,365544,Sutter County,CA,224,CA,9.4
+2299,Mendocino County,CA,2021-04,466306,Mendocino County,CA,278,CA,6.5
+2300,Yuba County,CA,2021-04,331683,Yuba County,CA,245,CA,8.8
+2301,Lake County,CA,2021-04,293823,Lake County,CA,435,CA,7.5
+2302,Tehama County,CA,2021-04,266219,Tehama County,CA,297,CA,7.4
+2303,Tuolumne County,CA,2021-04,320623,Tuolumne County,CA,413,CA,7.6
+2304,San Benito County,CA,2021-04,717719,,,,CA,7.6
+2305,Calaveras County,CA,2021-04,390538,,,,CA,5.9
+2306,Siskiyou County,CA,2021-04,240247,,,,CA,8
+2307,Amador County,CA,2021-04,361801,,,,CA,6.9
+2308,Lassen County,CA,2021-04,197477,,,,CA,5.9
+2309,Del Norte County,CA,2021-04,290896,,,,CA,8
+2310,Glenn County,CA,2021-04,285124,,,,CA,6.8
+2311,Colusa County,CA,2021-04,280545,,,,CA,12.9
+2312,Plumas County,CA,2021-04,308959,,,,CA,9.7
+2313,Inyo County,CA,2021-04,400937,,,,CA,6
+2314,Mariposa County,CA,2021-04,330327,,,,CA,8.1
+2315,Mono County,CA,2021-04,523389,,,,CA,7.4
+2316,Trinity County,CA,2021-04,307678,,,,CA,6.5
+2317,Modoc County,CA,2021-04,146875,,,,CA,7.3
+2318,Sierra County,CA,2021-04,275743,,,,CA,6.5
+2319,Alpine County,CA,2021-04,446454,,,,CA,8
+2320,Los Angeles County,CA,2021-05,748570,Los Angeles County,CA,17460,CA,9.5
+2321,San Diego County,CA,2021-05,742452,San Diego County,CA,6791,CA,6.3
+2322,Orange County,CA,2021-05,865295,Orange County,CA,6239,CA,5.8
+2323,Riverside County,CA,2021-05,482888,Riverside County,CA,7184,CA,7.1
+2324,San Bernardino County,CA,2021-05,435941,San Bernardino County,CA,6616,CA,7.2
+2325,Santa Clara County,CA,2021-05,1407971,Santa Clara County,CA,3188,CA,4.7
+2326,Alameda County,CA,2021-05,1064499,Alameda County,CA,1004,CA,5.9
+2327,Sacramento County,CA,2021-05,471612,Sacramento County,CA,3096,CA,6.7
+2328,Contra Costa County,CA,2021-05,824303,Contra Costa County,CA,2494,CA,6.2
+2329,Fresno County,CA,2021-05,323472,Fresno County,CA,1201,CA,8.7
+2330,Kern County,CA,2021-05,276820,Kern County,CA,1699,CA,10
+2331,Ventura County,CA,2021-05,717495,Ventura County,CA,1820,CA,5.8
+2332,San Francisco County,CA,2021-05,1452729,San Francisco County,CA,1641,CA,5.1
+2333,San Mateo County,CA,2021-05,1508780,San Mateo County,CA,1272,CA,4.6
+2334,San Joaquin County,CA,2021-05,464054,San Joaquin County,CA,1455,CA,8.3
+2335,Stanislaus County,CA,2021-05,393562,Stanislaus County,CA,998,CA,8
+2336,Sonoma County,CA,2021-05,732355,Sonoma County,CA,1288,CA,5.2
+2337,Tulare County,CA,2021-05,272720,Tulare County,CA,1065,CA,10.2
+2338,Santa Barbara County,CA,2021-05,757856,Santa Barbara County,CA,781,CA,5.4
+2339,Monterey County,CA,2021-05,703776,Monterey County,CA,676,CA,7.2
+2340,Solano County,CA,2021-05,525225,Solano County,CA,721,CA,7.1
+2341,Placer County,CA,2021-05,605982,Placer County,CA,1359,CA,4.9
+2342,San Luis Obispo County,CA,2021-05,719545,San Luis Obispo County,CA,877,CA,5.2
+2343,Santa Cruz County,CA,2021-05,1039688,Santa Cruz County,CA,519,CA,6.7
+2344,Merced County,CA,2021-05,344458,Merced County,CA,849,CA,9.8
+2345,Marin County,CA,2021-05,1374742,Marin County,CA,561,CA,4.3
+2346,Butte County,CA,2021-05,371563,Butte County,CA,625,CA,6.5
+2347,Yolo County,CA,2021-05,538361,Yolo County,CA,388,CA,5.5
+2348,El Dorado County,CA,2021-05,595615,El Dorado County,CA,905,CA,5.5
+2349,Shasta County,CA,2021-05,334784,Shasta County,CA,341,CA,6.3
+2350,Imperial County,CA,2021-05,281953,Imperial County,CA,247,CA,16.1
+2351,Kings County,CA,2021-05,277751,Kings County,CA,411,CA,9.1
+2352,Madera County,CA,2021-05,332360,Madera County,CA,534,CA,8.3
+2353,Napa County,CA,2021-05,804728,Napa County,CA,391,CA,5.6
+2354,Humboldt County,CA,2021-05,374714,Humboldt County,CA,142,CA,5.7
+2355,Nevada County,CA,2021-05,602198,Nevada County,CA,751,CA,5.4
+2356,Sutter County,CA,2021-05,371449,Sutter County,CA,237,CA,8.6
+2357,Mendocino County,CA,2021-05,470022,Mendocino County,CA,301,CA,5.9
+2358,Yuba County,CA,2021-05,336678,Yuba County,CA,272,CA,8.2
+2359,Lake County,CA,2021-05,297582,Lake County,CA,438,CA,6.9
+2360,Tehama County,CA,2021-05,276994,Tehama County,CA,288,CA,6.8
+2361,Tuolumne County,CA,2021-05,332853,Tuolumne County,CA,453,CA,6.8
+2362,San Benito County,CA,2021-05,733835,,,,CA,7.1
+2363,Calaveras County,CA,2021-05,401097,,,,CA,5.3
+2364,Siskiyou County,CA,2021-05,243788,,,,CA,7
+2365,Amador County,CA,2021-05,361426,,,,CA,6.3
+2366,Lassen County,CA,2021-05,200571,,,,CA,5.3
+2367,Del Norte County,CA,2021-05,294125,,,,CA,7.4
+2368,Glenn County,CA,2021-05,289546,,,,CA,6.3
+2369,Colusa County,CA,2021-05,284910,,,,CA,11.2
+2370,Plumas County,CA,2021-05,313510,,,,CA,7.5
+2371,Inyo County,CA,2021-05,406551,,,,CA,5.5
+2372,Mariposa County,CA,2021-05,335005,,,,CA,7
+2373,Mono County,CA,2021-05,531347,,,,CA,7.2
+2374,Trinity County,CA,2021-05,312293,,,,CA,5.6
+2375,Modoc County,CA,2021-05,148921,,,,CA,5.8
+2376,Sierra County,CA,2021-05,280243,,,,CA,4.7
+2377,Alpine County,CA,2021-05,452950,,,,CA,9
+2378,Los Angeles County,CA,2021-06,766377,Los Angeles County,CA,17862,CA,10
+2379,San Diego County,CA,2021-06,766854,San Diego County,CA,7296,CA,7
+2380,Orange County,CA,2021-06,889158,Orange County,CA,6217,CA,6.5
+2381,Riverside County,CA,2021-06,497723,Riverside County,CA,7391,CA,7.9
+2382,San Bernardino County,CA,2021-06,446144,San Bernardino County,CA,7111,CA,8.1
+2383,Santa Clara County,CA,2021-06,1456559,Santa Clara County,CA,3236,CA,5.2
+2384,Alameda County,CA,2021-06,1095397,Alameda County,CA,1130,CA,6.6
+2385,Sacramento County,CA,2021-06,483603,Sacramento County,CA,3285,CA,7.5
+2386,Contra Costa County,CA,2021-06,850981,Contra Costa County,CA,2568,CA,7
+2387,Fresno County,CA,2021-06,331105,Fresno County,CA,1302,CA,9.5
+2388,Kern County,CA,2021-06,282934,Kern County,CA,1756,CA,10.9
+2389,Ventura County,CA,2021-06,738897,Ventura County,CA,1938,CA,6.5
+2390,San Francisco County,CA,2021-06,1469954,San Francisco County,CA,1634,CA,5.5
+2391,San Mateo County,CA,2021-06,1556884,San Mateo County,CA,1287,CA,5
+2392,San Joaquin County,CA,2021-06,477725,San Joaquin County,CA,1591,CA,9.2
+2393,Stanislaus County,CA,2021-06,402987,Stanislaus County,CA,1084,CA,8.9
+2394,Sonoma County,CA,2021-06,743270,Sonoma County,CA,1378,CA,5.8
+2395,Tulare County,CA,2021-06,278638,Tulare County,CA,1059,CA,11.1
+2396,Santa Barbara County,CA,2021-06,778872,Santa Barbara County,CA,845,CA,5.9
+2397,Monterey County,CA,2021-06,720493,Monterey County,CA,716,CA,7.4
+2398,Solano County,CA,2021-06,535815,Solano County,CA,861,CA,7.8
+2399,Placer County,CA,2021-06,622643,Placer County,CA,1409,CA,5.5
+2400,San Luis Obispo County,CA,2021-06,734222,San Luis Obispo County,CA,918,CA,5.9
+2401,Santa Cruz County,CA,2021-06,1075879,Santa Cruz County,CA,515,CA,6.9
+2402,Merced County,CA,2021-06,350964,Merced County,CA,877,CA,10.8
+2403,Marin County,CA,2021-06,1405228,Marin County,CA,587,CA,4.8
+2404,Butte County,CA,2021-06,376676,Butte County,CA,650,CA,7.3
+2405,Yolo County,CA,2021-06,547183,Yolo County,CA,395,CA,6.1
+2406,El Dorado County,CA,2021-06,613040,El Dorado County,CA,970,CA,6.1
+2407,Shasta County,CA,2021-06,342128,Shasta County,CA,395,CA,7
+2408,Imperial County,CA,2021-06,288495,Imperial County,CA,240,CA,17.8
+2409,Kings County,CA,2021-06,282180,Kings County,CA,400,CA,10.3
+2410,Madera County,CA,2021-06,339054,Madera County,CA,550,CA,9.2
+2411,Napa County,CA,2021-06,826233,Napa County,CA,425,CA,6.1
+2412,Humboldt County,CA,2021-06,382920,Humboldt County,CA,153,CA,6.5
+2413,Nevada County,CA,2021-06,615083,Nevada County,CA,798,CA,6
+2414,Sutter County,CA,2021-06,381690,Sutter County,CA,250,CA,9.1
+2415,Mendocino County,CA,2021-06,469475,Mendocino County,CA,326,CA,6.4
+2416,Yuba County,CA,2021-06,343780,Yuba County,CA,302,CA,8.9
+2417,Lake County,CA,2021-06,303448,Lake County,CA,504,CA,7.5
+2418,Tehama County,CA,2021-06,286753,Tehama County,CA,268,CA,7.6
+2419,Tuolumne County,CA,2021-06,343995,Tuolumne County,CA,494,CA,7.5
+2420,San Benito County,CA,2021-06,754481,,,,CA,7.6
+2421,Calaveras County,CA,2021-06,413351,,,,CA,5.8
+2422,Siskiyou County,CA,2021-06,247537,,,,CA,7.8
+2423,Amador County,CA,2021-06,365184,,,,CA,7
+2424,Lassen County,CA,2021-06,203683,,,,CA,5.7
+2425,Del Norte County,CA,2021-06,298427,,,,CA,7.9
+2426,Glenn County,CA,2021-06,294011,,,,CA,7.1
+2427,Colusa County,CA,2021-06,289276,,,,CA,11.9
+2428,Plumas County,CA,2021-06,318143,,,,CA,7.7
+2429,Inyo County,CA,2021-06,412439,,,,CA,6
+2430,Mariposa County,CA,2021-06,339959,,,,CA,7.1
+2431,Mono County,CA,2021-06,539349,,,,CA,7.6
+2432,Trinity County,CA,2021-06,316905,,,,CA,5.7
+2433,Modoc County,CA,2021-06,151076,,,,CA,6
+2434,Sierra County,CA,2021-06,285102,,,,CA,5
+2435,Alpine County,CA,2021-06,460228,,,,CA,8.9
+2436,Los Angeles County,CA,2021-07,786335,Los Angeles County,CA,17873,CA,9.6
+2437,San Diego County,CA,2021-07,790916,San Diego County,CA,7393,CA,6.9
+2438,Orange County,CA,2021-07,912526,Orange County,CA,6127,CA,6.3
+2439,Riverside County,CA,2021-07,514899,Riverside County,CA,8190,CA,7.9
+2440,San Bernardino County,CA,2021-07,458026,San Bernardino County,CA,7394,CA,7.9
+2441,Santa Clara County,CA,2021-07,1494823,Santa Clara County,CA,3109,CA,4.9
+2442,Alameda County,CA,2021-07,1129370,Alameda County,CA,1201,CA,6.5
+2443,Sacramento County,CA,2021-07,496927,Sacramento County,CA,3416,CA,7.3
+2444,Contra Costa County,CA,2021-07,883669,Contra Costa County,CA,2677,CA,6.8
+2445,Fresno County,CA,2021-07,340438,Fresno County,CA,1386,CA,9.3
+2446,Kern County,CA,2021-07,289466,Kern County,CA,1918,CA,10.7
+2447,Ventura County,CA,2021-07,760962,Ventura County,CA,1932,CA,6.4
+2448,San Francisco County,CA,2021-07,1498409,San Francisco County,CA,1540,CA,5.2
+2449,San Mateo County,CA,2021-07,1589481,San Mateo County,CA,1259,CA,4.8
+2450,San Joaquin County,CA,2021-07,497071,San Joaquin County,CA,1720,CA,9
+2451,Stanislaus County,CA,2021-07,414884,Stanislaus County,CA,1167,CA,8.4
+2452,Sonoma County,CA,2021-07,756529,Sonoma County,CA,1398,CA,5.6
+2453,Tulare County,CA,2021-07,286249,Tulare County,CA,1074,CA,11.2
+2454,Santa Barbara County,CA,2021-07,806027,Santa Barbara County,CA,884,CA,5.7
+2455,Monterey County,CA,2021-07,742834,Monterey County,CA,725,CA,6.9
+2456,Solano County,CA,2021-07,550187,Solano County,CA,867,CA,7.6
+2457,Placer County,CA,2021-07,643702,Placer County,CA,1479,CA,5.3
+2458,San Luis Obispo County,CA,2021-07,751594,San Luis Obispo County,CA,895,CA,5.7
+2459,Santa Cruz County,CA,2021-07,1105077,Santa Cruz County,CA,517,CA,6.6
+2460,Merced County,CA,2021-07,357934,Merced County,CA,912,CA,10.3
+2461,Marin County,CA,2021-07,1443939,Marin County,CA,560,CA,4.5
+2462,Butte County,CA,2021-07,383703,Butte County,CA,627,CA,7.1
+2463,Yolo County,CA,2021-07,559971,Yolo County,CA,374,CA,5.9
+2464,El Dorado County,CA,2021-07,634405,El Dorado County,CA,1041,CA,5.8
+2465,Shasta County,CA,2021-07,350831,Shasta County,CA,438,CA,7
+2466,Imperial County,CA,2021-07,292968,Imperial County,CA,232,CA,19.5
+2467,Kings County,CA,2021-07,287599,Kings County,CA,413,CA,9.6
+2468,Madera County,CA,2021-07,347824,Madera County,CA,593,CA,9.1
+2469,Napa County,CA,2021-07,848727,Napa County,CA,413,CA,5.7
+2470,Humboldt County,CA,2021-07,393786,Humboldt County,CA,164,CA,6.4
+2471,Nevada County,CA,2021-07,632597,Nevada County,CA,794,CA,5.8
+2472,Sutter County,CA,2021-07,397243,Sutter County,CA,221,CA,8.5
+2473,Mendocino County,CA,2021-07,472959,Mendocino County,CA,315,CA,6.3
+2474,Yuba County,CA,2021-07,353620,Yuba County,CA,304,CA,8.8
+2475,Lake County,CA,2021-07,310036,Lake County,CA,506,CA,7.4
+2476,Tehama County,CA,2021-07,297867,Tehama County,CA,271,CA,7.5
+2477,Tuolumne County,CA,2021-07,357395,Tuolumne County,CA,493,CA,7.4
+2478,San Benito County,CA,2021-07,774598,,,,CA,7.1
+2479,Calaveras County,CA,2021-07,425363,,,,CA,5.7
+2480,Siskiyou County,CA,2021-07,252192,,,,CA,7.5
+2481,Amador County,CA,2021-07,371977,,,,CA,6.8
+2482,Lassen County,CA,2021-07,207191,,,,CA,5.7
+2483,Del Norte County,CA,2021-07,302758,,,,CA,7.5
+2484,Glenn County,CA,2021-07,299610,,,,CA,6.9
+2485,Colusa County,CA,2021-07,295090,,,,CA,10.4
+2486,Plumas County,CA,2021-07,323677,,,,CA,7.4
+2487,Inyo County,CA,2021-07,417930,,,,CA,6
+2488,Mariposa County,CA,2021-07,345334,,,,CA,6.7
+2489,Mono County,CA,2021-07,548957,,,,CA,6.8
+2490,Trinity County,CA,2021-07,322151,,,,CA,5.6
+2491,Modoc County,CA,2021-07,153442,,,,CA,6.1
+2492,Sierra County,CA,2021-07,290101,,,,CA,4.8
+2493,Alpine County,CA,2021-07,469113,,,,CA,9.5
+2494,Los Angeles County,CA,2021-08,798357,Los Angeles County,CA,18208,CA,8.9
+2495,San Diego County,CA,2021-08,805688,San Diego County,CA,7340,CA,6.6
+2496,Orange County,CA,2021-08,929705,Orange County,CA,6053,CA,6
+2497,Riverside County,CA,2021-08,530976,Riverside County,CA,7637,CA,7.6
+2498,San Bernardino County,CA,2021-08,468617,San Bernardino County,CA,7589,CA,7.6
+2499,Santa Clara County,CA,2021-08,1516229,Santa Clara County,CA,3034,CA,4.7
+2500,Alameda County,CA,2021-08,1149981,Alameda County,CA,1367,CA,6.2
+2501,Sacramento County,CA,2021-08,508428,Sacramento County,CA,3624,CA,7
+2502,Contra Costa County,CA,2021-08,901008,Contra Costa County,CA,2765,CA,6.5
+2503,Fresno County,CA,2021-08,348724,Fresno County,CA,1469,CA,8.8
+2504,Kern County,CA,2021-08,296890,Kern County,CA,2058,CA,9.9
+2505,Ventura County,CA,2021-08,777723,Ventura County,CA,1926,CA,6.2
+2506,San Francisco County,CA,2021-08,1513700,San Francisco County,CA,1415,CA,5
+2507,San Mateo County,CA,2021-08,1614271,San Mateo County,CA,1287,CA,4.6
+2508,San Joaquin County,CA,2021-08,511787,San Joaquin County,CA,1921,CA,8.5
+2509,Stanislaus County,CA,2021-08,424057,Stanislaus County,CA,1271,CA,8
+2510,Sonoma County,CA,2021-08,770465,Sonoma County,CA,1356,CA,5.3
+2511,Tulare County,CA,2021-08,293718,Tulare County,CA,1139,CA,10.6
+2512,Santa Barbara County,CA,2021-08,827713,Santa Barbara County,CA,866,CA,5.5
+2513,Monterey County,CA,2021-08,764034,Monterey County,CA,748,CA,6.4
+2514,Solano County,CA,2021-08,563559,Solano County,CA,945,CA,7.3
+2515,Placer County,CA,2021-08,662503,Placer County,CA,1465,CA,5.1
+2516,San Luis Obispo County,CA,2021-08,767367,San Luis Obispo County,CA,857,CA,5.5
+2517,Santa Cruz County,CA,2021-08,1125997,Santa Cruz County,CA,558,CA,6.2
+2518,Merced County,CA,2021-08,365347,Merced County,CA,906,CA,9.6
+2519,Marin County,CA,2021-08,1469541,Marin County,CA,546,CA,4.4
+2520,Butte County,CA,2021-08,390040,Butte County,CA,598,CA,6.8
+2521,Yolo County,CA,2021-08,575981,Yolo County,CA,427,CA,5.6
+2522,El Dorado County,CA,2021-08,652118,El Dorado County,CA,1005,CA,5.6
+2523,Shasta County,CA,2021-08,358495,Shasta County,CA,473,CA,6.5
+2524,Imperial County,CA,2021-08,296150,Imperial County,CA,241,CA,19.7
+2525,Kings County,CA,2021-08,292671,Kings County,CA,458,CA,9
+2526,Madera County,CA,2021-08,357389,Madera County,CA,641,CA,8.4
+2527,Napa County,CA,2021-08,865730,Napa County,CA,436,CA,5.4
+2528,Humboldt County,CA,2021-08,406832,Humboldt County,CA,183,CA,6.1
+2529,Nevada County,CA,2021-08,646027,Nevada County,CA,759,CA,5.5
+2530,Sutter County,CA,2021-08,410958,Sutter County,CA,210,CA,7.9
+2531,Mendocino County,CA,2021-08,482508,Mendocino County,CA,345,CA,6.1
+2532,Yuba County,CA,2021-08,364899,Yuba County,CA,318,CA,8.3
+2533,Lake County,CA,2021-08,317510,Lake County,CA,521,CA,7
+2534,Tehama County,CA,2021-08,304318,Tehama County,CA,315,CA,7
+2535,Tuolumne County,CA,2021-08,367246,Tuolumne County,CA,509,CA,7
+2536,San Benito County,CA,2021-08,801175,,,,CA,6.8
+2537,Calaveras County,CA,2021-08,437798,,,,CA,5.5
+2538,Siskiyou County,CA,2021-08,257353,,,,CA,7.2
+2539,Amador County,CA,2021-08,379758,,,,CA,6.6
+2540,Lassen County,CA,2021-08,210838,,,,CA,5.6
+2541,Del Norte County,CA,2021-08,307759,,,,CA,7.1
+2542,Glenn County,CA,2021-08,305486,,,,CA,6.9
+2543,Colusa County,CA,2021-08,301187,,,,CA,9.2
+2544,Plumas County,CA,2021-08,329748,,,,CA,8
+2545,Inyo County,CA,2021-08,424305,,,,CA,5.8
+2546,Mariposa County,CA,2021-08,351887,,,,CA,6.5
+2547,Mono County,CA,2021-08,559725,,,,CA,5.9
+2548,Trinity County,CA,2021-08,328956,,,,CA,5.3
+2549,Modoc County,CA,2021-08,155741,,,,CA,5.7
+2550,Sierra County,CA,2021-08,294729,,,,CA,4.9
+2551,Alpine County,CA,2021-08,477830,,,,CA,8.7
+2552,Los Angeles County,CA,2021-09,807005,Los Angeles County,CA,17958,CA,7.6
+2553,San Diego County,CA,2021-09,815494,San Diego County,CA,7020,CA,5.6
+2554,Orange County,CA,2021-09,940720,Orange County,CA,5733,CA,5
+2555,Riverside County,CA,2021-09,543210,Riverside County,CA,7808,CA,6.6
+2556,San Bernardino County,CA,2021-09,479858,San Bernardino County,CA,7762,CA,6.6
+2557,Santa Clara County,CA,2021-09,1522471,Santa Clara County,CA,2917,CA,3.9
+2558,Alameda County,CA,2021-09,1159312,Alameda County,CA,1372,CA,5.2
+2559,Sacramento County,CA,2021-09,518237,Sacramento County,CA,3712,CA,6.1
+2560,Contra Costa County,CA,2021-09,911751,Contra Costa County,CA,2688,CA,5.5
+2561,Fresno County,CA,2021-09,355679,Fresno County,CA,1504,CA,7.7
+2562,Kern County,CA,2021-09,303766,Kern County,CA,2091,CA,8.7
+2563,Ventura County,CA,2021-09,789025,Ventura County,CA,1925,CA,5.3
+2564,San Francisco County,CA,2021-09,1529880,San Francisco County,CA,1696,CA,4.1
+2565,San Mateo County,CA,2021-09,1630534,San Mateo County,CA,1231,CA,3.8
+2566,San Joaquin County,CA,2021-09,523051,San Joaquin County,CA,2032,CA,7.5
+2567,Stanislaus County,CA,2021-09,430926,Stanislaus County,CA,1266,CA,6.9
+2568,Sonoma County,CA,2021-09,779366,Sonoma County,CA,1310,CA,4.4
+2569,Tulare County,CA,2021-09,299301,Tulare County,CA,1190,CA,9.3
+2570,Santa Barbara County,CA,2021-09,843688,Santa Barbara County,CA,861,CA,4.6
+2571,Monterey County,CA,2021-09,777363,Monterey County,CA,736,CA,5.6
+2572,Solano County,CA,2021-09,573294,Solano County,CA,957,CA,6.4
+2573,Placer County,CA,2021-09,673966,Placer County,CA,1456,CA,4.2
+2574,San Luis Obispo County,CA,2021-09,778611,San Luis Obispo County,CA,804,CA,4.5
+2575,Santa Cruz County,CA,2021-09,1135471,Santa Cruz County,CA,512,CA,5.3
+2576,Merced County,CA,2021-09,374425,Merced County,CA,906,CA,8.2
+2577,Marin County,CA,2021-09,1485534,Marin County,CA,569,CA,3.6
+2578,Butte County,CA,2021-09,395514,Butte County,CA,614,CA,5.6
+2579,Yolo County,CA,2021-09,591299,Yolo County,CA,436,CA,4.7
+2580,El Dorado County,CA,2021-09,663921,El Dorado County,CA,914,CA,4.9
+2581,Shasta County,CA,2021-09,365043,Shasta County,CA,476,CA,5.6
+2582,Imperial County,CA,2021-09,300674,Imperial County,CA,240,CA,18.3
+2583,Kings County,CA,2021-09,297779,Kings County,CA,493,CA,7.9
+2584,Madera County,CA,2021-09,365830,Madera County,CA,683,CA,7.2
+2585,Napa County,CA,2021-09,874440,Napa County,CA,418,CA,4.5
+2586,Humboldt County,CA,2021-09,418885,Humboldt County,CA,176,CA,5
+2587,Nevada County,CA,2021-09,652930,Nevada County,CA,733,CA,4.7
+2588,Sutter County,CA,2021-09,421137,Sutter County,CA,216,CA,6.9
+2589,Mendocino County,CA,2021-09,491892,Mendocino County,CA,361,CA,5.1
+2590,Yuba County,CA,2021-09,375264,Yuba County,CA,306,CA,7.2
+2591,Lake County,CA,2021-09,323066,Lake County,CA,565,CA,6.2
+2592,Tehama County,CA,2021-09,310662,Tehama County,CA,329,CA,5.8
+2593,Tuolumne County,CA,2021-09,375952,Tuolumne County,CA,526,CA,6.1
+2594,San Benito County,CA,2021-09,822728,,,,CA,5.9
+2595,Calaveras County,CA,2021-09,451440,,,,CA,4.8
+2596,Siskiyou County,CA,2021-09,262255,,,,CA,6.2
+2597,Amador County,CA,2021-09,392469,,,,CA,5.7
+2598,Lassen County,CA,2021-09,214105,,,,CA,4.6
+2599,Del Norte County,CA,2021-09,313615,,,,CA,6.1
+2600,Glenn County,CA,2021-09,311466,,,,CA,5.6
+2601,Colusa County,CA,2021-09,307678,,,,CA,8.2
+2602,Plumas County,CA,2021-09,336254,,,,CA,6.8
+2603,Inyo County,CA,2021-09,430713,,,,CA,4.8
+2604,Mariposa County,CA,2021-09,358137,,,,CA,5.6
+2605,Mono County,CA,2021-09,570989,,,,CA,5.6
+2606,Trinity County,CA,2021-09,334926,,,,CA,4.6
+2607,Modoc County,CA,2021-09,157880,,,,CA,4.9
+2608,Sierra County,CA,2021-09,300486,,,,CA,4.3
+2609,Alpine County,CA,2021-09,486126,,,,CA,8.4
+2610,Los Angeles County,CA,2021-10,809539,Los Angeles County,CA,17613,CA,7.1
+2611,San Diego County,CA,2021-10,820274,San Diego County,CA,6505,CA,5.3
+2612,Orange County,CA,2021-10,950605,Orange County,CA,5367,CA,4.7
+2613,Riverside County,CA,2021-10,551214,Riverside County,CA,7845,CA,6.3
+2614,San Bernardino County,CA,2021-10,485508,San Bernardino County,CA,7716,CA,6.3
+2615,Santa Clara County,CA,2021-10,1531444,Santa Clara County,CA,2854,CA,3.7
+2616,Alameda County,CA,2021-10,1158168,Alameda County,CA,1315,CA,5
+2617,Sacramento County,CA,2021-10,520587,Sacramento County,CA,3610,CA,5.8
+2618,Contra Costa County,CA,2021-10,911845,Contra Costa County,CA,2712,CA,5.3
+2619,Fresno County,CA,2021-10,358681,Fresno County,CA,1458,CA,7.7
+2620,Kern County,CA,2021-10,309586,Kern County,CA,2144,CA,8.3
+2621,Ventura County,CA,2021-10,794236,Ventura County,CA,1837,CA,5
+2622,San Francisco County,CA,2021-10,1538754,San Francisco County,CA,1927,CA,3.9
+2623,San Mateo County,CA,2021-10,1646929,San Mateo County,CA,1281,CA,3.6
+2624,San Joaquin County,CA,2021-10,527012,San Joaquin County,CA,1969,CA,7.3
+2625,Stanislaus County,CA,2021-10,435944,Stanislaus County,CA,1298,CA,6.9
+2626,Sonoma County,CA,2021-10,779675,Sonoma County,CA,1239,CA,4.2
+2627,Tulare County,CA,2021-10,303753,Tulare County,CA,1181,CA,9.2
+2628,Santa Barbara County,CA,2021-10,856584,Santa Barbara County,CA,814,CA,4.4
+2629,Monterey County,CA,2021-10,785177,Monterey County,CA,715,CA,5.5
+2630,Solano County,CA,2021-10,578614,Solano County,CA,967,CA,6.1
+2631,Placer County,CA,2021-10,681407,Placer County,CA,1461,CA,4.1
+2632,San Luis Obispo County,CA,2021-10,788213,San Luis Obispo County,CA,777,CA,4.3
+2633,Santa Cruz County,CA,2021-10,1142597,Santa Cruz County,CA,468,CA,5.1
+2634,Merced County,CA,2021-10,381995,Merced County,CA,871,CA,8
+2635,Marin County,CA,2021-10,1488456,Marin County,CA,553,CA,3.4
+2636,Butte County,CA,2021-10,396704,Butte County,CA,637,CA,5.4
+2637,Yolo County,CA,2021-10,601095,Yolo County,CA,397,CA,4.6
+2638,El Dorado County,CA,2021-10,665986,El Dorado County,CA,997,CA,4.7
+2639,Shasta County,CA,2021-10,365846,Shasta County,CA,480,CA,5.4
+2640,Imperial County,CA,2021-10,303693,Imperial County,CA,230,CA,17.7
+2641,Kings County,CA,2021-10,301365,Kings County,CA,497,CA,7.8
+2642,Madera County,CA,2021-10,371997,Madera County,CA,654,CA,7.3
+2643,Napa County,CA,2021-10,875643,Napa County,CA,425,CA,4.5
+2644,Humboldt County,CA,2021-10,426856,Humboldt County,CA,180,CA,4.8
+2645,Nevada County,CA,2021-10,653475,Nevada County,CA,763,CA,4.5
+2646,Sutter County,CA,2021-10,427114,Sutter County,CA,213,CA,6.8
+2647,Mendocino County,CA,2021-10,499126,Mendocino County,CA,364,CA,5
+2648,Yuba County,CA,2021-10,382434,Yuba County,CA,308,CA,7
+2649,Lake County,CA,2021-10,327904,Lake County,CA,584,CA,6.2
+2650,Tehama County,CA,2021-10,314902,Tehama County,CA,324,CA,5.6
+2651,Tuolumne County,CA,2021-10,381536,Tuolumne County,CA,499,CA,6
+2652,San Benito County,CA,2021-10,830821,,,,CA,5.9
+2653,Calaveras County,CA,2021-10,462539,,,,CA,4.7
+2654,Siskiyou County,CA,2021-10,265397,,,,CA,6
+2655,Amador County,CA,2021-10,400472,,,,CA,5.6
+2656,Lassen County,CA,2021-10,216043,,,,CA,4.1
+2657,Del Norte County,CA,2021-10,317521,,,,CA,6
+2658,Glenn County,CA,2021-10,315749,,,,CA,5.4
+2659,Colusa County,CA,2021-10,311777,,,,CA,8.4
+2660,Plumas County,CA,2021-10,340838,,,,CA,6.8
+2661,Inyo County,CA,2021-10,435819,,,,CA,4.7
+2662,Mariposa County,CA,2021-10,363017,,,,CA,5.6
+2663,Mono County,CA,2021-10,578869,,,,CA,5.9
+2664,Trinity County,CA,2021-10,339536,,,,CA,4.6
+2665,Modoc County,CA,2021-10,159305,,,,CA,4.7
+2666,Sierra County,CA,2021-10,304791,,,,CA,4.3
+2667,Alpine County,CA,2021-10,491363,,,,CA,7.5
+2668,Los Angeles County,CA,2021-11,814096,Los Angeles County,CA,16432,CA,6.2
+2669,San Diego County,CA,2021-11,827876,San Diego County,CA,5797,CA,4.6
+2670,Orange County,CA,2021-11,963517,Orange County,CA,4679,CA,4.1
+2671,Riverside County,CA,2021-11,555648,Riverside County,CA,7615,CA,5.4
+2672,San Bernardino County,CA,2021-11,489914,San Bernardino County,CA,6948,CA,5.5
+2673,Santa Clara County,CA,2021-11,1546310,Santa Clara County,CA,2300,CA,3.1
+2674,Alameda County,CA,2021-11,1166021,Alameda County,CA,988,CA,4.3
+2675,Sacramento County,CA,2021-11,523655,Sacramento County,CA,3216,CA,5.1
+2676,Contra Costa County,CA,2021-11,917286,Contra Costa County,CA,2387,CA,4.6
+2677,Fresno County,CA,2021-11,361433,Fresno County,CA,1365,CA,7
+2678,Kern County,CA,2021-11,312989,Kern County,CA,1940,CA,7.4
+2679,Ventura County,CA,2021-11,798403,Ventura County,CA,1588,CA,4.5
+2680,San Francisco County,CA,2021-11,1547481,San Francisco County,CA,1659,CA,3.3
+2681,San Mateo County,CA,2021-11,1660895,San Mateo County,CA,1126,CA,3.1
+2682,San Joaquin County,CA,2021-11,529562,San Joaquin County,CA,1745,CA,6.6
+2683,Stanislaus County,CA,2021-11,438322,Stanislaus County,CA,1218,CA,6.2
+2684,Sonoma County,CA,2021-11,777827,Sonoma County,CA,997,CA,3.7
+2685,Tulare County,CA,2021-11,307672,Tulare County,CA,1131,CA,8.2
+2686,Santa Barbara County,CA,2021-11,868269,Santa Barbara County,CA,736,CA,3.9
+2687,Monterey County,CA,2021-11,791210,Monterey County,CA,641,CA,5.5
+2688,Solano County,CA,2021-11,582860,Solano County,CA,897,CA,5.4
+2689,Placer County,CA,2021-11,683380,Placer County,CA,1344,CA,3.5
+2690,San Luis Obispo County,CA,2021-11,799798,San Luis Obispo County,CA,676,CA,3.6
+2691,Santa Cruz County,CA,2021-11,1153856,Santa Cruz County,CA,381,CA,5
+2692,Merced County,CA,2021-11,387490,Merced County,CA,794,CA,7.6
+2693,Marin County,CA,2021-11,1496793,Marin County,CA,450,CA,2.9
+2694,Butte County,CA,2021-11,396854,Butte County,CA,575,CA,4.9
+2695,Yolo County,CA,2021-11,606839,Yolo County,CA,346,CA,4.2
+2696,El Dorado County,CA,2021-11,667148,El Dorado County,CA,930,CA,4.1
+2697,Shasta County,CA,2021-11,366634,Shasta County,CA,464,CA,4.9
+2698,Imperial County,CA,2021-11,307210,Imperial County,CA,218,CA,15.5
+2699,Kings County,CA,2021-11,305417,Kings County,CA,472,CA,7.3
+2700,Madera County,CA,2021-11,378903,Madera County,CA,617,CA,6.7
+2701,Napa County,CA,2021-11,874444,Napa County,CA,370,CA,4.2
+2702,Humboldt County,CA,2021-11,433275,Humboldt County,CA,180,CA,4.3
+2703,Nevada County,CA,2021-11,649850,Nevada County,CA,714,CA,4
+2704,Sutter County,CA,2021-11,427981,Sutter County,CA,207,CA,6.7
+2705,Mendocino County,CA,2021-11,511621,Mendocino County,CA,341,CA,4.8
+2706,Yuba County,CA,2021-11,389952,Yuba County,CA,302,CA,6.4
+2707,Lake County,CA,2021-11,332039,Lake County,CA,555,CA,5.9
+2708,Tehama County,CA,2021-11,317514,Tehama County,CA,337,CA,5.2
+2709,Tuolumne County,CA,2021-11,383196,Tuolumne County,CA,442,CA,5.4
+2710,San Benito County,CA,2021-11,836069,,,,CA,5.4
+2711,Calaveras County,CA,2021-11,469639,,,,CA,4.2
+2712,Siskiyou County,CA,2021-11,267907,,,,CA,5.8
+2713,Amador County,CA,2021-11,407849,,,,CA,5.1
+2714,Lassen County,CA,2021-11,217698,,,,CA,3.8
+2715,Del Norte County,CA,2021-11,320796,,,,CA,5.6
+2716,Glenn County,CA,2021-11,319605,,,,CA,5.1
+2717,Colusa County,CA,2021-11,315687,,,,CA,10.4
+2718,Plumas County,CA,2021-11,345020,,,,CA,7.1
+2719,Inyo County,CA,2021-11,440852,,,,CA,4.3
+2720,Mariposa County,CA,2021-11,366722,,,,CA,5.5
+2721,Mono County,CA,2021-11,585316,,,,CA,5.2
+2722,Trinity County,CA,2021-11,342567,,,,CA,4.6
+2723,Modoc County,CA,2021-11,161021,,,,CA,4.7
+2724,Sierra County,CA,2021-11,309571,,,,CA,4
+2725,Alpine County,CA,2021-11,496101,,,,CA,6.3
+2726,Los Angeles County,CA,2021-12,819459,Los Angeles County,CA,13954,CA,5.6
+2727,San Diego County,CA,2021-12,839310,San Diego County,CA,4879,CA,4.2
+2728,Orange County,CA,2021-12,981428,Orange County,CA,3844,CA,3.7
+2729,Riverside County,CA,2021-12,560078,Riverside County,CA,6760,CA,5.1
+2730,San Bernardino County,CA,2021-12,495324,San Bernardino County,CA,6107,CA,5.2
+2731,Santa Clara County,CA,2021-12,1567504,Santa Clara County,CA,1602,CA,2.9
+2732,Alameda County,CA,2021-12,1176868,Alameda County,CA,667,CA,3.9
+2733,Sacramento County,CA,2021-12,526981,Sacramento County,CA,2632,CA,4.8
+2734,Contra Costa County,CA,2021-12,926624,Contra Costa County,CA,1776,CA,4.2
+2735,Fresno County,CA,2021-12,363473,Fresno County,CA,1195,CA,7
+2736,Kern County,CA,2021-12,314722,Kern County,CA,1777,CA,7.7
+2737,Ventura County,CA,2021-12,804700,Ventura County,CA,1298,CA,4.2
+2738,San Francisco County,CA,2021-12,1554177,San Francisco County,CA,1118,CA,3
+2739,San Mateo County,CA,2021-12,1675408,San Mateo County,CA,785,CA,2.8
+2740,San Joaquin County,CA,2021-12,529889,San Joaquin County,CA,1431,CA,6.4
+2741,Stanislaus County,CA,2021-12,441789,Stanislaus County,CA,1038,CA,6.1
+2742,Sonoma County,CA,2021-12,772831,Sonoma County,CA,760,CA,3.5
+2743,Tulare County,CA,2021-12,312141,Tulare County,CA,1025,CA,8.4
+2744,Santa Barbara County,CA,2021-12,881204,Santa Barbara County,CA,662,CA,4
+2745,Monterey County,CA,2021-12,798565,Monterey County,CA,516,CA,7.2
+2746,Solano County,CA,2021-12,590571,Solano County,CA,746,CA,5.2
+2747,Placer County,CA,2021-12,688327,Placer County,CA,1113,CA,3.3
+2748,San Luis Obispo County,CA,2021-12,810754,San Luis Obispo County,CA,554,CA,3.5
+2749,Santa Cruz County,CA,2021-12,1165098,Santa Cruz County,CA,294,CA,5.4
+2750,Merced County,CA,2021-12,392653,Merced County,CA,719,CA,8.2
+2751,Marin County,CA,2021-12,1503766,Marin County,CA,300,CA,2.7
+2752,Butte County,CA,2021-12,396536,Butte County,CA,493,CA,4.8
+2753,Yolo County,CA,2021-12,611794,Yolo County,CA,270,CA,4.2
+2754,El Dorado County,CA,2021-12,668322,El Dorado County,CA,726,CA,3.9
+2755,Shasta County,CA,2021-12,368298,Shasta County,CA,407,CA,4.8
+2756,Imperial County,CA,2021-12,310335,Imperial County,CA,202,CA,14.7
+2757,Kings County,CA,2021-12,309504,Kings County,CA,408,CA,7.5
+2758,Madera County,CA,2021-12,386007,Madera County,CA,532,CA,6.7
+2759,Napa County,CA,2021-12,871827,Napa County,CA,289,CA,4.1
+2760,Humboldt County,CA,2021-12,442299,Humboldt County,CA,182,CA,4.1
+2761,Nevada County,CA,2021-12,649371,Nevada County,CA,601,CA,3.7
+2762,Sutter County,CA,2021-12,429229,Sutter County,CA,181,CA,7.1
+2763,Mendocino County,CA,2021-12,522294,Mendocino County,CA,307,CA,4.6
+2764,Yuba County,CA,2021-12,398386,Yuba County,CA,273,CA,6.2
+2765,Lake County,CA,2021-12,335428,Lake County,CA,498,CA,5.7
+2766,Tehama County,CA,2021-12,320285,Tehama County,CA,319,CA,5.1
+2767,Tuolumne County,CA,2021-12,387073,Tuolumne County,CA,376,CA,5.2
+2768,San Benito County,CA,2021-12,840748,,,,CA,5.7
+2769,Calaveras County,CA,2021-12,471189,,,,CA,3.9
+2770,Siskiyou County,CA,2021-12,271817,,,,CA,6.4
+2771,Amador County,CA,2021-12,413024,,,,CA,4.9
+2772,Lassen County,CA,2021-12,220498,,,,CA,4.1
+2773,Del Norte County,CA,2021-12,324597,,,,CA,5.3
+2774,Glenn County,CA,2021-12,324743,,,,CA,5.2
+2775,Colusa County,CA,2021-12,320368,,,,CA,11.9
+2776,Plumas County,CA,2021-12,350226,,,,CA,7.9
+2777,Inyo County,CA,2021-12,448344,,,,CA,4.1
+2778,Mariposa County,CA,2021-12,372253,,,,CA,5.5
+2779,Mono County,CA,2021-12,594271,,,,CA,4.4
+2780,Trinity County,CA,2021-12,347825,,,,CA,4.6
+2781,Modoc County,CA,2021-12,163302,,,,CA,5.1
+2782,Sierra County,CA,2021-12,314431,,,,CA,4
+2783,Alpine County,CA,2021-12,502291,,,,CA,5.7
+2784,Los Angeles County,CA,2022-01,824634,,,,,
+2785,San Diego County,CA,2022-01,859927,,,,,
+2786,Orange County,CA,2022-01,1005230,,,,,
+2787,Riverside County,CA,2022-01,571381,,,,,
+2788,San Bernardino County,CA,2022-01,502990,,,,,
+2789,Santa Clara County,CA,2022-01,1596445,,,,,
+2790,Alameda County,CA,2022-01,1196336,,,,,
+2791,Sacramento County,CA,2022-01,535554,,,,,
+2792,Contra Costa County,CA,2022-01,939798,,,,,
+2793,Fresno County,CA,2022-01,368943,,,,,
+2794,Kern County,CA,2022-01,316541,,,,,
+2795,Ventura County,CA,2022-01,816912,,,,,
+2796,San Francisco County,CA,2022-01,1558886,,,,,
+2797,San Mateo County,CA,2022-01,1694447,,,,,
+2798,San Joaquin County,CA,2022-01,533581,,,,,
+2799,Stanislaus County,CA,2022-01,444616,,,,,
+2800,Sonoma County,CA,2022-01,773355,,,,,
+2801,Tulare County,CA,2022-01,316518,,,,,
+2802,Santa Barbara County,CA,2022-01,892774,,,,,
+2803,Monterey County,CA,2022-01,804137,,,,,
+2804,Solano County,CA,2022-01,599281,,,,,
+2805,Placer County,CA,2022-01,695116,,,,,
+2806,San Luis Obispo County,CA,2022-01,823483,,,,,
+2807,Santa Cruz County,CA,2022-01,1184981,,,,,
+2808,Merced County,CA,2022-01,399559,,,,,
+2809,Marin County,CA,2022-01,1517131,,,,,
+2810,Butte County,CA,2022-01,399297,,,,,
+2811,Yolo County,CA,2022-01,614714,,,,,
+2812,El Dorado County,CA,2022-01,675046,,,,,
+2813,Shasta County,CA,2022-01,370959,,,,,
+2814,Imperial County,CA,2022-01,312755,,,,,
+2815,Kings County,CA,2022-01,314028,,,,,
+2816,Madera County,CA,2022-01,393332,,,,,
+2817,Napa County,CA,2022-01,872860,,,,,
+2818,Humboldt County,CA,2022-01,453116,,,,,
+2819,Nevada County,CA,2022-01,654230,,,,,
+2820,Sutter County,CA,2022-01,430480,,,,,
+2821,Mendocino County,CA,2022-01,527927,,,,,
+2822,Yuba County,CA,2022-01,405892,,,,,
+2823,Lake County,CA,2022-01,338730,,,,,
+2824,Tehama County,CA,2022-01,324054,,,,,
+2825,Tuolumne County,CA,2022-01,391778,,,,,
+2826,San Benito County,CA,2022-01,857043,,,,,
+2827,Calaveras County,CA,2022-01,473511,,,,,
+2828,Siskiyou County,CA,2022-01,276020,,,,,
+2829,Amador County,CA,2022-01,420252,,,,,
+2830,Lassen County,CA,2022-01,223671,,,,,
+2831,Del Norte County,CA,2022-01,330634,,,,,
+2832,Glenn County,CA,2022-01,329954,,,,,
+2833,Colusa County,CA,2022-01,325086,,,,,
+2834,Plumas County,CA,2022-01,355620,,,,,
+2835,Inyo County,CA,2022-01,456006,,,,,
+2836,Mariposa County,CA,2022-01,378308,,,,,
+2837,Mono County,CA,2022-01,603638,,,,,
+2838,Trinity County,CA,2022-01,352700,,,,,
+2839,Modoc County,CA,2022-01,165810,,,,,
+2840,Sierra County,CA,2022-01,320425,,,,,
+2841,Alpine County,CA,2022-01,508559,,,,,
+2842,Los Angeles County,CA,2022-02,833061,,,,,
+2843,San Diego County,CA,2022-02,880414,,,,,
+2844,Orange County,CA,2022-02,1027003,,,,,
+2845,Riverside County,CA,2022-02,584649,,,,,
+2846,San Bernardino County,CA,2022-02,511830,,,,,
+2847,Santa Clara County,CA,2022-02,1635654,,,,,
+2848,Alameda County,CA,2022-02,1219450,,,,,
+2849,Sacramento County,CA,2022-02,544692,,,,,
+2850,Contra Costa County,CA,2022-02,949732,,,,,
+2851,Fresno County,CA,2022-02,374618,,,,,
+2852,Kern County,CA,2022-02,321166,,,,,
+2853,Ventura County,CA,2022-02,834731,,,,,
+2854,San Francisco County,CA,2022-02,1579067,,,,,
+2855,San Mateo County,CA,2022-02,1714455,,,,,
+2856,San Joaquin County,CA,2022-02,538639,,,,,
+2857,Stanislaus County,CA,2022-02,452307,,,,,
+2858,Sonoma County,CA,2022-02,779727,,,,,
+2859,Tulare County,CA,2022-02,320140,,,,,
+2860,Santa Barbara County,CA,2022-02,906645,,,,,
+2861,Monterey County,CA,2022-02,810602,,,,,
+2862,Solano County,CA,2022-02,607574,,,,,
+2863,Placer County,CA,2022-02,707079,,,,,
+2864,San Luis Obispo County,CA,2022-02,835960,,,,,
+2865,Santa Cruz County,CA,2022-02,1219163,,,,,
+2866,Merced County,CA,2022-02,406410,,,,,
+2867,Marin County,CA,2022-02,1544782,,,,,
+2868,Butte County,CA,2022-02,404611,,,,,
+2869,Yolo County,CA,2022-02,618381,,,,,
+2870,El Dorado County,CA,2022-02,680374,,,,,
+2871,Shasta County,CA,2022-02,374868,,,,,
+2872,Imperial County,CA,2022-02,318347,,,,,
+2873,Kings County,CA,2022-02,318962,,,,,
+2874,Madera County,CA,2022-02,399657,,,,,
+2875,Napa County,CA,2022-02,886878,,,,,
+2876,Humboldt County,CA,2022-02,462754,,,,,
+2877,Nevada County,CA,2022-02,663425,,,,,
+2878,Sutter County,CA,2022-02,435704,,,,,
+2879,Mendocino County,CA,2022-02,526736,,,,,
+2880,Yuba County,CA,2022-02,411564,,,,,
+2881,Lake County,CA,2022-02,341145,,,,,
+2882,Tehama County,CA,2022-02,328317,,,,,
+2883,Tuolumne County,CA,2022-02,401385,,,,,
+2884,San Benito County,CA,2022-02,863117,,,,,
+2885,Calaveras County,CA,2022-02,475770,,,,,
+2886,Siskiyou County,CA,2022-02,279737,,,,,
+2887,Amador County,CA,2022-02,427868,,,,,
+2888,Lassen County,CA,2022-02,226636,,,,,
+2889,Del Norte County,CA,2022-02,336651,,,,,
+2890,Glenn County,CA,2022-02,334543,,,,,
+2891,Colusa County,CA,2022-02,329797,,,,,
+2892,Plumas County,CA,2022-02,360433,,,,,
+2893,Inyo County,CA,2022-02,462155,,,,,
+2894,Mariposa County,CA,2022-02,384016,,,,,
+2895,Mono County,CA,2022-02,611957,,,,,
+2896,Trinity County,CA,2022-02,357120,,,,,
+2897,Modoc County,CA,2022-02,167741,,,,,
+2898,Sierra County,CA,2022-02,325125,,,,,
+2899,Alpine County,CA,2022-02,514170,,,,,
